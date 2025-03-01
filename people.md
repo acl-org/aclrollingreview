@@ -35,7 +35,7 @@ Contact: `editors at aclrollingreview.org`
 - Sudipta Kar, Amazon (Co-Chief Technical Officer)
 - Freda Shi, University of Waterloo (Co-Chief Technical Officer)
 - Jonathan K. Kummerfeld, University of Sydney
-- Yoshitomo Matsubara, Spiffy AI
+- Yoshitomo Matsubara, Yahoo!
 - Dhruv Naik, Carnegie Mellon University
 
 Contact: `tech at aclrollingreview.org`

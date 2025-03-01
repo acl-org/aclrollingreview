@@ -166,7 +166,7 @@ Contact: `editors at aclrollingreview.org`
   <img src="images/people/yoshitomo_matsubara.jpg" alt="Yoshitomo Matsubara">
   <div>
     <a href="https://yoshitomo-matsubara.net/">Yoshitomo Matsubara</a><br>
-    Spiffy AI
+    Yahoo!
   </div>
 </div>
 
