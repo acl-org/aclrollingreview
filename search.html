@@ -7,7 +7,7 @@ permalink: /search/
 <h2>Search Results for "<span id="search-query"></span>"</h2>
 <ul id="search-results">
   {% for post in site.posts %}
-    <li class="search-item" data-title="{{ post.title | downcase }}" data-content="{{ post.content | downcase }}">
+    <li class="search-item" data-title="{{ post.title | downcase }}">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
@@ -26,12 +26,11 @@ permalink: /search/
     var searchItems = document.querySelectorAll(".search-item");
     query = query.toLowerCase();
     
-    // Filter matching posts
+    // Search only by title
     searchItems.forEach(function(item) {
       var title = item.getAttribute("data-title");
-      var content = item.getAttribute("data-content");
 
-      if (title.includes(query) || content.includes(query)) {
+      if (title.includes(query)) {
         item.style.display = "list-item";  // Show matching item
       } else {
         item.style.display = "none";  // Hide non-matching item
