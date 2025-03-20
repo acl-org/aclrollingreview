@@ -15,6 +15,23 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/ARR.png">
   {% include analytics_head.html %}
 
+<script>
+  function searchSite() {
+    var query = document.getElementById('search-input').value;
+    if (query) {
+      window.location.href = "{{ site.baseurl }}/search?q=" + encodeURIComponent(query);
+    }
+  }
+
+  function handleKeyPress(event) {
+    if (event.key === "Enter") {
+      searchSite();
+    }
+  }
+</script>
+
+
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -136,6 +153,61 @@
         padding-top: 60px;
       }
     }
+
+.search-container {
+  background: transparent;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.search-container input {
+  flex: 1;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: white;
+  color: black;
+  outline: none;
+  height: 44px;
+  font-size: 16px;
+}
+
+.search-container button {
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #575757;
+  color: white;
+  cursor: pointer;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+}
+
+@media (max-width: 768px) {
+  .search-container {
+    width: 100%;
+    max-width: 90%;
+  }
+
+  .search-container input {
+    font-size: 14px;
+    padding: 10px;
+    height: 40px;
+  }
+
+  .search-container button {
+    height: 40px;
+    padding: 10px;
+    min-width: 40px;
+  }
+}
+
   </style>
 </head>
 
@@ -186,6 +258,12 @@
       </div>
     </div>
     <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR">ARR@OpenReview</a>
+
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Search..." onkeypress="handleKeyPress(event)">
+      <button onclick="searchSite()">🔍</button>
+    </div>
+
   </nav>
 
   <div class="wrapper-container">
@@ -220,17 +298,27 @@
 
   {% include analytics.html %}
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      var menuIcon = document.getElementById('menu-icon');
-      var sidebar = document.getElementById('sidebar');
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var menuIcon = document.getElementById('menu-icon');
+    var sidebar = document.getElementById('sidebar');
+    var searchInput = document.getElementById("search-input");
 
-      menuIcon.addEventListener('click', function () {
-        sidebar.classList.toggle('active');
-        menuIcon.classList.toggle('active');
-      });
+    menuIcon.addEventListener('click', function () {
+      sidebar.classList.toggle('active');
+      menuIcon.classList.toggle('active');
     });
-  </script>
+
+    if (searchInput) {
+      searchInput.addEventListener("keypress", function(event) {
+        if (event.key === "Enter") {
+          searchSite();
+        }
+      });
+    }
+  });
+</script>
+
 </body>
 
 </html>

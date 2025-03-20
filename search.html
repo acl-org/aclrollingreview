@@ -1,0 +1,43 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+
+<h2>Search Results for "<span id="search-query"></span>"</h2>
+<ul id="search-results">
+  {% for post in site.posts %}
+    <li class="search-item" data-title="{{ post.title | downcase }}" data-content="{{ post.content | downcase }}">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<script>
+  // Get URL query parameter
+  var params = new URLSearchParams(window.location.search);
+  var query = params.get("q");
+
+  if (query) {
+    document.title = "Search Results for '" + query + "'";
+    document.getElementById("search-query").innerText = query;
+
+    // Get all search items
+    var searchItems = document.querySelectorAll(".search-item");
+    query = query.toLowerCase();
+    
+    // Filter matching posts
+    searchItems.forEach(function(item) {
+      var title = item.getAttribute("data-title");
+      var content = item.getAttribute("data-content");
+
+      if (title.includes(query) || content.includes(query)) {
+        item.style.display = "list-item";  // Show matching item
+      } else {
+        item.style.display = "none";  // Hide non-matching item
+      }
+    });
+  } else {
+    document.getElementById("search-results").innerHTML = "<li>No search query provided.</li>";
+  }
+</script>
