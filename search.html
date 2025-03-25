@@ -6,15 +6,18 @@ permalink: /search/
 
 <h2>Search Results for "<span id="search-query"></span>"</h2>
 <ul id="search-results">
-  {% for post in site.posts %}
-    <li class="search-item" data-title="{{ post.title | downcase }}">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+  {% assign all_items = site.pages | concat: site.posts %}
+  {% for item in all_items %}
+  {% if item.search_index != false %}
+  <li class="search-item" data-title="{{ item.title | downcase }}"
+    data-content="{{ item.content | strip_html | strip_newlines | downcase }}">
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+  {% endif %}
   {% endfor %}
 </ul>
 
 <script>
-  // Get URL query parameter
   var params = new URLSearchParams(window.location.search);
   var query = params.get("q");
 
@@ -22,18 +25,17 @@ permalink: /search/
     document.title = "Search Results for '" + query + "'";
     document.getElementById("search-query").innerText = query;
 
-    // Get all search items
     var searchItems = document.querySelectorAll(".search-item");
     query = query.toLowerCase();
-    
-    // Search only by title
-    searchItems.forEach(function(item) {
-      var title = item.getAttribute("data-title");
 
-      if (title.includes(query)) {
-        item.style.display = "list-item";  // Show matching item
+    searchItems.forEach(function (item) {
+      var title = item.getAttribute("data-title");
+      var content = item.getAttribute("data-content");
+
+      if (title.includes(query) || content.includes(query)) {
+        item.style.display = "list-item";
       } else {
-        item.style.display = "none";  // Hide non-matching item
+        item.style.display = "none";
       }
     });
   } else {

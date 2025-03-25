@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 permalink: /about
+search_index: true
 ---
 
 A peer review platform for the [Association for Computational Linguistics](https://aclweb.org), originally created on the basis of this [proposal](https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal).
