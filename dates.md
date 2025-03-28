@@ -14,7 +14,7 @@ The new submission dates in 2025 are as follows:
 
 | Cycle | Submission | Author Response | Cycle End |
 | :---: | :-------------: | :-------------: | :-------: |
-| Feburary 2025 | Feburary 15 | March 27 - April 1 | April 15 |
+| Feburary 2025 | Feburary 15 | March 27 - April 3 | April 15 |
 | May 2025 | May 19 | TBA | July 27 |
 | July 2025 | July 28 | TBA | October 5|
 | October 2025 | October 6 | TBA | December 14 |
