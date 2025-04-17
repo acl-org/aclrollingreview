@@ -2,6 +2,7 @@
 layout: page
 title: "Policies"
 permalink: /about/policies
+search_index: false
 ---
 
 * [ACL Policies for Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation)

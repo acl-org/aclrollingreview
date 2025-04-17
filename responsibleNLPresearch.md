@@ -74,6 +74,13 @@ Reflect on the factors that influence the performance of your approach. For exam
 - Be sure to report the language of any language data, even if it is commonly-used benchmarks.
 - Describe basic information about the data that was used, such as the domain of the text, any information about the demographics of the authors, etc.
 
+Here are some documentation toolkits you may find useful:
+
+- Data statements: https://techpolicylab.uw.edu/data-statements/
+- Model cards (Hugging Face): https://huggingface.co/docs/hub/en/model-cards
+- Dataset cards (Hugging Face): https://huggingface.co/docs/hub/en/datasets-cards
+- Datasheets for datasets: https://dl.acm.org/doi/10.1145/3458723
+
 **B6. Did you report relevant statistics like the number of examples, details of train / test / dev splits, etc. for the data that you used / created?**
 Even for commonly-used benchmark datasets, include the number of examples in train / validation / test splits, as these provide necessary context for a reader to understand experimental results. For example, small differences in accuracy on large test sets may be significant, while on small test sets they may not be.
 
@@ -127,7 +134,7 @@ For example, if you collected data via crowdsourcing, did your instructions to c
 
 ### E. Did you use AI assistants (e.g., ChatGPT, Copilot) in your research, coding, or writing?
 
-**E1. Did you include information about your use of AI assistants?**
+**E1. If you used any AI assistants, did you include information about your use?**
 
 **E1. Elaboration For Yes Or No. For yes, provide a section number. For no, justify why not.**
 
