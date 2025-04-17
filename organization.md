@@ -126,16 +126,6 @@ Contact: `editors at aclrollingreview.org`
   </div>
 </div>
 
-## Editorial Staff
-
-<div class="person" markdown="0">
-  <img src="images/people/sonakshi_chauhan.png" alt="Sonakshi Chauhan">
-  <div>
-    <a href="https://sonakshi-chauhan.ghost.io/about-me/">Sonakshi Chauhan</a><br>
-    University of Glasgow
-  </div>
-</div>
-
 ## Technical Staff
 
 <div class="person" markdown="0">
@@ -272,6 +262,16 @@ Contact: `tech at aclrollingreview.org`
 </div>
 
 Contact: `support at aclrollingreview.org`
+
+## Editorial Staff
+
+<div class="person" markdown="0">
+  <img src="images/people/sonakshi_chauhan.png" alt="Sonakshi Chauhan">
+  <div>
+    <a href="https://sonakshi-chauhan.ghost.io/about-me/">Sonakshi Chauhan</a><br>
+    University of Glasgow
+  </div>
+</div>
 
 <style>
 .person {

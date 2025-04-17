@@ -5,6 +5,13 @@ permalink: /search/
 ---
 
 <h2>Search Results for "<span id="search-query"></span>"</h2>
+
+<div class="search-preamble" style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <p style="margin: 0; color: #495057; font-size: 0.95em; line-height: 1.5;">
+    <strong style="color: #007bff;">Note:</strong> ARR has been running since March 2021, so there may be older pages with outdated information. In case of conflicts, the sources to be considered primary are the <a href="https://aclrollingreview.org/cfp" style="color: #007bff; text-decoration: underline;">CFP</a> and guidelines for <a href="https://aclrollingreview.org/authors" style="color: #007bff; text-decoration: underline;">authors</a>, <a href="https://aclrollingreview.org/reviewerguidelines" style="color: #007bff; text-decoration: underline;">reviewers</a> and <a href="https://aclrollingreview.org/acguidelines" style="color: #007bff; text-decoration: underline;">area chairs</a>. For authors we also maintain a <a href="https://aclrollingreview.org/authorchecklist" style="color: #007bff; text-decoration: underline;">submission checklist</a>.
+  </p>
+</div>
+
 <ul id="search-results">
   {% assign all_items = site.pages | concat: site.posts %}
   {% for item in all_items %}
