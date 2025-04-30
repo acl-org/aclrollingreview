@@ -1,0 +1,65 @@
+$primary-color: #fc0;
+$primary-bgcolor: rgba(55.59%, 44.41%, 0%, .4);
+$admonitions:
+    //class (type), icon filename, icon/border color, title bg color
+    ('note', 'pen-solid.svg')
+    ('abstract', 'align-left-solid.svg')
+    ('info', 'circle-info-solid.svg', '#00b0ff', '#293d52')
+    ('tip', 'fire-solid.svg', '#ff9100', '#433a38')
+    ('success', 'check-circle-solid.svg', '#00c953', '#294040')
+    ('question', 'circle-question-solid.svg', '#00b8d4', '#293e4e')
+    ('warning', 'triangle-exclamation-solid.svg', '#ff9100', '#564b3c')
+    ('failure', 'times-circle-solid.svg', '#ff5252', '#564444')
+    ('danger', 'bolt-solid.svg', '#ff1744', '#563e43')
+    ('bug', 'bug-solid.svg', '#f50057', '#553c45')
+    ('example', 'list-solid.svg', '#9e9e9e', '#4c4c4c')
+    ('quote', 'quote-right-solid.svg', '#9e9e9e', '#4c4c4c')
+;
+.admonition {
+	margin: 1.5625em 0;
+	overflow: hidden;
+	color: #808080;
+	page-break-inside: avoid;
+	background-color: #cecaca;
+	border-left: .3rem solid $primary-color;
+	border-radius: .1rem;
+}
+.admonition p {
+    padding: 0 1rem;
+}
+.admonition .admonition-title {
+    color: #ddd;
+    background-color: $primary-bgcolor;
+    font-weight: 700;
+    line-height: 3rem;
+}
+.admonition-title::before {
+    margin-right: .5rem;
+    width: 1.2rem;
+    height: 1.2rem;
+    display: inline-block;
+    content: '';
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    background-color: $primary-color;
+    vertical-align: text-bottom;
+}
+@each $name, $icon, $icon-color, $title-color in $admonitions {
+    @if $icon-color {
+        .admonition.#{$name} {
+            border-left-color: #{$icon-color};
+        }
+    }
+    @if $title-color {
+        .admonition.#{$name} .admonition-title {
+            background-color: #{$title-color};
+        }
+    }
+    .admonition.#{$name} .admonition-title::before {
+        -webkit-mask: url("/images/icons/#{$icon}") no-repeat 50% 50%;
+        mask: url("/images/icons/#{$icon}") no-repeat 50% 50%;
+        @if $icon-color {
+            background-color: #{$icon-color};
+        }
+    }
+}
