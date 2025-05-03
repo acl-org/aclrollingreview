@@ -5,17 +5,19 @@ permalink: reviewerguidelines
 redirect_from: /reviewertutorial
 ---
 
-The ARR peer review guidelines are a work-in-progress and will be updated as ARR evolves. Before starting an assignment, the reviewers should always check whether the version they are familiar with is still the current one. The biggest recent updates are marked with 🆕.
+The ARR peer review guidelines are a work-in-progress and will be updated as ARR evolves. Before starting an assignment, the reviewers should always check whether the [version](#changelog) they are familiar with is still the current one. The sections with significant recent updates are marked with 🆕.
 
-**Changelog:**
+# 🆕 ACL policy on great and irresponsible reviewers & chairs
 
-- _21.10.2024_ A major update based on ACL'23 edits (Anna Rogers, Jordan Boyd-Graber), internal ARR documentation, and [NeurIPS paper checklist](https://neurips.cc/public/guides/PaperChecklist). Includes new guidlines related to ACL [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) and [anonymity](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy) rules, guidance for requesting experiments involving closed-source LLMs, new section on common problems in NLP papers, and codes for common review issues that can be flagged by reviewers. Feedback from Michael White, Noah Smith, Mausam, Marzena Karpinska.
-- _15.05.2024_ Anonymity policy updates
-- _27.09.2023_ New reviewing page, AI question in the checklist. Comments and corrections by Aurélie Névéol, Amanda Stent, Sebastian Riedel, Preslav Nakov.
-- _10.08.2023_ Instructions on access to old reviews
-- _02.11.2021_ First version of this document (Anna Rogers, Isabelle Augenstein)
+**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference webistes, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
 
-🆕 **Review issue reporting.** Starting in October 2024, ARR will now provide the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. Since the reviewer guidelines are also used by the authors during the response period, some sections of these guidelines now have codes for review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2).
+Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](#review-issues) and [NLP papers](#paper-issues) to watch out for. If you are junior, it may be a good idea to prepare the review earlier and ask more experienced people in your network for feedback. Some ACs may also offer feedback for reviews that come in good time.
+
+**Irresponsible reviewers and chairs.** Unfortunately, with the growing number of conference submissions, there have been more and more cases where reviewers or chairs sign up for service and then simply disappear without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit (meta-)reviews that are completely unacceptable in their quality (e.g. extremely terse, unprofessional in tone, LLM-generated).
+
+Starting in October 2024, ARR provided the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. A similar functionality has now been [developed](https://aclrollingreview.org/authors#step3.2) for meta-reviews, with author issue reports viewable for senior area chairs. Since the reviewer and AC guidelines may also seen by the authors during the response period, some sections of these guidelines now have codes for (meta-)review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2) and [here](https://aclrollingreview.org/authors#step3.2).
+
+Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers may become ineligible to (re-)submit or commit their work during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference.
 
 # What are the confidentiality and anonymity rules for reviewing?
 
@@ -32,27 +34,7 @@ The ARR peer review guidelines are a work-in-progress and will be updated as ARR
 
 Hence, we ask for the following workflow: (1) read the paper and get the first impression, (2) search for related work, not deliberately trying to find that particular submission. If you become aware or can guess the authors' identity, you should disclose that in the ARR review form, which contains questions about the reviewers' knowledge of author identity. In [some cases](#expertise-and-coi-check-can-you-review-these-papers) it is appropriate to ask for a reassignment.
 
-# How to get assigned to papers that match your interests well?
-
-When you accept the invitation to review for ARR, please make sure that your **Semantic Scholar profile** is accurate and up-to-date. This information is **used in the automatic paper-reviewer matching**, so the more accurate it is, the more likely you are to get papers in your area. 
-
-Your profile should also include a link to your **DBLP page** and **author page in ACL Anthology**. This information is **used to estimate your seniority and experience with *CL conferences**, used for automatic checks of reviewers who fulfill the [reviewing workload requirement](https://aclrollingreview.org/reviewing-workload-requirement/) for the authors. We are aware that for some authors with common names there are currently some disambiguation issues; in the future ACL Anthology plans to implement ORCID integration. 
-
-Hence, after you have provided your Semantic Scholar ID and pulled in papers from DBLP, go through the papers listed in your profile. **Delete those that do not match your current expertise** (e.g. papers from long ago in areas in which you no longer work, papers that were for a side project). Also **delete any that you did not (co)author.**
-
-# How do I do X in OpenReview?
-
-We have a [tutorial](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.gf84c08a109_0_55) for performing common actions on OpenReview: viewing your current tasks, adding reviews, participating in discussion, contacting ACs. We also have a post describing the [ARR review form](https://aclrollingreview.org/reviewform) in detail.
-
-At any stage, you can view your pending tasks by logging in to OpenReview and opening the following link:
-
-https://openreview.net/group?id=aclweb.org/ACL/ARR**/&lt;YEAR>/&lt;MONTH>**/Reviewers#reviewer-tasks
-
-E.g. for NAACL 2024 cycle it is:
-
-[https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Reviewers#reviewer-tasks](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Reviewers#reviewer-tasks) 
-
-# ✅ **TASK 1. Allocate time in your calendar for reviewing and discussion**
+# ✅ **TASK 1. Allocate time in your calendar for both reviewing and discussion**
 
 When you accept the reviewing request for an ARR cycle, there will be a kick-off email from OpenReview listing the important dates for this cycle. Usually the email subject is *[ACL RR-(MONTH)] Reviewing period starts ... (DATE)*. 
 
@@ -101,6 +83,8 @@ Additionally, papers are checked by ARR for the following:
 
 * **Dual submissions.** As a rule, submissions to ARR are not supposed to be under review anywhere else (unless specific exceptions are made due to notification date overlaps). This check is done by ARR, but if we missed it, and you happen to have seen the same paper in a concurrent review cycle elsewhere — please let us know.
 * **Extremely similar submissions.** Some authors send us submissions that significantly overlap in content. ARR checks for that, and it is not very likely that two such papers get assigned to the same reviewer. Still, if you see such papers — please let us know.
+
+If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), please alert the AC and SAC and coordinate the filing of [incident report process for the publication ethics committee](/acguidelines#pec) as necessary.
 
 # ✅ **TASK 3. Write a strong review**
 
@@ -190,8 +174,7 @@ It’s possible that when using the decoding from Smith and Eisner (2006) on the
 The advantage of the last version is that it can be understood by an area chair (who has expertise in the subarea) without looking for line numbers.
 
 
-
-## **3. Check for common review issues** <span class='reviewIssue'>I2</span> <span class='reviewIssue'>I10</span>
+## 3. Check for common review issues <span class='reviewIssue'>I2</span> <span class='reviewIssue'>I10</span> {#review-issues}
 
 Judging whether a research paper is “good” is an objectively hard task, and over the past conferences, we collected a list of common problems, which is presented below. Such comments *may* point at legitimate problems with the paper, but they are not always "weaknesses". This can happen even to experienced reviewers, and it's worth checking your review for these problems before submitting.
 
@@ -306,7 +289,7 @@ If you have something like the above listed as a “weakness” of the paper, do
 
 
 
-## 🆕 4. Check for common problems in NLP papers
+## 🆕 4. Check for common problems in NLP papers {#paper-issues}
 
 As a counter to common problems with reviews, there are also common problems with NLP papers. We do ask you to watch out for these and point them out when you see them. Above all else, published research should at least be technically sound and appropriately scoped. As with the above reviewer issues, it's a case-by-case evaluation: some things in the list below may be appropriate in a given context, given that they are sufficiently motivated. We provide codes for different types of issues (e.g. M1, G2...) that can be referenced in discussions.
 
@@ -553,8 +536,27 @@ As a fresh reviewer, you should form your own opinion of the paper.  Note that y
 
 * For content-based questions (e.g., about the submissions themselves, doubts about reviewer tasks, etc.), please contact editors-in-chief at [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
 
+## Q: How to get assigned to papers that match your interests well? {#matching}
 
-## Q: What should I do if I cannot complete my assignment due to a personal emergency?
+When you accept the invitation to review for ARR, please make sure that your **Semantic Scholar profile** is accurate and up-to-date. This information is **used in the automatic paper-reviewer matching**, so the more accurate it is, the more likely you are to get papers in your area. 
+
+Your profile should also include a link to your **DBLP page** and **author page in ACL Anthology**. This information is **used to estimate your seniority and experience with *CL conferences**, used for automatic checks of reviewers who fulfill the [reviewing workload requirement](https://aclrollingreview.org/reviewing-workload-requirement/) for the authors. We are aware that for some authors with common names there are currently some disambiguation issues; in the future ACL Anthology plans to implement ORCID integration. 
+
+Hence, after you have provided your Semantic Scholar ID and pulled in papers from DBLP, go through the papers listed in your profile. **Delete those that do not match your current expertise** (e.g. papers from long ago in areas in which you no longer work, papers that were for a side project). Also **delete any that you did not (co)author.**
+
+## Q: How do I do X in OpenReview?
+
+We have a [tutorial](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.gf84c08a109_0_55) for performing common actions on OpenReview: viewing your current tasks, adding reviews, participating in discussion, contacting ACs. We also have a post describing the [ARR review form](https://aclrollingreview.org/reviewform) in detail.
+
+At any stage, you can view your pending tasks by logging in to OpenReview and opening the following link:
+
+https://openreview.net/group?id=aclweb.org/ACL/ARR**/&lt;YEAR>/&lt;MONTH>**/Reviewers#reviewer-tasks
+
+E.g. for NAACL 2024 cycle it is:
+
+[https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Reviewers#reviewer-tasks](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Reviewers#reviewer-tasks) 
+
+## Q: What should I do if I cannot complete my assignment on time due to a personal emergency? {#emergency}
 
 If your ability to complete your assignments on time has been compromised due to a personal emergency, **please reach out to your ACs and SACs as soon as possible by filling out the Emergency Declaration form on the page for each paper you are assigned to**. It is important that you use this mechanism, rather than personal emails to the chairs or editors. This form places the record of your situation in the forum, so that all chairs can see it and avoid unnecessary emails to each other. It is also used for our analysis of which reviewers received assignments and simply went missing without due warning.
 
@@ -630,6 +632,14 @@ Q: How to Request a Max Load (and Declare Unavailability) in OpenReview
 
 See [these guidelines](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit).
 
+## Changelog {#changelog}
+
+- _01.05.2025_ Updates related to the [new ACL policies](https://aclrollingreview.org/incentives2025) on incentives in peer review.
+- _21.10.2024_ A major update based on ACL'23 edits (Anna Rogers, Jordan Boyd-Graber), internal ARR documentation, and [NeurIPS paper checklist](https://neurips.cc/public/guides/PaperChecklist). Includes new guidlines related to ACL [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) and [anonymity](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy) rules, guidance for requesting experiments involving closed-source LLMs, new section on common problems in NLP papers, and codes for common review issues that can be flagged by reviewers. Feedback from Michael White, Noah Smith, Mausam, Marzena Karpinska.
+- _15.05.2024_ Anonymity policy updates
+- _27.09.2023_ New reviewing page, AI question in the checklist. Comments and corrections by Aurélie Névéol, Amanda Stent, Sebastian Riedel, Preslav Nakov.
+- _10.08.2023_ Instructions on access to old reviews
+- _02.11.2021_ First version of this document (Anna Rogers, Isabelle Augenstein)
 
 # Extra resources
 
@@ -676,3 +686,4 @@ See [these guidelines](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt0
 **NLP tool assistance in peer review**
 
 * Kuznetsov et al. (2024) What Can Natural Language Processing Do for Peer Review? [https://arxiv.org/abs/2405.06563](https://arxiv.org/abs/2405.06563) 
+

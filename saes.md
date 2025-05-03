@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Senior Area Chairs"
-permalink: /saes
-
+permalink: /sacs
+redirect_from: /saes
 ---
 - Aakanksha Naik, Allen Institute for Artificial Intelligence, National Institutes of Health
 - Alessandro Moschitti, Amazon Alexa AI

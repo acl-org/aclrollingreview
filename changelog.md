@@ -8,7 +8,6 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Currently in the pipeline
 
-* Developing a workflow for processign reported cases of [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) violations with the help of [ACL Publication Ethics Committtee](https://www.aclweb.org/portal/content/acl-publication-ethics-committee-0)
 * Improving support of the work by best paper committees
 * Improving the ethics review process integration
 * Improving reviewed paper information display for SACs
@@ -20,12 +19,21 @@ One major benefit of ARR is that we can steadily improve the peer review process
 ## May 2025
 
 * Migrating to the new 10-week cycle schedule (leads: Anna)
+* New philosophy and implementation for workload requirement, inspired by CVPR 25: [all qualified authors now expected to review](https://aclrollingreview.org/incentives2025) (leads: Jonathan, Anna, Mike)
+* Updating reviewer sign-up forms (leads: Jonathan)
+* Contributing to development of the [new policy on incentives in peer review at ARR](https://aclrollingreview.org/incentives2025) 
+* Updating openreview forms, guidelines and documentation accordingly (leads: Anna, Sarv)
 
 ## February 2025
 
-* Improving submission and review forms (leads: Anna, ACL and EMNLP PCs)
+* Optimizing the AC assignments so that each AC works with fewer SACs (leads: Freda, Harold)
+* Developing a workflow for processign reported cases of [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) violations with the help of [ACL Publication Ethics Committtee](https://www.aclweb.org/portal/content/acl-publication-ethics-committee-0) (leads: Leon, Kokil, Aoife)
+* Improving submission and review forms (leads: Anna, ACL'25 and EMNLP'25 PCs)
 * Updating the [workload requirement](_posts/2025-02-10-reviewing-workload-adjustment.md), in consultation with ACL'25 PCs (leads: Jing, Xiaodan)
 * Corresponding updates to the guidelines and email templates (leads: Anna)
+* Developing new timeline for the new 10-week cycles (leads: Anna)
+* Developing a proposal for a development server (leads: Sudipta)
+* Contributing to discussions of ACL peer review committee
 
 ## December 2024
 

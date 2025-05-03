@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Area Chairs"
-permalink: /aes
+permalink: /acs
+redirect_from: /aes
 ---
 
 - A. Seza Doğruöz, Ghent University

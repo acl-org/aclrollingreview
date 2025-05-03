@@ -32,6 +32,8 @@ As soon as you have submitted your paper, it will be considered **under review**
 
 A submission may be **desk rejected** if it does not adhere to the [CFP](/cfp) (e.g. if it is not in scope, if it violates technical submission requirements, etc.) Sometimes a violation is not immediately obvious, but does get noticed later in the cycle. Due to that, desk rejection can occur at any point in the review cycle, even after receiving initial reviews or even a meta-review. If a technical violation is discovered, the paper can be submitted afresh in the next review cycle (the desk-rejected version does not count as a prior submission). To help the authors avoid desk rejections, we compiled [a list of common problems to check before submission](/authorchecklist.md).
 
+{% include admonition.html type="warning" title="NEW IN MAY 2025!" body="ACL adopted a policy similar to CVPR 2025 policy. All qualified authors are expected to sign up to review, and the highly irresponsible reviewers may become ineligible from committing their paper(s) to EMNLP or resubmitting in the next cycle. The submitting authors should (a) make sure that all other authors are aware of this policy, and (b) check that everybody on their team(s) submits their (meta-)reviews on time and in accordance with the guidelines. After submission, all authors must complete the author registration form by May 21 2025 EoD AoE. If they get assignments, reviews must be completed by June 18, and meta-reviews - by July 15. In case of any emergencies, the chairs should be warned via the emergency declaration form. More details on the policy here: https://aclrollingreview.org/incentives2025" %}
+
 # Step 2: Respond to reviews  {#step2}
 
 ## Author response {#step2.1}

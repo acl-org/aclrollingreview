@@ -6,20 +6,24 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-From October 2022 to February 2025, ARR ran 8-week review cycles, with submission deadlines [on the 15th of every second month](/key-changes-in-the-october-cycle/). After extensive deliberation and [soliciting community feedback](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future), the  [ACL Peer Review Committee](https://www.aclweb.org/adminwiki/index.php/ACL_Peer_Review_Standing_Committee) recommended to ACL exec to switch to 10-week cycles. The new schedule will be in action, starting after February 2025 cycle. The full committtee report is available in the [adminwiki](https://www.aclweb.org/adminwiki/images/9/9e/COPR-5-cycle-report-to-publish.pdf).
+From October 2022 to February 2025, ARR ran 8-week review cycles, with submission deadlines [on the 15th of every second month](/key-changes-in-the-october-cycle/). After extensive deliberation and [soliciting community feedback](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future), the  [ACL Peer Review Committee](https://www.aclweb.org/adminwiki/index.php/ACL_Peer_Review_Standing_Committee) recommended to ACL exec to switch to 10-week cycles. The new schedule will be in action, starting in May 2025 cycle. The full committtee report is available in the [adminwiki](https://www.aclweb.org/adminwiki/images/9/9e/COPR-5-cycle-report-to-publish.pdf).
 
 This means that instead of 6 cycles a year there will generally be 5, but with more reasonable timelines for the review tasks and author response, as well as platform maintenance. It will allow the cycles to always start on Mondays, and develop a consistent schedule that clashes with weekends less (a recurrent problem in the past). In 2025, due to the switch to 10-week cycles enacted relatively late in the year, there will be 4 review cycles in total.
 
-The new submission dates in 2025 are as follows:
+This table lists all the key dates, by which the authors may need to take action, for 2025 cycles following the new schedule:
 
-| Cycle | Submission | Author Response | Cycle End |
-| :---: | :-------------: | :-------------: | :-------: |
-| Feburary 2025 | Feburary 15 | March 27 - April 3 | April 15 |
-| May 2025 | May 19 | TBA | July 27 |
-| July 2025 | July 28 | TBA | October 5|
-| October 2025 | October 6 | TBA | December 14 |
-| January 2026 | January 5 | TBA | March 15 |
+| Cycle | Submission | Reviewer registration | Reviews due | Author Response | Meta-reviews due | Cycle End |
+| :---: | :--------: | :-------------------: | :---------: | :-------------: | :-------------: | :--------: |
+| May 2025 | May 19 | May 21 | June 18 | June 26 - July 2 | July 15 | July 27 |
+| July 2025 | July 28 | July 30 | TBA | TBA | TBA | October 5|
+| October 2025 | October 6 | October 8 |  TBA | TBA | TBA | December 14 |
+| January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
 
+Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
+
+- **Reviewer registration deadline for ALL authors:** 48h after submission deadline. Not all authors will receive assignments, but non-compliant papers may be desk rejected.
+- **Review submission deadline:** this is communicated to assigned reviewers by email (planned for June 18 for EMNLP 2025). Unresponsive reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency) may be sanctioned.
+- **Meta-review deadline:** this is communicated to assigned ACs by email (planned for July 15 for EMNLP 2025). Unresponsive meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency) may be sanctioned.
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 

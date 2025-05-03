@@ -5,37 +5,36 @@ permalink: /acguidelines
 redirect_from: /aetutorial
 ---
 
-**Changelog:**
+# 🆕 ACL policy on great and irresponsible reviewers & chairs
 
-- _21.10.2024_ A major update by Anna Rogers, based on internal ARR documentation and updated [reviewer guidelines](reviewerguidelines). Input from Michael White, Viviane Moreira, Marzena Karpinska.
-- The first version of this document was authored with input from Goran Glavaš, Nathan Schneider, Amanda Stent and the ACL 2022 program chairs.
+**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference webistes, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
+
+Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](#review-issues) and [NLP papers](#paper-issues) to watch out for.When you see a problem, you can refer junior reviewers to these materials and offer feedback.
+
+**Irresponsible reviewers and chairs.** Unfortunately, with the growing number of conference submissions, there have been more and more cases where reviewers or chairs sign up for service and then simply disappear without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit (meta-)reviews that are completely unacceptable in their quality (e.g. extremely terse, unprofessional in tone, LLM-generated).
+
+Starting in October 2024, ARR provided the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. A similar functionality has now been [developed](https://aclrollingreview.org/authors#step3.2) for meta-reviews, with author issue reports viewable for senior area chairs. Since the reviewer and AC guidelines may also seen by the authors during the response period, some sections of these guidelines now have codes for (meta-)review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2) and [here](https://aclrollingreview.org/authors#step3.2).
+
+Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers may become ineligible to (re-)submit or commit their work during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference.
 
 # Area Chairs tasks and due dates
 
-ACs are instrumental in completing the review process on time and with the highest reviewing quality standards possible. ARR runs tight, 2-month review cycles, and is committed to completing all reviews on time (a complete review process means all papers have three reviews, one meta-review, and possibly ethics reviews as appropriate). The following is the top-level schedule of AC duties in a given cycle, with dates for October 2024 cycle as an example: 
-
-* **October 22 - October 28th:** Complete paper checklist; verify reviewing assignments
-* **October 30th to November 18th:** Reviewing period: monitoring incoming reviews, ongoing quality checks
-* **November 12th to 21st:** ACs check review quality and chase missing reviewers
-* **November 22nd to 25th:** Reviewer-author discussion period: monitor discussion
-* **November 28th to December 6th:** Write the meta-reviews 
-
-The exact dates for these tasks in each cycle are communicated by an email from OpenReview (OR). Usually the email subject is *[ACL RR-(MONTH)] AC kick-off email: Check paper reviewer assignments*. 
+ACs are instrumental in completing the review process on time and with the highest reviewing quality standards possible. We are committed to completing all reviews on time (a complete review process means all papers have three reviews, one meta-review, and possibly ethics reviews as appropriate). The process has been highly stressful in the past, and ARR has now switched to [10-week review cycles](https://aclrollingreview.org/dates). This is still fairly tight, but there will now be more time for author response, and the deadlines will be more aligned with week days. The exact dates for AC tasks in each cycle are communicated by an email from OpenReview (OR). Usually the email subject is *[ACL RR-(MONTH)] AC kick-off email: Check paper reviewer assignments*. 
 
 If you are new to this, a very useful source of advice for planning your time is in a [blog post by Annemarie Friederich](https://annefried.github.io/posts/2020-12-01-area_chairing). The [FAQ](#faq) in this document describes how to do common tasks in OpenReview.
 
-We apologize in advance: you might receive ARR-related correspondence redundantly and/or at inconvenient times. In our current setup, ACs are not assigned to a single track. Instead, we try to maximize the match between ACs expertise and their assigned papers. This means that you may have more than one SAC associated with you. As a result, you can receive multiple emails from different SACs, especially if you are running late on your ToDos. We are aware of this problem, and we hope to be able to do something about this in the future, but at present we do not have the technical means to prevent this. Currently, the best way to avoid multiple SACs reaching out to you would be to complete your tasks on time.
+Starting from February 2025, we have optimized AC assignments so as to minimize the number of SACs with which a given AC works. The scope of this problem should now be significantly decreased, but it is still possible that the papers in your batch are assigned to more than one SAC, and therefore you may receive communication from different SACs, especially if you are running late on your ToDos. The best way to avoid multiple SACs reaching out to you would be to complete your tasks on time.
 
-ARR is manned by people spread across the globe, and as a result, emails and deadlines sometimes fall onto time/days that are convenient for one location but not others. We kindly ask for your understanding and hope that you can still help within your own time constraints.
+We apologize in advance: you might receive ARR-related correspondence redundantly and/or at inconvenient times. ARR is manned by people spread across the globe, and as a result, emails and deadlines sometimes fall onto time/days that are convenient for one location but not others. We kindly ask for your understanding and hope that you can still help within your own time constraints.
 
-> ❗ **If at any point in the cycle you find that your ability to perform AC duties was compromised due to a personal emergency, please fill out the [Emergency Declaration form](/reviewerguidelines.md#q-what-should-i-do-if-i-cannot-complete-my-assignment-due-to-a-personal-emergency) as soon as possible.**
+> ❗ **If at any point in the cycle you find that your ability to perform AC duties was compromised due to a personal emergency, please fill out the [Emergency Declaration form](https://aclrollingreview/reviewerguidelines#emergency) on your paper(s) as soon as possible.** If there is no record in the forum, the PCs and SACs cannot all see the status and ensure that appropriate action is taken. This may get ACs flagged as 'highly irresponsible'.
 
 # ✅ **TASK 1. Initial submission checks**
 
 The first thing to check is whether you happen to know the paper and have a conflict of interest with it, or feel that it is completely out of your field of expertise. This is not a frequent phenomenon, but if it happens to you -- please reach out to your SAC and request a reassignment immediately.
 
 ## Checking reviewer assignments
-
+<!--TODO max load-->
 Check the quality of reviewer assignments and make changes if needed. When you change assignments, **please do not assign reviewers already at max load**. When you add a new reviewer to a paper, **do not forget to remove an existing reviewer**. At this point in the process, you can only use the reviewers already in the pool, and cannot bring in new reviewers.
 
 Go to your Area Chair Console for the month of your cycle. The link looks as follows: https://openreview.net/group?id=aclweb.org/ACL/ARR/YEAR/MONTH/Area_Chairs <br/> For example, October 2024 cycle AC console is at [https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Area_Chairs](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Area_Chairs)
@@ -117,6 +116,8 @@ If not, answer 'No' and please modify the assignments as described [here](#how-t
 
 Most adjustments to reviewer assignments need to happen on this stage. After ARR releases reviewer assignments, making changes will be a lot more work for you, as you would need to notify both the newly assigned and un-assigned reviewers. 
 
+If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), or a reviewer alerts you about such a suspicion, please coordinate the filing of an [incident report process for the publication ethics committee](/acguidelines#pec) as necessary, by either the reviewer, AC or the SAC. Please also leave a note about this in the forum (visible to chairs but not authors), so that there is a record of what was done.
+
 ## How to Interpret Reviewer Affinity Scores {#how-to-interpret-reviewer-affinity-scores}
 
 Affinity scores reflect just content matching of the reviewer’s own papers with the content of the submission. Aggregate scores incorporate affinity scores, track matching, and other criteria. See the table below for an interpretation of the score ranges.
@@ -182,27 +183,31 @@ To the extent possible, we ask you to do at least a surface check that **the rev
 - reviews where the low scores are not accompanied by substantial criticism 
 - reviews with blanket non-specific statements (e.g. saying "not novel" without references, 'too few experiments' without specifying what is missing, etc.) 
 - some of the [common heuristics discussed in the reviewer guidelines](https://aclrollingreview.org/reviewerguidelines#3-check-for-common-review-issues-i2-i10), such as 'this is a resource paper', 'results are not sota'. Note that it contains new instructions about requests for comparisons to the latest 'closed' models. 
-If you notice any such obvious problems, there's still time to contact the reviewer and ask them to fix them. The reviewers have been provided with extensive [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines). 
+- reviews that have clearly problematic content that is not based on sufficient understanding of the submission, and may have been LLM-generated. Neither reviewers nor ACs are supposed to rely on LLMs for content, and using commercial LLMs even for language checking also violates confidentiality rules.
 
- **What to do with problematic reviews:** unfortunately we have received quite a few reports of reviews with AI-generated content. This is a serious violation of reviewer guidelines: like authors, they can use it for assistance with language, but they bear responsibility for the content. Please check if you have anything like that in your batch, and if so - please reassign these papers to emergency reviewers. For other kinds of serious guidelines violations - e.g. dismissive or one-liner reviews - please consider the reviewer profile. Junior reviewers may be able and willing to do a better job if you ask them directly to fix a specific issue. If non-responsive, proceed with emergency reassignments.
+If you notice any such obvious problems, there's still time to contact the reviewer and ask them to fix them. Junior reviewers may be able and willing to do a better job if you ask them directly to fix a specific issue. If non-responsive, proceed with emergency reassignments. The reviewers have been provided with extensive [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines). Please check if you have anything seriously problematic in your batch, and if so - please reassign these papers to emergency reviewers. 
 
+<!--TODO-->
 In the rare cases of serious malpractice you may see reviews that are so bad that they should be removed from consideration. Please note such cases down, you will be able to specify this in the meta-review. If by the start of reviewer discussion you have any reviews that are so problematic that they should be removed, please add an official comment on them, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
 
 Between-reviewer discussion is less common on OpenReview, but if you happen to notice a case where that might be warranted (e.g. that reviewers contradict each other), you can point that out and invite them to discuss it before the start of author response. OR has a new [chat feature](#openreview--how-to-use-the-chat-feature) that may help with this.
 
-**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by filling out the [Emergency Declaration form](/reviewerguidelines.md#q-what-should-i-do-if-i-cannot-complete-my-assignment-due-to-a-personal-emergency) on the page for the paper.
+**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by filling out the [Emergency Declaration form](https://aclrollingreview/reviewerguidelines#emergency) on the page for the paper. See if there are any such declarations.
 
 You can do the following:
 
-- **Option A.** Contact the reviewers who are late, and ask when they will submit their reviews. Many are late but do submit their reviews with some chasing. From past experience, it is more effective to reach out personally by email rather than through OR. If they confirm that they will submit their reviews before the start of author response period, then there is no need to assign emergency reviewers. 
-- **Option B.** If the original reviewers are unresponsive, or they say that they cannot complete the reviews before the start of author response period, bring in emergency reviewers. **Each unresponsive reviewer should have exactly one replacement**. Many ARR cycles run at max reviewer capacity, so we cannot afford to spend more effort on one paper.
+1. Contact the reviewers who are late and have not submitted the [emergency declaration](https://aclrollingreview/reviewerguidelines#emergency), and ask when they will submit their reviews. Many are late but do submit their reviews with some chasing. From past experience, it is more effective to reach out personally by email rather than through OR. If they confirm that they will submit their reviews before the start of author response period, then there is no need to assign emergency reviewers. You can remind them of the new policy on [highly irresponsible reviewers](https://aclrollingreview.org/incentives2025).
+2. If the original reviewers have submitted the emergency declaration, or are unresponsive, or they say that they cannot complete the reviews before the start of author response period, bring in emergency reviewers. **Each unresponsive reviewer should have exactly one replacement**. Many ARR cycles run at max reviewer capacity, so we cannot afford to spend more effort on one paper.
 
-There are two ways to find and invite emergency reviewers:
+There are three ways to find and invite emergency reviewers:
 
-1. Someone in your network has verbally agreed to do a review within a day: if they’re already in the system as reviewers, go to Modify Reviewer assignments in your Area Chair console. If they’re not already in Open Review as reviewers, you can add them yourself. See screenshots for how to do this [here](#openreview-how-to-assign-reviewers). Do not remove the unresponsive reviewer; this information is collected for ARR statistics.
-2. You can use an emergency reviewer from our pool. We have already collected availability for emergency reviews. See [here](#openreview-how-to-assign-emergency-reviewers) for screenshots for how to use emergency reviewers from ARR pool. **Make sure to respect reviewers' custom max load.**
+1. **Find reviewers on OpenReview.** Once you click on “Edit Reviewers Assignments”, you will get a list of reviewers registered for this cycle. For each one, there will be 'copy email', 'invite assignment', and 'assign' buttons. It may seem intuitive to send 'invite assignment' to reviewers, but this may not be effective. A better approach is to **email them first**, choosing those who do not already have too many assignments (see their 'max load' number). Depending on the urgency, you can even email 3 or 4 at a time (remember to bcc them). You then **click on “invite assignment” only for the one who answers first**, and thank the others for volunteering. This way you end up with a responsive reviewer, which you can probably trust to submit reviews in time. **You should add only one extra reviewer to the paper**, instead of inviting 3 emergency reviewers and ending up with 6 reviewers in a single paper by accident. See [here](#openreview-how-to-assign-emergency-reviewers) for screenshots for how to use emergency reviewers from ARR pool. 
 
-After inviting, please contact the emergency reviewer personally to get an acknowledgment that they can provide the emergency review in time (within one day). 
+2. Reach out to volunteers on BlueSky or another social network with high participation of researchers. E.g. here is how one AC approached this: https://bsky.app/profile/tpimentel.bsky.social/post/3lbetra6awk25. 
+
+3. Reach out to people in your own network. If you are an AC, you probably know other people in the NLP community. You can reach out personally to specific people who you believe have the expertise for a specific paper, and ask them if they would be willing to do an emergency review. If it's a junior researcher, it is a good idea to offer to give feedback on their review, especially if it’s their first time reviewing.
+
+When you are adding someone who is not already in the reviewer pool, you can add them yourself. See screenshots for how to do this [here](#openreview-how-to-assign-reviewers). Do not remove the unresponsive reviewer; this information is collected for ARR statistics. 
 
 In some cases, the reviewers may have already reached out to us or SACs, and an emergency reviewer may have already been assigned. If you see that some of your papers suddenly have 4 reviewers, this is probably what happened. Unfortunately OR doesn't show the emergency status of such assignments. If you need to know who is the emergency reviewer, you will have to ask the reviewers directly.
 
@@ -323,6 +328,14 @@ If your question is not answered in this [FAQ](#faq):
 * For technical difficulties, errors, and generally in case of suspicious behavior of the OpenReview system, please contact the Tech team ([tech@aclrollingreview.org](mailto:tech@aclrollingreview.org));
 * For content-based questions (e.g., about the submissions themselves, doubts on AC decisions and tasks, concerns about reviewer assignments, etc.) please contact editors-in-chief at [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
 
+## [Publication ethics] How to report a publication ethics problem? {#pec}
+
+Please refer to https://www.aclweb.org/adminwiki/index.php/Process_for_ACL_Publication_Ethics_Review for the scope and process for publication ethics violations. The link to the incident report form the individual cases of suspected misconduct is before the table of contents in that page.
+
+The publication ethics review process is similar to the professional conduct committee process, and so cases may not be processed in time for a given cycle. This is to be expected; if misconduct is determined, sanctions may apply even post-publication. 
+
+If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), or a reviewer alerts you about such a suspicion, please coordinate the filing of an [incident report process for the publication ethics committee](/acguidelines#pec) as necessary, by either the reviewer, AC or the SAC. Please also leave a note about this in the forum (visible to chairs but not authors), so that there is a record of what was done.
+
 ## [OpenReview] How to create an account? 
 
 Go to [https://openreview.net/login](https://openreview.net/login) and click on **New User** to sign up for an account (associate it with the email you were invited with)
@@ -427,3 +440,8 @@ See [here](#openreview-how-to-find-emails-of-reviewers) for how to find reviewer
 
 As of January 12, 2024, the ACL has adopted a new policy on preprints. Please review the policy before flagging the paper: [https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation)
      
+# Changelog
+
+- _01.05.2024_ Update on the new ACL review incentives policies.
+- _21.10.2024_ A major update by Anna Rogers, based on internal ARR documentation and updated [reviewer guidelines](reviewerguidelines). Input from Michael White, Viviane Moreira, Marzena Karpinska.
+- The first version of this document was authored with input from Goran Glavaš, Nathan Schneider, Amanda Stent and the ACL 2022 program chairs.
