@@ -21,9 +21,9 @@ This table lists all the key dates, by which the authors may need to take action
 
 Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
 
-- **Reviewer registration deadline for ALL authors:** 48h after submission deadline. Not all authors will receive assignments, but non-compliant papers may be desk rejected.
-- **Review submission deadline:** this is communicated to assigned reviewers by email (planned for June 18 for EMNLP 2025). Unresponsive reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency) may be sanctioned.
-- **Meta-review deadline:** this is communicated to assigned ACs by email (planned for July 15 for EMNLP 2025). Unresponsive meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency) may be sanctioned.
+- **Reviewer registration deadline for ALL authors.** The registration link will be active in the [author console](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May/Authors) immediately upon paper submission. ALL authors must register. Not all authors will receive assignments, but non-compliant papers may be desk rejected.  
+- **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to EMNLP or (re-)submit in the next ARR cycle.
+- **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to EMNLP or (re-)submit in the next ARR cycle.
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
