@@ -9,15 +9,15 @@ One major benefit of ARR is that we can steadily improve the peer review process
 # Currently in the pipeline
 
 * Improving support of the work by best paper committees
-* Improving the ethics review process integration
 * Improving reviewed paper information display for SACs
-* ARR EiCs participate in the work of [ACL Standing Peer Review Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee), which is currently [considering the core design of the peer review process at ACL](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future)
+* ARR EiCs participate in the work of [ACL Standing Peer Review Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee)
 * Reviewer history (in development at OpenReview with feedback from venues using OpenReview, including ARR) (lead: Mausam)
 
 # Changelog
 
 ## May 2025
 
+* Updating [area keywords](/areas.md) (leads: Anna, Mike, EMNLP'25 PCs)
 * Migrating to the new 10-week cycle schedule (leads: Anna)
 * New philosophy and implementation for workload requirement, inspired by CVPR 25: [all qualified authors now expected to review](https://aclrollingreview.org/incentives2025) (leads: Jonathan, Anna, Mike)
 * Updating reviewer sign-up forms (leads: Jonathan)
@@ -33,7 +33,7 @@ One major benefit of ARR is that we can steadily improve the peer review process
 * Corresponding updates to the guidelines and email templates (leads: Anna)
 * Developing new timeline for the new 10-week cycles (leads: Anna)
 * Developing a proposal for a development server (leads: Sudipta)
-* Contributing to discussions of ACL peer review committee
+* Contributing to discussions of ACL peer review committee on the review incentives policies
 
 ## December 2024
 
@@ -45,7 +45,7 @@ One major benefit of ARR is that we can steadily improve the peer review process
 * Migrating internal ARR documentation (leads: Anna, Sudipta, Sonakshi)
 * Analysis of October 2024 review data (leads: Anna, Sudipta)
 * Working with incoming chairs for ACL, EMNLP and AACL 2025 to discuss and coordinate proposed further changes
-* Collaborating with the peer review committee on the proposal to change to 10-week cycles
+* Collaborating with the peer review committee with regards to [the core design of the peer review process at ACL](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future)
 * Adding a new emergency declaration form for ACs and reviewers to declare emergencies
 
 ## October 2024
