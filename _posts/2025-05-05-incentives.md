@@ -5,7 +5,7 @@ permalink: /incentives2025
 ---
 
 TLDR:
-
+https://aclrollingreview.org/incentives2025
 - All authors must complete a form to confirm their OpenReview profile is complete and they will serve if asked.
 - Any qualified author may be assigned to review. Our analysis suggests that the average review load will become lower as a result.
 - 'Qualified' means that a person has (a) at least two papers in main ACL events or Findings, plus (b) at least one more paper in the ACL Anthology or a major ML/AI venue. See the end of this post for lists of venues.
@@ -31,7 +31,7 @@ The ACL peer review committee, in coordination with EMNLP 2025, and learning fro
 
 We hope that this policy will help to engage the authors to make sure that everyone on their teams submits their (meta-)reviews on time and in accordance with guidelines, and decrease the chasing effort for the chairs. The senior authors can still [rely on and mentor secondary reviewers](https://aclrollingreview.org/reviewerguidelines#q-can-i-use-a-secondary-reviewer).
 
-**What qualifies as 'highly irresponsible'?** The EMNLP 2025 PCs will publish their initial set of criteria at https://2025.emnlp.org/reviewer-policies, based on discussion with CVPR chairs and ARR. As a quick heads-up, this policy will cover the non-submission of (meta-)reviews on time without due [warning](https://aclrollingreview/reviewerguidelines#emergency), extremely terse reviews for good-faith submissions, and egregious cases of unprofessional tone and [LLM policy](https://aclrollingreview.org/reviewerguidelines#q-can-i-use-generative-ai) violations. These criteria will be iteratively developed in future ARR cycles based on observed cases of misconduct.
+**What qualifies as 'highly irresponsible'?** The EMNLP 2025 PCs published their initial set of criteria at https://2025.emnlp.org/reviewer-policies, based on discussion with CVPR chairs and ARR. As a quick heads-up, this policy covers the non-submission of (meta-)reviews on time without due [warning](https://aclrollingreview/reviewerguidelines#emergency), extremely terse reviews for good-faith submissions, and egregious cases of unprofessional tone and [LLM policy](https://aclrollingreview.org/reviewerguidelines#q-can-i-use-generative-ai) violations. These criteria will be iteratively developed in future ARR cycles based on observed cases of misconduct.
 
 ## Reviewer recruitment
 

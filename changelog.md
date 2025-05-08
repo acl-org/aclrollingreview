@@ -4,13 +4,12 @@ title: "ARR Changelog"
 permalink: /changelog
 ---
 
-One major benefit of ARR is that we can steadily improve the peer review process. Some ideas for these changes come from the ARR team and others came from the community. This page describes what we have done and what we are working on. [This page](./future.md) lists some ideas for future work that have been suggested, and we are considering. 
+One major benefit of ARR is that we can steadily improve the peer review process. Some ideas for these changes come from the ARR team and others came from the community. This page describes what we have done and what we are working on. [This page](./future.md) lists some ideas for future work that have been suggested, and we are considering. ARR EiCs also actively participate in the work of [ACL Standing Peer Review Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee)
 
 # Currently in the pipeline
 
 * Improving support of the work by best paper committees
-* Improving reviewed paper information display for SACs
-* ARR EiCs participate in the work of [ACL Standing Peer Review Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee)
+* Improving reviewed paper information display for SACs in the commitment sites
 * Reviewer history (in development at OpenReview with feedback from venues using OpenReview, including ARR) (lead: Mausam)
 
 # Changelog
