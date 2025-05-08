@@ -5,7 +5,7 @@ permalink: /incentives2025
 ---
 
 TLDR:
-https://aclrollingreview.org/incentives2025
+
 - All authors must complete a form to confirm their OpenReview profile is complete and they will serve if asked.
 - Any qualified author may be assigned to review. Our analysis suggests that the average review load will become lower as a result.
 - 'Qualified' means that a person has (a) at least two papers in main ACL events or Findings, plus (b) at least one more paper in the ACL Anthology or a major ML/AI venue. See the end of this post for lists of venues.

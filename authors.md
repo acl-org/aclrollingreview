@@ -18,7 +18,7 @@ Some caveats:
 
 # Step 1: Submit your paper for ARR review {#step1}
 
-There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md). As part of submission, you will be asked to nominate a reviewer from the list of the authors (see the [CFP](/cfp#reviewing-requirements)).
+There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline) <!--As part of submission, you will be asked to nominate a reviewer from the list of the authors (see the [CFP](/cfp#reviewing-requirements)).-->
 
 The submission must adhere to the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj).
 
