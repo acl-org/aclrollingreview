@@ -11,9 +11,13 @@ Most questions in this checklist address the kinds of information that is often 
 
 ## Guidelines for Answering Checklist Questions
 For each question in the checklist:
-- If you answer "Yes", indicate the section(s) where the information can be found in your paper. Note that you do not need to have a separate entitled section in the paper for each of the questions. Information about limitations for instance could be part of the conclusion. Several questions can indicate the same section (for instance, citation and license for data are likely going to appear in the same (sub)section of your paper).
+
+- If you answer "Yes", indicate the section(s) where the information can be found in your paper. Note that you do not need to have a separate entitled section in the paper for each of the questions. Information about limitations for instance could be part of the conclusion. Several questions can indicate the same section (for instance, citation and license for data are likely going to appear in the same (sub)section of your paper). 
 - If you answer "No" to the question, provide a justification for why.
-The list is meant as a point of reflection for the authors. You are strongly encouraged to take a look at the checklist early on as it likely will positively influence the way you do your research and write the paper.
+
+**Submissions that do not provide either specific relevant sections or justification to the questions relevant for their research may be desk-rejected.**
+
+The list is meant as a point of reflection for the authors. You are strongly encouraged to take a look at the checklist early on as it likely will positively influence the way you do your research and write the paper. 
 
 The questions are framed in terms of transparency: "Did you include [information]?" While it is generally preferable that your paper clearly answers positively to the question, it is perfectly acceptable that it does not, provided a proper justification is given (e.g., "We were unable to find the license for the dataset we used"). Not answering positively to a question is not grounds for rejection. While the questions are phrased in a binary way, we acknowledge that the true answer is often more nuanced, so please just use your best judgement and write a justification to elaborate. All supporting evidence can appear either in the main paper or the supplemental material.
 
