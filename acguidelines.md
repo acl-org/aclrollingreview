@@ -99,7 +99,7 @@ Short papers: 4 content pages maximum, Long papers: 8 content pages maximum. Sec
  - [ ] Is the paper properly anonymized?  <br/>
 TLDR: no clear self-citations, acknowledgements, or non-anonymous repository links. Resources also shouldn't be linked from services like Dropbox, which may track who opened the links
  - [ ] Is the [Responsible Checklist](https://aclrollingreview.org/responsibleNLPresearch/) filled appropriately?  <br/>
-E.g. some authors just say 'yes' for all questions, or for questions that do not even apply to their work (e.g. 'yes' to questions about human participants when their paper doesn't involve any). For now we ask you to flag it, and starting from December 2024 such violations will qualify for desk rejections. Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). 
+Starting from December 2024, egregious violations of the checklist may qualify for desk rejections (e.g. some authors just say 'yes' for all questions, even  for questions that do not even apply to their work, or not provide any justifications when they are needed based on their responses). Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). 
  - [ ] Does the submission have [3 reviewers](#checking-reviewer-assignments)? <br/>
 We cannot afford more than 3. Please remove an assignment if you add another reviewer 
  - [ ] Are the reviewers [diverse, in regards to seniority, geographies, and institutions](#checking-reviewer-assignments)? This criterion should be respected as much as possible with the available reviewer pool.
