@@ -4,13 +4,10 @@ title: "Senior Area Chairs"
 permalink: /sacs
 redirect_from: /saes
 ---
-- Aakanksha Naik, Allen Institute for Artificial Intelligence, National Institutes of Health
 - Alessandro Moschitti, Amazon Alexa AI
 - Alessandro Sordoni, Microsoft
 - Alexander Fraser, Technical University of Munich
 - Amir Zeldes, Georgetown University
-- Andrew Drozdov, Databricks
-- Angela Fan, Facebook
 - Anya Belz, Dublin City University, University of Aberdeen
 - Arianna Bisazza, University of Groningen
 - Arkaitz Zubiaga, Queen Mary University of London
@@ -20,7 +17,6 @@ redirect_from: /saes
 - Brian Roark, Google
 - Bruno Martins, Instituto Superior Técnico
 - Cagri Coltekin, University of Tuebingen
-- Carina Silberer, University of Stuttgart, University of Stuttgart
 - Carolin Lawrence, NEC Laboratories Europe
 - Cassandra L Jacobs, State University of New York, Buffalo
 - Chloé Clavel, INRIA, Télécom Paris
@@ -31,7 +27,6 @@ redirect_from: /saes
 - Cornelia Caragea, University of Illinois, Chicago
 - DELIA IRAZU HERNANDEZ FARIAS, INAOE
 - Daisuke Kawahara, Waseda University
-- Daniel Preotiuc-Pietro, Bloomberg
 - Daniela Moctezuma, Centro de investigación en ciencias de información geoespacial
 - Danqi Chen, Department of Computer Science, Princeton University
 - David Bamman, University of California Berkeley
@@ -46,7 +41,6 @@ redirect_from: /saes
 - Diyi Yang, Stanford University
 - Ekaterina Shutova, University of Amsterdam
 - Ekaterina Vylomova, The University of Melbourne
-- Eleftheria Briakou, Google
 - Emily Prud'hommeaux, Boston College
 - Emma Strubell, Allen Institute for Artificial Intelligence, Carnegie Mellon University
 - Eugene Agichtein, Amazon, Emory University
@@ -161,7 +155,6 @@ redirect_from: /saes
 - Wasi Uddin Ahmad, NVIDIA
 - Wei Yang, ByteDance Inc.
 - Wenpeng Yin, Pennsylvania State University
-- Xiang Dai, CSIRO
 - Xiang Ren, University of Southern California
 - Xing Niu, Amazon
 - Xuanjing Huang, Fudan University
