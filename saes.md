@@ -19,7 +19,6 @@ redirect_from: /saes
 - Cagri Coltekin, University of Tuebingen
 - Carolin Lawrence, NEC Laboratories Europe
 - Cassandra L Jacobs, State University of New York, Buffalo
-- Chloé Clavel, INRIA, Télécom Paris
 - Chris Brew, Ohio State University, Columbus, Lexis Nexis
 - Cicero Nogueira dos Santos, Research, Google
 - Colin Cherry, Google
