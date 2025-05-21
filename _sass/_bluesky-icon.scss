@@ -1,0 +1,15 @@
+// Bluesky icon styles
+.svg-icon.bluesky {
+    background-image: url(/images/icons/bluesky.svg.png);
+    background-size: 32px 32px;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    transition: opacity 0.3s ease;
+    border-radius: 50%;
+    
+    &:hover {
+      opacity: 1;
+    }
+  }
+  

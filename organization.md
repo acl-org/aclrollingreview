@@ -6,7 +6,7 @@ permalink: /organization
 
 ## Support
 
-For general support regarding ARR, please contact `support at aclrollingreview.org`.
+For general support regarding ARR, please contact <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>.
 
 ## Editors in Chief
 
@@ -98,7 +98,7 @@ For general support regarding ARR, please contact `support at aclrollingreview.o
   </div>
 </div>
 
-Contact: `editors at aclrollingreview.org`
+Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>
 
 ## Ethics Chair
 
@@ -176,7 +176,7 @@ Contact: `editors at aclrollingreview.org`
   </div>
 </div>
 
-Contact: `tech at aclrollingreview.org`
+Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">tech@aclrollingreview.org</a>
 
 ## Communications/Support Team
 
@@ -261,7 +261,7 @@ Contact: `tech at aclrollingreview.org`
   </div>
 </div>
 
-Contact: `support at aclrollingreview.org`
+Contact: <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>
 
 ## Editorial Staff
 
