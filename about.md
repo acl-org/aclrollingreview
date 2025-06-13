@@ -15,4 +15,3 @@ Follow us on [Twitter](https://twitter.com/ReviewAcl) and [Facebook](https://www
 <sub>Template from [Amit Merchant](https://github.com/amitmerchant1990/reverie)</sub>
 
 <sub>Logo from [Ozan Irsoy](https://github.com/oir)</sub>
-
