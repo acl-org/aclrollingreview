@@ -192,7 +192,7 @@ In the rare cases of serious malpractice you may see reviews that are so bad tha
 
 Between-reviewer discussion is less common on OpenReview, but if you happen to notice a case where that might be warranted (e.g. that reviewers contradict each other), you can point that out and invite them to discuss it before the start of author response. OR has a new [chat feature](#openreview--how-to-use-the-chat-feature) that may help with this.
 
-**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by filling out the [Emergency Declaration form](https://aclrollingreview/reviewerguidelines#emergency) on the page for the paper. See if there are any such declarations.
+**Review chasing.** You will likely have some reviews missing by the reviews-due deadline. You can easily check which papers have missing reviewers by going to your 'Assigned submissions' list, and entering `+numOfficialReviewDone<3` in the search field. Some of them may find that they are unable to complete some or all of their reviews due to personal emergencies; in these cases we ask them to notify you as soon as possible by filling out the [Emergency Declaration form](https://aclrollingreview.org/reviewerguidelines#emergency) on the page for the paper. See if there are any such declarations.
 
 You can do the following:
 

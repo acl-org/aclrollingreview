@@ -11,12 +11,13 @@ The checklist is completed as part of the submission form. Note, prior to Februa
 Most questions in this checklist address the kinds of information that is often asked by reviewers (e.g. experimental details, annotation protocols, IRB approval, etc.). This allows the checklist to serve as a kind of FAQ for the reviewers, pre-empting questions that would otherwise be asked in the author response period. Reviewers are asked to use the checklist information as one of the factors in their evaluation.
 
 ## Guidelines for Answering Checklist Questions
+
 For each question in the checklist:
 
 - If you answer "Yes", indicate the section(s) where the information can be found in your paper. Note that you do not need to have a separate entitled section in the paper for each of the questions. Information about limitations for instance could be part of the conclusion. Several questions can indicate the same section (for instance, citation and license for data are likely going to appear in the same (sub)section of your paper). 
-- If you answer "No" to the question, provide a justification for why.
+- If you answer "No" to the question, provide a justification for why, or the missing information.
 
-**Submissions that do not provide either specific relevant sections or justification to the questions relevant for their research may be desk-rejected.**
+**Submissions that systematically fail to provide either specific relevant sections or justification to the questions relevant for their research will be desk-rejected.**
 
 The list is meant as a point of reflection for the authors. You are strongly encouraged to take a look at the checklist early on as it likely will positively influence the way you do your research and write the paper. 
 
@@ -112,6 +113,7 @@ Even for commonly-used benchmark datasets, include the number of examples in tra
 - Many research projects involve manually tuning hyperparameters until some "good" values are found, and then running a final experiment which is reported in the paper. Other projects involve using random search or grid search to find hyperparameters. In all cases, report the results of such experiments, even if they were stopped early or didn't lead to your best results, as it allows a reader to know the process necessary to get to the final result and to estimate which hyperparameters were important to tune.
 - Be sure to include the best-found hyperparameter values (e.g., learning rate, regularization, etc.) as these are critically important for others to build on your work.
 - The experimental setup should likely be described in the main body of the paper, as that is important for reviewers to understand the results, but large tables of hyperparameters or the results of hyperparameter searches could be presented in the main paper or appendix.
+- Report which dataset was used to determine the hyperparameters. Unless under special circumstances, hyperparameters should not be tuned on the evaluation (held-out) dataset.
 
 **C3. Did you report *descriptive statistics* about your results (e.g., error bars around results, summary statistics from sets of experiments), and is it transparent whether you are reporting the max, mean, etc. or just a single run?**
 
@@ -160,6 +162,8 @@ For example, if you collected data via crowdsourcing, did your instructions to c
 **E1. If you used any AI assistants, did you include information about your use?**
 
 **E1. Elaboration For Yes Or No. For yes, provide a section number, or include your elaboration directly in the checklist response. For no, justify why not.**
+
+Any use of AI assistants has to conform with the [ACL publications ethics policy](), especially with respect to authorship criteria. 
 
 **E1. Section Or Justification**
 
