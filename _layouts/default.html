@@ -80,7 +80,24 @@
       width: 100%;
     }
 
-    .sidebar a:hover {
+    /* Completely disable hover effects for dropdown buttons */
+    .sidebar .dropdown .dropbtn {
+      transition: none !important;
+    }
+    
+    .sidebar .dropdown .dropbtn:hover,
+    .sidebar .dropdown a.dropbtn:hover,
+    nav .dropdown .dropbtn:hover,
+    #sidebar .dropdown .dropbtn:hover {
+      background-color: transparent !important;
+      background: transparent !important;
+      color: #fff !important;
+      box-shadow: none !important;
+    }
+
+    /* Keep hover effect only for regular links and dropdown content links */
+    .sidebar > a:not(.dropbtn):hover,
+    .dropdown-content a:hover {
       background-color: #575757;
     }
 
@@ -98,10 +115,33 @@
       background-color: #333;
       padding: 10px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
     }
 
-    .dropdown:hover .dropdown-content {
+    .dropdown.active .dropdown-content {
       display: block;
+      max-height: 500px;
+    }
+
+    .dropbtn {
+      position: relative;
+      cursor: pointer;
+    }
+
+    .dropbtn::after {
+      content: "▼";
+      position: absolute;
+      right: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 12px;
+      transition: transform 0.3s ease;
+    }
+
+    .dropdown.active .dropbtn::after {
+      transform: translateY(-50%) rotate(180deg);
     }
 
     .dropdown-content a {
@@ -148,6 +188,12 @@
 
       .dropdown-content {
         position: static;
+        max-height: 0;
+        transition: max-height 0.3s ease;
+      }
+
+      .dropdown.active .dropdown-content {
+        max-height: 500px;
       }
 
       .wrapper-container {
@@ -227,8 +273,7 @@
         <a href="{{ site.baseurl }}/reviewing">How ARR works</a>
         <a href="{{ site.baseurl }}/cfp">Call for papers</a>
         <a href="{{ site.baseurl }}/dates">Dates & Venues</a>
-        <a href="{{ site.baseurl }}/authorchecklist">⚠ Common problems with submissions</a>
-        <a href="{{ site.baseurl }}/organizers">Information for Conference Organizers</a>
+        <a href="{{ site.baseurl }}/organizers">Information for Organizers</a>
       </div>
     </div>
     <div class="dropdown">
@@ -306,12 +351,58 @@
     var menuIcon = document.getElementById('menu-icon');
     var sidebar = document.getElementById('sidebar');
     var searchInput = document.getElementById("search-input");
+    var dropdowns = document.querySelectorAll('.dropdown');
+    var dropdownButtons = document.querySelectorAll('.dropbtn');
 
-    menuIcon.addEventListener('click', function () {
+    // Toggle main menu on click
+    menuIcon.addEventListener('click', function (e) {
+      e.stopPropagation();
       sidebar.classList.toggle('active');
       menuIcon.classList.toggle('active');
     });
 
+    // Handle dropdown menu clicks
+    dropdownButtons.forEach(function(button) {
+      button.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        
+        var dropdown = this.closest('.dropdown');
+        var isActive = dropdown.classList.contains('active');
+        
+        // Close all other dropdowns first
+        dropdowns.forEach(function(dd) {
+          dd.classList.remove('active');
+        });
+        
+        // Toggle current dropdown (open if it was closed, keep closed if it was open)
+        if (!isActive) {
+          dropdown.classList.add('active');
+        }
+      });
+    });
+
+    // Close menu and dropdowns when clicking outside
+    document.addEventListener('click', function(e) {
+      // Don't close if clicking inside the sidebar
+      if (!sidebar.contains(e.target) && !menuIcon.contains(e.target)) {
+        // Close main menu
+        sidebar.classList.remove('active');
+        menuIcon.classList.remove('active');
+        
+        // Close all dropdowns
+        dropdowns.forEach(function(dropdown) {
+          dropdown.classList.remove('active');
+        });
+      }
+    });
+
+    // Prevent closing when clicking inside sidebar (except on dropdown buttons)
+    sidebar.addEventListener('click', function(e) {
+      e.stopPropagation();
+    });
+
+    // Search functionality
     if (searchInput) {
       searchInput.addEventListener("keypress", function(event) {
         if (event.key === "Enter") {
