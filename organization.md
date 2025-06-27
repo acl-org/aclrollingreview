@@ -11,34 +11,10 @@ For general support regarding ARR, please contact <a href="mailto:support@aclrol
 ## Editors in Chief
 
 <div class="person" markdown="0">
-  <img src="images/people/mausam.jpg" alt="Mausam">
-  <div>
-    <a href="https://www.cse.iitd.ac.in/~mausam/">Mausam</a><br>
-    IIT Delhi
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/viviane_moreira.jpg" alt="Viviane Moreira">
-  <div>
-    <a href="https://www.inf.ufrgs.br/~viviane/">Viviane Moreira</a><br>
-    Universidade Federal do Rio Grande do Sul
-  </div>
-</div>
-
-<div class="person" markdown="0">
   <img src="images/people/vincent_ng.jpg" alt="Vincent Ng">
   <div>
     <a href="https://personal.utdallas.edu/~vince/">Vincent Ng</a><br>
     University of Texas at Dallas
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/vlilja_ovrelid.jpg" alt="Lilja Øvrelid">
-  <div>
-    <a href="https://www.mn.uio.no/ifi/english/people/aca/liljao/index.html">Lilja Øvrelid</a><br>
-    University of Oslo
   </div>
 </div>
 
