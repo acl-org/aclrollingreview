@@ -15,7 +15,7 @@ Since peer reviewing is not often offered as a part of PhD school curriculum, AR
 
 Starting in October 2024, ARR provided the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. A similar functionality has now been [developed](https://aclrollingreview.org/authors#step3.2) for meta-reviews, with author issue reports viewable for senior area chairs. Since the reviewer and AC guidelines may also seen by the authors during the response period, some sections of these guidelines now have codes for (meta-)review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2) and [here](https://aclrollingreview.org/authors#step3.2).
 
-Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers may become ineligible to (re-)submit or commit their work during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference.
+Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers may become ineligible to (re-)submit or commit their work during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference. After the author response period ACs can report both great and irresponsible reviews via a [new form on reviews](#review-direct-flagging) or by listing the great/irresponsible reviewers [in the meta-review form](#metareview-form-flagging).
 
 # Area Chairs tasks and due dates
 
@@ -187,8 +187,7 @@ To the extent possible, we ask you to do at least a surface check that **the rev
 
 If you notice any such obvious problems, there's still time to contact the reviewer and ask them to fix them. Junior reviewers may be able and willing to do a better job if you ask them directly to fix a specific issue. If non-responsive, proceed with emergency reassignments. The reviewers have been provided with extensive [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines). Please check if you have anything seriously problematic in your batch, and if so - please reassign these papers to emergency reviewers. 
 
-<!--TODO-->
-In the rare cases of serious malpractice you may see reviews that are so bad that they should be removed from consideration. Please note such cases down, you will be able to specify this in the meta-review. If by the start of reviewer discussion you have any reviews that are so problematic that they should be removed, please add an official comment on them, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
+In the rare cases of serious malpractice you may see reviews that are so bad that they should be removed from consideration. Please note such cases down, you will be able to [specify this in the meta-review or review rating form](#review-flagging). If by the start of reviewer discussion you have any reviews that are so problematic that they should be removed, please add an official comment on them, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
 
 Between-reviewer discussion is less common on OpenReview, but if you happen to notice a case where that might be warranted (e.g. that reviewers contradict each other), you can point that out and invite them to discuss it before the start of author response. OR has a new [chat feature](#openreview--how-to-use-the-chat-feature) that may help with this.
 
@@ -285,9 +284,13 @@ Also, keep in mind that resubmissions do not have a higher page limit for addres
 
 **Can I use AI assistants for summarizing the reviews and discussions?** Meta-reviews, discussions and reviews are confidential materials, and as such, per [ACL publication ethics policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship) they **should not be submitted to non-privacy-preserving third-party services** (i.e. those that may store and/or use input user data for third-party services). The use of privacy-preserving tools is also governed by that policy: it is permissible for language/input assistance, but you are fully responsible for the content. If you end up providing a certain recommendation because the automated summary simply missed a key aspect of reviews or author response (within the recommended discussion length), that will be your responsibility.
 
-## 🆕 Outstanding reviews and poor reviews 
+## 🆕 Outstanding reviews and unacceptable reviews {#review-flagging}
 
-**Outstanding reviewers.** If some reviewers in your batch went beyond expectations, please list them. Here is a non-exhaustive list of the kinds of service that we would like to encourage:
+### Reporting great/unacceptable reviews through the meta-review form {#metareview-form-flagging}
+
+The meta-review form contains the following text fields, where you can list the forum IDs of the great/poor reviewers.
+
+**Great reviewers.** If some reviewers in your batch went beyond expectations, please list them. Here is a non-exhaustive list of the kinds of service that we would like to encourage:
 
 * *rigorous reviewers*, e.g. when the reviewer examines the provided code, data, or references, and reports hard-to-spot issues, or invests significant effort into learning a new technique to perform a better review
 * *emergency reviewers*, done on short notice but with very high-quality
@@ -295,9 +298,17 @@ Also, keep in mind that resubmissions do not have a higher page limit for addres
 * *open-minded reviewers*, who are able to reconsider their position in the light of evidence brought in by the authors or other reviewers
 * *patient reviewers*, who were able to provide kind and helpful feedback even to low-quality submissions
 
-**Poor reviews.** If you find that some reviews provided exceptionally bad service, you can list them too. Your reasons for flagging reviewers may be serious guideline or procedural violations that were justifiably flagged by the authors, or something that only you saw and the authors did not (e.g. simply going MIA without notification). In the future OpenReview will be a persistent reviewer history feature, maybe even with some information shared across venues.
+**Unacceptable reviews.** If you find that some reviews provided exceptionally bad service, you can list them too. Your reasons for flagging reviewers may be serious guideline or procedural violations that were justifiably flagged by the authors, or something that only you saw and the authors did not (e.g. simply going MIA without notification). In the future OpenReview will be a persistent reviewer history feature, maybe even with some information shared across venues.
 
-There is also a new separate field to list the (hopefully rare) cases of reviews that are so bad that they should be disregarded and removed from OpenReview page (e.g. because they are AI-generated). Please also add an official comment on these reviews, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
+There is also a separate field to list the (hopefully rare) cases of reviews that are so bad that they should be disregarded and removed from OpenReview page (e.g. because they are AI-generated). Please also add an official comment on these reviews, addressed to chairs and authors, with the following text: *"This review does not meet the ARR quality standards, and will be disregarded in the assessment"*.
+
+### Reporting great/unacceptable reviews through reports on the reviews {#review-direct-flagging}
+
+Starting in May 2025 cycle, it is also possible to flag a review as great/unacceptable via a new form directly on the review. The effect is the same as using the meta-review form, which mechanism to use depends on whether you prefer to first synthesize all information first or to do any flagging immediately as you read the reviews.
+
+![alt_text](images/guidelines/review-rating-form.png "review rating form")
+
+A similar form will be provided to the senior area chairs and program chairs for flagging great/unacceptable meta-reviews.
 
 ## Papers with late reviews
 
