@@ -17,6 +17,9 @@ permalink: /others
 - Preslav Nakov, Mohamed Bin Zayed University of Artificial Intelligence
 - Smaranda Muresan, Columbia University
 - Sebastian Riedel, Facebook AI and University College London
+- Mausam, IIT Delhi
+- Viviane Moreira, Universidade Federal do Rio Grande do Sul
+- Lilja Øvrelid, University of Oslo
 
 ## Past Contributors to ACL Rolling Review Initiative
 
