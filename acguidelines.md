@@ -68,6 +68,8 @@ You need to perform the following checks and tasks:
 
 ## How to Check Reviewing Assignments for Resubmissions 
 
+{% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
+
 Identify resubmissions as follows: when you click on the title of a paper in the Assigned Papers tab, it brings you to a page with full details of this paper. In the *Supplementary Materials by Program Chairs Section* of this page, iff the paper is a resubmission, it will show a Previous URL link as below (there will be no such link for papers that are not a resubmission):
     
 ![alt_text](images/guidelines/2-AC-resubmission-link.png "image_tooltip"){:width="50%"}
