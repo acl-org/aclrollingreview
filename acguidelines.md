@@ -284,7 +284,7 @@ Also, keep in mind that resubmissions do not have a higher page limit for addres
 
 **Can I use AI assistants for summarizing the reviews and discussions?** Meta-reviews, discussions and reviews are confidential materials, and as such, per [ACL publication ethics policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship) they **should not be submitted to non-privacy-preserving third-party services** (i.e. those that may store and/or use input user data for third-party services). The use of privacy-preserving tools is also governed by that policy: it is permissible for language/input assistance, but you are fully responsible for the content. If you end up providing a certain recommendation because the automated summary simply missed a key aspect of reviews or author response (within the recommended discussion length), that will be your responsibility.
 
-## 🆕 Outstanding reviews and unacceptable reviews {#review-flagging}
+## 🆕 Great reviews and unacceptable reviews {#review-flagging}
 
 ### Reporting great/unacceptable reviews through the meta-review form {#metareview-form-flagging}
 

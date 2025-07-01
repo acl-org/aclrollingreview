@@ -491,6 +491,8 @@ If the paper is a resubmission, see [below](#how-to-review-resubmissions).
 
 Papers that are resubmissions have a link in the “Previous URL" field in the metadata, and it should point to the previous submission. 
 
+{% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
+
 If the authors decide to resubmit their paper to another cycle of ARR, they will have the choice to request the same or different reviewers. However, sometimes the same reviewers are not available when requested.  This leads to the following three types of reviewers for resubmissions (to be discussed in turn below):
 
 
