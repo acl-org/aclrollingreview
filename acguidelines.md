@@ -68,7 +68,6 @@ You need to perform the following checks and tasks:
 
 ## How to Check Reviewing Assignments for Resubmissions 
 
-{% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
 
 Identify resubmissions as follows: when you click on the title of a paper in the Assigned Papers tab, it brings you to a page with full details of this paper. In the *Supplementary Materials by Program Chairs Section* of this page, iff the paper is a resubmission, it will show a Previous URL link as below (there will be no such link for papers that are not a resubmission):
     
@@ -77,6 +76,8 @@ Identify resubmissions as follows: when you click on the title of a paper in the
 (The presence of the link indicates resubmission)
 
 Click the “previous url” link to see the original reviewers. **It is important to check that the same past reviewers have been assigned to this resubmission**, unless the authors requested new reviewers. 
+
+{% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
 
 The paper reviewer matching algorithm should do this for reviewers in the pool. But we still request your help double-checking that this is the case. If the original reviewers were not assigned, and the authors didn’t request a change of reviewers, we need your assistance in reassigning the same reviewers to the paper. There are several possible scenarios:
 
