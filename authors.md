@@ -60,7 +60,6 @@ All back-and-forth comments can be made until a final deadline, after which the 
 
 **Q: Is it a good idea to press reviewers to raise their scores if I believe my response addressed their concerns? If they don’t, is that grounds for a confidential comment to the AC?** You can ask politely to change the evaluation if your response addressed the reviewer’s concern, but pressing them is probably not a good idea. Also, the reviewer may simply not be convinced by your arguments, and hence no, it’s not automatically grounds for flagging the issue to the AC.
 
-
 ## 🆕 Review issue reporting {#step2.2}
 
 After the author discussion period ends, you will have a new option to report review issues. It is a new form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
@@ -95,7 +94,11 @@ You have several choices for the next step of the paper:
 Considerations:
 
 - Reviewer feedback and scores do not directly indicate whether the paper will be accepted if committed to a venue. In general, it is expected that reviews that are very positive on the whole will most likely lead to acceptance, and reviews that are negative on the whole will most likely lead to rejection. There are no guarantees, however: the program committee members making the acceptance/rejection decision will consider the totality of the reviews and pool of committed papers while drawing on their own expertise and editorial preferences. See [sec. 7 of ACL'23 report](https://aclanthology.org/2023.acl-long.911/) for analysis of the effect of reviews, meta-reviews, and SAC recommendations on the final decision.
-- Different venues (e.g., main conferences vs. workshops) that consider ARR-reviewed papers may have different qualitative thresholds for acceptance.
+- Different venues (e.g., main conferences vs. workshops) that consider ARR-reviewed papers may have different qualitative thresholds and editorial priorities for acceptance.
+
+**Q: A review we received was amazingly helpful, how can I reach out to the reviewer for collaboration?**
+
+A: Reach out to the ARR editors (`editors@aclrollingreview.org`), specifying the forum link and the reviewer ID. We will reach out on your behalf, and if the reviewer agrees, put you in touch with them.
 
 ## 🆕 Meta-review issue reporting {#step3.2}
 
