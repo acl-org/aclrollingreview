@@ -223,6 +223,16 @@ At this stage, the authors are the main drivers of the discussion, and you do no
 
 If you are not yet familiar with OR interface, instructions for submitting the meta-reviews are [here](#openreview-how-to-submit-meta-review).
 
+## Resolving any disagreements between reviewers via reviewer discussion {#reviewer-discussion}
+
+During the author-reviewer discussion, the reviewers engage primarily with the authors. They may also see each other's reviews, and (if it was a resubmission) potentially the reviews from the previous round. But they often take no action to indicate whether they did see the prior reviews, or whether those reviews affected their own position. As an area chair, the job of writing the meta-review will often be easier for you if the reviewers first come to a clear recommendation among themselves.
+
+To facilitate that, we recommend that you read all the reviews as well as any author review issue reports as soon as they are finalized, and if you see big points of disagreement where you would prefer that the reviewers came to an agreement, you can initiate a discussion between reviewers by posting a new official comment on the forum, with the reviewers and chairs (but not authors) as readers. This is the most likely to be productive if you specify the point(s) for the specific paper, which you would like the reviewers to discuss and to come to an agreement.
+
+Another point that would make the meta-review job easier is if you see that the authors provided a reasonable response to the reviewer(s), but the reviewer(s) did not change their assessment and did not specify why. Please ask the reviewers to specify why they were not satisfied with the response, as this will help you make a more informed stance in your own recommendation. 
+
+If the authors submitted a review issue report and you find the complaint justified, please raise that with the reviewer(s) as well, referencing the reviewer guidelines as needed. Reviewer-chair discussion can also be used to provide feedback to reviewers, so that the next time their reviews would not have the same issues.
+
 ## Meta-review form 
 
 Generally, a meta-review is a summary of the reviews, discussions, and author response, providing a recommendation to the chairs. It should state the most prominent strengths and weaknesses of the submission, and it should explicitly judge whether the former outweighs the latter (or vice-versa). It should help the **authors** figure out what type of revision (if any) they should aim for, and it should help the **chairs** make accept/reject decisions. Like reviews, meta-reviews should be [specific](https://aclrollingreview.org/reviewerguidelines#2-be-specific-i1) (especially about the recommended revisions), and [professional in tone](https://aclrollingreview.org/reviewerguidelines#6-check-that-the-tone-is-professional-and-neutral-i4) (rather than rude/dismissive).
