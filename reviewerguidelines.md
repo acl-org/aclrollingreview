@@ -282,6 +282,12 @@ Judging whether a research paper is “good” is an objectively hard task, and 
    <td>No paper is perfect, and most *CL venues now require a Limitations section. A good review should not just take the limitations and list them as weaknesses or reasons to reject. If the reviewer wishes to argue that acknowledged limitations completely invalidate the work, this should be appropriately motivated.
    </td>
   </tr>
+  <tr>
+   <td>H17. Citation count != validity
+   </td>
+   <td> Most papers, especially those published outside of the famous research groups, receive relatively few citations. This does not entail that the results in little-cited papers are not valid. If everyone builds only on a few famous papers, only a narrow range of research directions will be developed.
+   </td>
+  </tr>
 </table>
 
 
@@ -465,18 +471,15 @@ Not to mention, someone out there is reviewing your papers too. The more rude or
 
 # ✅ **TASK 4. Update your assessment after the authors’ response and discussion** <span class='reviewIssue'>I11</span>
 
-
 ## Discussion with the authors
 
-A core feature of OpenReview that was welcomed by many in *CL community is the author discussion period with the reviewers. While the reviewers are volunteers and cannot be obligated to participate, we strongly hope that you would **at least acknowledge the authors’ response**. You are probably well aware that, as an author, it is rather depressing to spend a lot of time carefully preparing responses to the reviews, only to see in the notification that the reviews did not change at all.
+A core feature of OpenReview that was welcomed by many in *CL community is the author discussion period with the reviewers. While reviewers are not obligated to participate, we ask that you **at least acknowledge the authors’ response**; in particular, we ask that you update your review taking into account any important clarifications the authors made and any violations of the reviewer guidelines the authors identified. You are probably well aware that, as an author, it is rather depressing to spend a lot of time carefully preparing responses to the reviews, only to see in the notification that the reviews did not change at all.
 
-
-* If you do read the response and do not find it convincing, please at least acknowledge it. Then the authors will at least know that their response was not convincing (rather than just not read), and that is still useful information for improving their work. <br/> 
-E.g., *Update: the authors responded, but none of the issues was addressed sufficiently to change this assessment. [ideally, say briefly what you found unconvincing]*
-* If you find that at least some of your concerns were sufficiently addressed, please update the scores/text of your review. To make it clear what the changes are, please do not just edit the old review but add in the end a short statement.  <br/>
+* If you do not find the response convincing, please explain why. Then the authors will at least know that their response was not convincing (rather than just not read), and that is still useful information for improving their work. <br/> 
+E.g., *Update: the authors responded, but none of the issues were addressed sufficiently to change my assessment [adding briefly what you found unconvincing]*
+* If you find that at least some of your concerns were sufficiently addressed, please update the scores/text of your review, according to the gravity of the resolved issues. To make it clear what the changes are, please do not just edit the old review but add in the end a short statement.  <br/>
 E.g., *Update: the issues with X and Y were resolved in the discussion, and I updated my scores*.
-* If you would like to discuss something with the authors, you are encouraged to discuss for as long as there's time, but please keep in mind that the AC is unlikely to read very long discussions (we ask them to read at least top 2 author responses per reviewer thread). We recommend asking for clarifications on the most important points first so that this information is more likely to be noticed by the AC.
-
+* If you would like to discuss something with the authors, you are encouraged to discuss it for as long as there's time, but please keep in mind that the AC is unlikely to read very long discussions (we ask them to read at least top 2 author responses per reviewer thread). We recommend asking for clarifications on the most important points first so that this information is more likely to be noticed by the AC.
 
 ## Discussion with other reviewers
 
