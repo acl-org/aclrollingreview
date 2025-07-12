@@ -75,7 +75,7 @@ Long papers must describe substantial, original, completed and unpublished work.
 
 
 * up to eight (8) pages of content
-* unlimited extra space after the conclusion for limitations (required, see below) and optionally ethical considerations
+* unlimited extra space after the conclusion for limitations (required, see below) and optional section on ethical considerations (we recommend it to be titled 'Ethical considerations')
 * plus unlimited pages of references
 
 Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected. 
@@ -88,7 +88,7 @@ Short paper submissions must describe original and unpublished work. Please note
 Short papers may consist of:
 
 * up to four (4) pages of content
-* unlimited extra space after the conclusion for limitations (required, see below) and optionally ethical considerations
+* unlimited extra space after the conclusion for limitations (required, see below) and optional section on ethical considerations (we recommend it to be titled 'Ethical considerations')
 * plus unlimited pages of references
 
 Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected.
@@ -167,7 +167,7 @@ We reserve the right to reject papers on ethical grounds, where the authors are 
 
 ### AI Writing/Coding Assistance Policy
 
-Generally, generative AI tools do not qualify for authorship. Their use for writing or coding, as well as its scope, must be disclosed in the Acknowledgements section, as well as flagged in the Responsible NLP Checklist. For coding, details may also be included in the README files.
+Generally, generative AI tools do not qualify for authorship. Their use for writing or coding, as well as its scope, must be disclosed in the Responsible NLP Checklist. Details should be included in the Acknowledgements section. For coding assistance, details may also be included in the README files.
 
 ARR follows the new [ACL Policy on AI Writing Assistance](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship), which recognizes the following cases are recognized as appropriate use of such tools:
 
