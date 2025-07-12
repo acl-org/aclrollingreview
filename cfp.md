@@ -180,7 +180,9 @@ ARR follows the new [ACL Policy on AI Writing Assistance](https://www.aclweb.org
 
 In all cases, *all* authors are fully responsible for the correctness of their methods, results, and writing. They should check for potential plagiarism, both of text and code.
 
-The text of the submissions should be addressed exclusively to the human readers. Submissions with any hidden attempts at a prompt injection will be desk rejected. 
+The full text of the submissions should be addressed exclusively to the human readers, and clearly visible to them. Submissions attempting to manipulate their machine 'readers', e.g. via prompt injections, may be desk rejected. The same goes for the camera-ready versions of papers to be published in ACL Anthology; papers with attempts at manipulation may have to be retracted. 
+
+Reviewers found to rely on generative models in violation of publication ethics policy are included under the current definition of ['highly irresponsible' reviewers](https://2025.emnlp.org/reviewer-policies), and can be [sanctioned](https://www.aclweb.org/adminwiki/images/d/d3/ACL_Peer_Review_Committee_Report2_Incentives_May_2025.pdf), including a temporary ban from (re-)submitting at ACL venues.
 
 ### Limitations (required section)
 

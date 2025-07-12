@@ -38,6 +38,7 @@ Please **check all these points in advance**, ideally at least a week. Some of t
 - [ ] The limitations section, the optional ethical considerations section, references, and appendices should be included in the pdf for the paper (not counting towards the page limit), and not be submitted as a separate PDF.
 - [ ] There are no comments or any leftover meta-text from prior revisions.
 - [ ] [Appendices are in double-column format](https://acl-org.github.io/ACLPUB/formatting.html#appendices), with the exception of math-heavy sections where single-column is needed for readability (guidelines updated in April 2025)
+- [ ] The full text of the submissions should be addressed exclusively to the human readers, and clearly visible to them. Submissions attempting to manipulate machine readers will be desk rejected.
 
 Note that any supplemental materials (code, data, appendices) should be truly supplemental; a reader should be able to understand the work from the paper alone.
 
