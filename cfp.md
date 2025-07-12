@@ -180,6 +180,7 @@ ARR follows the new [ACL Policy on AI Writing Assistance](https://www.aclweb.org
 
 In all cases, *all* authors are fully responsible for the correctness of their methods, results, and writing. They should check for potential plagiarism, both of text and code.
 
+The text of the submissions should be addressed exclusively to the human readers. Submissions with any hidden attempts at a prompt injection will be desk rejected. 
 
 ### Limitations (required section)
 
@@ -210,7 +211,7 @@ ARR provides a [submission checklist](https://aclrollingreview.org/authorcheckli
 
 Paper submissions must use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please follow the paper formatting guidelines general to “*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences.
 
-Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. All of the text of the submissions (as well as camera-ready versions of papers) should be addressed exclusively to the human readers and be clearly visible to them. Submissions with prompt injections intended to manipulate generative tools will be desk rejected. 
 
 [Here](https://aclrollingreview.org/reviewform) is the current version of the review form, and [here](https://aclrollingreview.org/actioneditorform) is the current version of the AC meta-review form. These forms will be re-assessed and updated periodically.
 
