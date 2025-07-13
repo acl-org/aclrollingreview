@@ -14,6 +14,14 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Changelog
 
+## July 2025
+
+* Multiple updates to guidelines for all stakeholders (leads: Anna, Mike)
+* Major revision of ARR guidelines for SACs and making them public (leads: Anna)
+* Grace period for fixing metadata issues after submission (leads: Freda)
+* Improvements to author process for signing up as reviewers, based on EMNLP feedback (leads: Jonathan)
+* Working with OpenReview to identify and request further improvements (leads: Mike)
+
 ## May 2025
 
 * Updating [area keywords](/areas.md) (leads: Anna, Mike, EMNLP'25 PCs)
