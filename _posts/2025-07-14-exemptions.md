@@ -4,8 +4,6 @@ title: Author reviewing exemptions from July 2025 cycle
 permalink: /exemptions2025
 ---
 
-# Author Reviewing Exemptions
-
 As discussed in the recent [policy announcement](https://aclrollingreview.org/incentives2025), we are requiring that all ARR authors must complete a form to confirm that they will serve as reviewers or ACs if asked. As the policy specifies, authors are allowed to ask for a duty exemption and provide a reason. This document  provides a categorization of acceptable and unacceptable reasons for such exemptions that will begin to be enforced starting from the July 2025 ARR cycle.
 
 While we recognize that case-by-case consideration might still be required, we provide the following as a rough guideline to inform both authors and future ARR Editors-in-Chief (and conference Program Chairs). The categories below stem from the assumption that reviewing as a service is a **mandatory part of our work as researchers** and inextricably **linked to authoring research papers**, consistent with the view that submissions foster a partnership between authors-reviewers and the conference. Most of us are busy people, but when we commit to being a co-author of a given submission, we also accept the responsibilities that come with that, and that includes budgeting the time for reviewing (or making plans with secondary reviewers). If an author is serving the same community under a different role, we consider their obligation fulfilled.  The categorization has been developed by the EMNLP 2025 PCs together with ARR, and may evolve in response to community feedback in future cycles.
