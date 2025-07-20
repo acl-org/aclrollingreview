@@ -14,7 +14,7 @@ This table lists all the key dates, by which the authors may need to take action
 
 | Cycle | Submission | Reviewer registration | Reviews due | Author Response | Meta-reviews due | Cycle End |
 | :---: | :--------: | :-------------------: | :---------: | :-------------: | :-------------: | :--------: |
-| May 2025 | May 19 | May 21 | June 18 | June 26-July 2 | July 15 | July 27 |
+| May 2025 | May 19 | May 21 | June 18 | June 26-July 2 | July 23 | July 27 |
 | July 2025 | July 28 | July 30 | September 1 | September 9-15 | September 25 | October 5 |
 | October 2025 | October 6 | October 8 |  TBA | TBA | TBA | December 14 |
 | January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
