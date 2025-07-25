@@ -610,11 +610,11 @@ You can contact your AC either directly or through OpenReview (see the OpenRevie
 
 ## Q: Can I use a secondary reviewer?
 
-Starting with the April 2024 cycle, we have rolled out a secondary reviewing feature. We understand that especially for more senior reviewers, having the ability to collaborate in reviewing the papers is convenient and helps train new reviewers. This mechanism may also be useful for the cases when a submission does not have enough qualified authors to satisfy the [reviewing requirement](https://aclrollingreview.org/reviewing-workload-requirement/), but the senior author has postdocs or other colleagues who could help.
+Starting with the April 2024 cycle, we have rolled out a secondary reviewing feature. We understand that especially for more senior reviewers, having the ability to collaborate in reviewing the papers is convenient and helps train new reviewers. 
 
 The main reviewer is still responsible for submitting the work, including the review itself, in a timely manner. They are still the point of contact for ARR, and will receive all of ARR communication. They are responsible for the quality and the sustained engagement of the secondary reviewer after author rebuttal. 
 
-There is a special 'Secondary reviewer' field in the review form that can be used to acknowledge the reviewer. It will not be visible to tje authors. Secondary reviewers will be added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates.
+There is a special 'Secondary reviewer' field in the review form that can be used to acknowledge the reviewer. It will not be visible to the authors. Secondary reviewers will be added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates.
 
 ## Q: Why is peer review so inconsistent?
 
