@@ -215,6 +215,8 @@ In some cases, the reviewers may have already reached out to us or SACs, and an 
 
 See how to contact SACs, EiCs, and reviewers [here](#openreview-how-to-contact-sacs-reviewers-eics).
 
+We recommend briefly posting any updates on the reviewer chasing/replacements on the forum pages as comments to SAC/PCs, so that they know what is the status, and do not send you unnecessary communication. 
+
 # ✅ **TASK 4. Reviewer-author discussion period**
 
 At this stage, the authors are the main drivers of the discussion, and you do not have any big tasks. Authors are not obligated to respond, but when they provide a response, the reviewers are [encouraged](https://aclrollingreview.org/reviewerguidelines#-task-4-update-your-assessment-after-the-authors-response-and-discussion-i11) (but not obligated) to at least acknowledge it. If you notice that some discussion becomes openly hostile and unprofessional, you are welcome to step in and remind the participants about the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).
