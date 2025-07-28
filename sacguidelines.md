@@ -122,7 +122,7 @@ ARR requires that each submission have at least three valid reviews. In the past
 
 Starting from October 2024, ARR has a new mechanism for authors themselves to report problematic reviews (https://aclrollingreview.org/authors#step2.2). This will facilitate your task of checking that all papers receive three reasonable reviews. In particular, we are asking you to check the cases that could qualify for ['highly irresponsible' reviewing](https://2025.emnlp.org/reviewer-policies): missing reviews, extremely terse/unprofessional reviews, reviews suspected of being AI-generated. 
 
-If you have any such cases in your batch, and you find the complaint justified, please discuss the situation with your ACs, and consider obtaining another review (find another reviewer, or have it written by the AC or yourself if you/AC haven't already done another review for the same paper). Please also make sure that either you or the AC [reports any 'highly irresponsible' reviews](https://aclrollingreview.org/acguidelines#review-direct-flagging). The PCs will consider what action to take for such reviewers.
+If you have any such cases in your batch, and you find the complaint justified, please discuss the situation with your ACs, and consider obtaining another review (find another reviewer, or have it written by the AC or yourself if you/AC haven't already done another review for the same paper). Please also make sure that either you or the AC [reports any 'highly irresponsible' reviews](https://aclrollingreview.org/acguidelines#review-direct-flagging). The PCs will consider what action to take for such reviewers. Equally important are positive incentives for the great reviewers, please be generous with recommending for awards those who do a great job.
 
 ## ✅ TASK 4: Chasing late meta-reviewers {#emergency-metareviews}
 
@@ -161,8 +161,11 @@ Usually, the 'big' tasks include:
 
 - making acceptance decisions out of the pool of accepted papers. 
 - Nominating papers for 'area chair awards': as the experts in their area, the SACs select one paper in their track, that will be given the area chair award for that track. This process is orthogonal to any best paper considerations by the best paper committee, and the award decisions are made just on the SAC authority.
+- finalizing the recommendations for the great/irresponsible reviewers and meta-reviewers
 
 ## ✅ TASK 1: Making acceptance recommendations compliant with ACL anonymity policy {#acceptance-anonymity}
+
+As you make your acceptance recommendations, please consider each paper in your batch, including any response to meta-reviews and/or meta-review issue reports submitted by the authors. As ACL community grows, there may be cases where reviewers and/or area chairs are lacking expertise or appreciation for non-mainstream types of contributions. As a senior researcher who can see a bigger batch of submissions than either area chairs or reviewers, you can see the big picture, and consider not only numerical scores or popularity, but also encouraging a diversity of perspectives, methodology, reporting of negative results.
 
 **Anonymity advantage for borderline papers.** When you make decisions for borderline papers, the new ACL policy is that [the borderline papers that were not preprinted during review have an advantage over those that were](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2). ARR submission page has a "perprint status" field that you can search for. If the authors said that they were planning or considering to release the preprint, we ask you to search for the paper and see if they did. If so, they lose the anonymity advantage.
 
@@ -170,7 +173,11 @@ Usually, the 'big' tasks include:
 
 ## ✅ TASK 2: Finalizing the reports of great/unacceptable ACs and reviewers {#incentives}
 
-`Detailed Instructions Upcoming`
+As you go through meta-reviews making your recommendations, you may notice some meta-reviews that are great and go beyond expectations, and some that fall short of them. The poor meta-reviews may be accompanied by the [meta-review issue reports](https://aclrollingreview.org/authors#step3.2) submitted by the authors; if there are any such reports, they will be under the meta-review. 
+
+You can and should mark both kinds of cases using the new button for [marking great/irresponsible meta-reviews](#metareview-quality-check). Likewise, if you consider any review material and notice something that qualifies as either great or irresponsible, you are welcome to add such [recommendations for reviewers](https://aclrollingreview.org/acguidelines#review-direct-flagging) as well.
+
+The chairs will then consider both sets of recommendations for either reviewer/meta-reviewer awards or penalties, per ACL peer review [incentives policy](https://aclrollingreview.org/incentives2025).
 
 ## ✅ TASK 3: Area chair awards for papers {#paper-awards}
 
