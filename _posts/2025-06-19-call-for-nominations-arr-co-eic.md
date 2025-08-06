@@ -25,7 +25,7 @@ ARR is a diverse team, and we are determined to keep it that way. This includes 
 
 ## Nomination procedure
 
-Nominations should be submitted via email to EiC member Jing Jiang (jing.jiang@anu.edu.au), with a Cc to EiC member Xiaodan Zhu (xiaodan.zhu@queensu.ca), by August 10th, 2025, subject line "Nomination for ARR co-EiC", and should contain the following information:
+Nominations should be submitted via email to EiC member Jing Jiang (jing.jiang@anu.edu.au), with a Cc to EiC member Xiaodan Zhu (xiaodan.zhu@queensu.ca), by August 24th, 2025, subject line "Nomination for ARR co-EiC", and should contain the following information:
 
 * Name, email address, and website of the nominee
 * If not a self-nomination, confirmation that the nominee is willing to serve (a dated excerpt of an email from the nominee suffices); if a self-nomination, a statement affirming willingness to serve.
