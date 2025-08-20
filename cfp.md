@@ -190,10 +190,11 @@ Authors are required to discuss the limitations of their work in a dedicated sec
 
 Please note that this section should not introduce new methods, analysis, or results. We reserve the right to desk reject the submissions that use this section to introduce more content that should have been part of the main paper. It can only discuss the limitations of the work presented in the main content of the paper.
 
-
 ### Reviewing Requirements
 
-Submitting to ARR comes with a reviewing requirement. Starting in May 2025, **all authors are expected to contribute to the review process**, unless an exception applies (e.g., authors new to the community, with insufficient experience, or already serving in another capacity). Papers from the teams that do not meet this requirement, and are not covered by an exception, may be desk rejected. See more details on the updated policy [here](https://aclrollingreview.org/incentives2025).
+Submitting to ARR comes with a reviewing requirement. Starting in May 2025, **all authors are expected to contribute to the review process**, unless an [exception](https://aclrollingreview.org/exemptions2025) applies (e.g., authors new to the community, with insufficient experience, or already serving in another capacity). Papers from the teams that do not meet this requirement, and are not covered by an exception, may be desk rejected. See more details on the updated policy [here](https://aclrollingreview.org/incentives2025).
+
+A large-scale conference is a community effort. Thousands of authors can only get quality reviews on time if they also provide them. Contributing to the reviewing effort is hence a prerequisite to receiving the same effort from other people (for each paper there are three reviews and meta-review, plus its share of the necessary work from the chairs, the tech team and other volunteers). Note that the paper may still be desk rejected for formatting or any other violation, including the neglect of review duties by some of the authors.
 
 All authors are expected to complete a registration form within 48h hours after submission deadline (e.g. before May 21 EoD AoE for May 2025 cycle, where the submission deadline is May 19). The registration link will be available in their console immediately after paper submission. They must have an updated OpenReview profile, including affiliation, semantic scholar link, dblp link, ACL anthology link, and an email address where they can receive OpenReview messages. See [here](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well) for how to maximize the likelihood of well-matched review assignments.
 
