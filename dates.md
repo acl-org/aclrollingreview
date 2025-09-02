@@ -15,15 +15,15 @@ This table lists all the key dates, by which the authors may need to take action
 | Cycle | Submission | Reviewer registration | Reviews due | Author Response | Meta-reviews release date | Cycle End |
 | :---: | :--------: | :-------------------: | :---------: | :-------------: | :-------------: | :--------: |
 | May 2025 | May 19 | May 21 | June 18 | June 26-July 2 | July 23 | July 27 |
-| July 2025 | July 28 | July 30 | September 1 | September 9-15 | September 25 | October 5 |
+| July 2025 | July 28 | July 30 | September 1 | September 9-15 | September 25 | October 2 |
 | October 2025 | October 6 | October 8 |  TBA | TBA | TBA | December 14 |
 | January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
 
 Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
 
 - **Reviewer registration deadline for ALL authors.** The registration link will be active in the [author console](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May/Authors) immediately upon paper submission. ALL authors must register. Not all authors will receive assignments, but non-compliant papers may be desk rejected.  
-- **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to EMNLP or (re-)submit in the next ARR cycle.
-- **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to EMNLP or (re-)submit in the next ARR cycle.
+- **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
+- **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
@@ -38,7 +38,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [NAACL 2025](https://2025.naacl.org/) | October 15, 2024 | December 16, 2024 |
 | [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 20, 2025 |
 | [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
-| AACL 2025 | July 28, 2025 | October 5, 2025 |
+| [AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/cfp_conference.html) | July 28, 2025 | October 10, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
 
