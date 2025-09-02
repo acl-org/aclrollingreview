@@ -32,7 +32,7 @@ As soon as you have submitted your paper, it will be considered **under review**
 
 A submission may be **desk rejected** if it does not adhere to the [CFP](/cfp) (e.g. if it is not in scope, if it violates technical submission requirements, etc.) Sometimes a violation is not immediately obvious, but does get noticed later in the cycle. Due to that, desk rejection can occur at any point in the review cycle, even after receiving initial reviews or even a meta-review. If a technical violation is discovered, the paper can be submitted afresh in the next review cycle (the desk-rejected version does not count as a prior submission). To help the authors avoid desk rejections, we compiled [a list of common problems to check before submission](/authorchecklist.md).
 
-{% include admonition.html type="warning" title="NEW IN MAY 2025!" body="ACL adopted a policy similar to CVPR 2025 policy. All authors are expected to sign up to review, with assignments subsequently based on qualifications. The highly irresponsible reviewers may become ineligible from committing their paper(s) to EMNLP or resubmitting in the next cycle. The submitting authors should (a) make sure that all other authors are aware of this policy, and (b) check that everybody on their team(s) submits their (meta-)reviews on time and in accordance with the guidelines. After submission, all authors must complete the author registration form by May 21 2025 EoD AoE. If they get assignments, reviews must be completed by June 18, and meta-reviews - by July 15. In case of any emergencies, the chairs should be warned via the emergency declaration form. More details on the policy here: https://aclrollingreview.org/incentives2025" %}
+{% include admonition.html type="warning" title="NEW IN MAY 2025!" body="ACL adopted a policy similar to CVPR 2025 policy. All authors are expected to sign up to review, with assignments subsequently based on qualifications. The highly irresponsible reviewers may become ineligible from committing their paper(s) to the upcoming conference or resubmitting in the next cycle. The submitting authors should (a) make sure that all other authors are aware of this policy, and (b) check that everybody on their team(s) submits their (meta-)reviews on time and in accordance with the guidelines. After submission, all authors must complete the author registration form within 48h of the deadline. If they get assignments, any assigned reviews and metareviews must be completed on time. In case of any emergencies, the chairs should be warned via the emergency declaration form. More details on the policy here: https://aclrollingreview.org/incentives2025" %}
 
 # Step 2: Respond to reviews  {#step2}
 
@@ -106,7 +106,7 @@ A: Reach out to the ARR editors (`editors@aclrollingreview.org`), specifying the
 
 ## 🆕 Meta-review issue reporting {#step3.2}
 
-Starting from December 2024, it is possible to report issues with meta-reviews. This mechanism is meant for reporting procedural issues or serious violations of ARR policies. It is *not* in the interest of the authors to use this mechanism for trying to argue against a reasonable difference of perspectives on the merits of the paper. This is more likely to get the chairs annoyed with you, than to make them reconsider the core points of the meta-review.
+Starting from December 2024, it is possible to report issues with meta-reviews. This mechanism is meant for reporting procedural issues or serious violations of ARR policies to the senior area chairs and program chairs. It is *not* in the interest of the authors to use this mechanism for trying to argue against a reasonable difference of perspectives on the merits of the paper. This is more likely to get the chairs annoyed with you, than to make them reconsider the core points of the meta-review.
 
 Please see the list of issues that can be reported through the meta-review issue report form below. Note that for <span class='reviewIssue'>MI3</span>, the report should be backed up by references to the specific guidelines/policies. 
 
@@ -117,6 +117,10 @@ Please see the list of issues that can be reported through the meta-review issue
 A: Generally, meta-reviewers are summarizing the discussion, and cannot be expected to mention every detail of either reviews or author response (especially if it is too long). They may also skip the mention of the response if they do not believe it to satisfactorily address the issue. In such cases, triggering more work and interaction between chairs is more likely to get them annoyed with you, rather than help your case. 
 
 The recommended length of the discussion at ARR is maximum 2 author responses per review thread. The ACs are *not* obligated to read more than that. If there is an author response that is within that length, and that conclusively resolves an issue on which evaluation hinges, but neither reviewers nor AC noticed it: please flag it (<span class='reviewIssue'>MI5</span>), explain the issue and provide a link to the comment.
+
+**Q: what will happen if I raise a meta-review issue report?**
+
+A: Both review and meta-review issue reports are meant to signal a problem to the higher-up chairs. They do *not* trigger a revision process. The senior area chairs will see these reports together with the rest of the forum materials, when they consider the specific papers for acceptance. If the commitment site provides an option to submit a response to the meta-review, you can also mention any meta-review issue reports there. 
 
 # Step 4: Resubmit for another round of review (optional) {#step4}
 
