@@ -15,9 +15,11 @@ This table lists all the key dates, by which the authors may need to take action
 | Cycle | Submission | Reviewer registration | Reviews due | Author Response | Meta-reviews release date | Cycle End |
 | :---: | :--------: | :-------------------: | :---------: | :-------------: | :-------------: | :--------: |
 | May 2025 | May 19 | May 21 | June 18 | June 26-July 2 | July 23 | July 27 |
-| July 2025 | July 28 | July 30 | September 1 | September 9-15 | September 25 | October 2 |
+| July 2025 | July 28 | July 30 | September 2* | September 9-15 | September 25 | October 2 |
 | October 2025 | October 6 | October 8 |  TBA | TBA | TBA | December 14 |
 | January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
+
+<span style="font-size:smaller;">*Note: The review deadline for July 2025 cycle was supposed to be September 1, but it was extended to September 2 due to OpenReview being down.</span>
 
 Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
 
