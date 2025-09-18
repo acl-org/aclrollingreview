@@ -16,7 +16,7 @@ This table lists all the key dates, by which the authors may need to take action
 | :---: | :--------: | :-------------------: | :---------: | :-------------: | :-------------: | :--------: |
 | May 2025 | May 19 | May 21 | June 18 | June 26-July 2 | July 23 | July 27 |
 | July 2025 | July 28 | July 30 | September 2* | September 9-15 | October 2 | October 5 |
-| October 2025 | October 6 | October 8 |  TBA | TBA | TBA | December 14 |
+| October 2025 | October 6 | October 8 |  November 10 | November 18–24 | December 11 | December 14 |
 | January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
 
 <span style="font-size:smaller;">*Note: The review deadline for July 2025 cycle was supposed to be September 1, but it was extended to September 2 due to OpenReview being down.</span>
@@ -41,6 +41,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 20, 2025 |
 | [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
 | [AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/cfp_conference.html) | July 28, 2025 | October 10, 2025 |
+| [EACL 2026](https://2026.eacl.org/) | October 6, 2025 | December 14, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
 
