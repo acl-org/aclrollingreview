@@ -41,6 +41,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 20, 2025 |
 | [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
 | [AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/cfp_conference.html) | July 28, 2025 | October 10, 2025 |
+| [ALTA 2025](https://alta2025.alta.asn.au/) | July 28, 2025 | October 7, 2025 |
 | [EACL 2026](https://2026.eacl.org/) | October 6, 2025 | December 14, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
