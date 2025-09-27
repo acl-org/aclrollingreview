@@ -212,7 +212,6 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   </div>
 </div>
 
-
 <div class="person" markdown="0">
   <img src="images/people/shirley.jpg" alt="Shirley Anugrah Hayati">
   <div>
