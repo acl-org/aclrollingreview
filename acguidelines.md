@@ -356,11 +356,11 @@ If your question is not answered in this [FAQ](#faq):
 
 ## [Publication ethics] How to report a publication ethics problem? {#pec}
 
-Please refer to https://www.aclweb.org/adminwiki/index.php/Process_for_ACL_Publication_Ethics_Review for the scope and process for publication ethics violations. The link to the incident report form the individual cases of suspected misconduct is before the table of contents in that page.
+Please refer to https://www.aclweb.org/adminwiki/index.php/Process_for_ACL_Publication_Ethics_Review for the scope and process for publication ethics violations. The link to the **incident report form** the individual cases of suspected misconduct is before the table of contents in that page.
 
 The publication ethics review process is similar to the professional conduct committee process, and so cases may not be processed in time for a given cycle. This is to be expected; if misconduct is determined, sanctions may apply even post-publication. 
 
-If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), or a reviewer alerts you about such a suspicion, please coordinate the filing of an [incident report process for the publication ethics committee](/acguidelines#pec) as necessary, by either the reviewer, AC or the SAC. Please also leave a note about this in the forum (visible to chairs but not authors), so that there is a record of what was done.
+If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), or a reviewer alerts you about such a suspicion, please coordinate the filing of an [incident report process for the publication ethics committee](https://www.aclweb.org/adminwiki/index.php/Process_for_ACL_Publication_Ethics_Review) as necessary, by either the reviewer, AC or the SAC. Please also leave a note about this in the forum (visible to chairs but not authors), so that there is a record of what was done.
 
 ## [OpenReview] How to create an account? 
 
