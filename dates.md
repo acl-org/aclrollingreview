@@ -23,7 +23,7 @@ This table lists all the key dates, by which the authors may need to take action
 
 Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
 
-- **Reviewer registration deadline for ALL authors.** The registration link will be active in the [author console](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/May/Authors) immediately upon paper submission. ALL authors must register. Not all authors will receive assignments, but non-compliant papers may be desk rejected.  
+- **Reviewer registration deadline for ALL authors.** The registration link will be active in the author console immediately upon paper submission. ALL authors must register. Not all authors will receive assignments, but non-compliant papers may be desk rejected.  
 - **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
 - **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
 
