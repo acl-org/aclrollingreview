@@ -206,13 +206,13 @@ All reviewers must familiarize themselves with the latest version of the [ARR re
 
 4. The nominated authors who already have ARR reviewer profiles must also set their load for the current cycle to at least 4 papers per submission, prior to submission.  -->
 
-### Paper Submission Process, Criteria and Templates
+### Paper Submission Process, Criteria and Template
 
 Submission is electronic, using the OpenReview.net platform. All long, short, and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](https://aclrollingreview.org/submissionform) are the paper submission form fields for your reference. 
 
 ARR provides a [submission checklist](https://aclrollingreview.org/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers, and decrease the risk of a desk rejection.
 
-Paper submissions must use the official ACL style template, which is available [here](https://github.com/acl-org/acl-style-files). Please follow the paper formatting guidelines general to “*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences.
+Paper submissions must use the official ACL style template, which is available [here](https://github.com/acl-org/acl-style-files). Please follow the paper formatting guidelines general to “*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use template designed for other conferences.
 
 Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. All of the text of the submissions (as well as camera-ready versions of papers) should be addressed exclusively to the human readers and be clearly visible to them. Submissions with prompt injections intended to manipulate generative tools will be desk rejected. 
 
