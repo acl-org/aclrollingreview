@@ -43,6 +43,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/cfp_conference.html) | July 28, 2025 | October 10, 2025 |
 | [ALTA 2025](https://alta2025.alta.asn.au/) | July 28, 2025 | October 7, 2025 |
 | [EACL 2026](https://2026.eacl.org/) | October 6, 2025 | December 14, 2025 |
+| [BHASHA 2025](https://bhasha-workshop.github.io/) | July 28, 2025 | October 28, 2025 |
 
 ## Past Venues that Accepted ARR Submissions
 
