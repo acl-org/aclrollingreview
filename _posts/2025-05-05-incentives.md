@@ -54,6 +54,6 @@ The rationale for requiring prior work in ACL anthology at all is that each scie
 - Two additional papers in either main ACL events or major ML/AI venues.
 - Extensive reviewing experience.
 
-Venues considered 'main ACL' are: ACL, CL, CoLing, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, \*SEM. For conferences that have a main track and Findings, papers in both the main track and Findings count for our purposes.
+Venues considered 'main ACL' are: ACL, CL, CoLing, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, \*SEM, COLM. For conferences that have a main track and Findings, papers in both the main track and Findings count for our purposes.
 
 Major ML/AI venues we consider are: AAAI, CVPR, ECCV, FAccT, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, NIPS, NeurIPS, TMLR, TPAMI.
