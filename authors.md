@@ -18,7 +18,7 @@ Some caveats:
 
 # Step 1: Submit your paper for ARR review {#step1}
 
-There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline) <!--As part of submission, you will be asked to nominate a reviewer from the list of the authors (see the [CFP](/cfp#reviewing-requirements)).-->
+There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline) 
 
 The submission must adhere to the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj).
 
@@ -170,6 +170,8 @@ The commitment phase ends when the paper is no longer under consideration by any
 If the paper is accepted, it is no longer eligible for further rounds of review at ARR. Whether you can commit to additional venues is up to the policies of those venues. → [Step 6](#step6)
 
 If the commitment phase ends without an acceptance, the state of the paper returns to [Step 3](#step3). That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
+
+After you commit a paper, at some point an acceptance or rejection decision will come. By submitting the camera-ready, you accept the publication offer. If you do not want to accept the offer you received, you can withdraw. Papers withdrawn from commitment sites can be committed to other venues or resubmitted to ARR, if there are significant revisions, but there are **no guarantees** on the final outcome. A paper accepted by one venue may be rejected by another, and revisions may not necessarily increase your chances at another venue. 
 
 **Q: If the venue provides an optional "response to the meta-review" field, how should it be used?** <br/>
 

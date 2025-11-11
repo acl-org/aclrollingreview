@@ -26,6 +26,7 @@ Finally, we will consider exemptions for authors that although [technically qual
 We consider the following as unacceptable reasons:
 
 - Department Chair, Dean, Associate Dean, Center Director
+- Emeritus professors
 - Being on sabbatical
 - Being on vacation
 - Reviewing for other conferences (whose service dates aren’t overlapping)
