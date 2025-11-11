@@ -167,11 +167,7 @@ Different venues have different commitment deadlines, and therefore, different c
 
 The commitment phase ends when the paper is no longer under consideration by any venue—either due to withdrawal or due to receiving a decision of acceptance or rejection.
 
-If the paper is accepted, it is no longer eligible for further rounds of review at ARR. Whether you can commit to additional venues is up to the policies of those venues. → [Step 6](#step6)
-
-If the commitment phase ends without an acceptance, the state of the paper returns to [Step 3](#step3). That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
-
-After you commit a paper, at some point an acceptance or rejection decision will come. By submitting the camera-ready, you accept the publication offer. If you do not want to accept the offer you received, you can withdraw. Papers withdrawn from commitment sites can be committed to other venues or resubmitted to ARR, if there are significant revisions, but there are **no guarantees** on the final outcome. A paper accepted by one venue may be rejected by another, and revisions may not necessarily increase your chances at another venue. 
+If you receive a decision of acceptance, by submitting the camera-ready, you accept the publication offer, and the paper can no longer be withdrawn. If your paper is rejected, or you do not want to accept the offer you received, you can withdraw and go back to [Step 3](#step3). There are **no guarantees** that the outcome will be better at another venue. A paper accepted by one venue may be rejected by another, and revisions may not necessarily increase your chances at another venue. 
 
 **Q: If the venue provides an optional "response to the meta-review" field, how should it be used?** <br/>
 
