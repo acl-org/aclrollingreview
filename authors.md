@@ -66,7 +66,7 @@ All back-and-forth comments can be made until a final deadline, after which the 
 
 ## 🆕 Review issue reporting {#step2.2}
 
-After the author discussion period ends, you will have a new option to report review issues. It is a new form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
+After the author discussion period ends, there is a brief period for the reviewers to finish updating their reviews. The exact timing is communicated in the cycle emails. Then you will have the possibility to report review issues. It is a form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
 
 The purpose of this form is to enable authors to notify the ACs about specific types of common review issues. Our list builds on the mechanism used by ACL'23. There's a report on the statistics of various review issues in that conference, see [section 5.3](https://aclanthology.org/2023.acl-long.911/). 
 
@@ -152,7 +152,7 @@ If you felt the previous-round reviews were constructive, consider asking for th
 If you felt the previous-round reviews reflected a lack of expertise or engagement with the topic of your paper, consider asking for new reviewers.
 
 * Generally we accept such requests, but the expectation is that papers have been revised based on the earlier reviews and it is up to the discretion of the area chairs or editors in chief whether the request is granted. This request is not considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
-* New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023). Note that new reviewers are instructed to form their own view of the paper rather than to focus primarily on the revisions.
+* New reviewers will not see the prior reviews initially (unless the authors requested to keep the old reviewers, but only). Only after they submit their own review will they have access to the prior reviews (new in August 2023). Note that new reviewers are instructed to form their own view of the paper rather than to focus primarily on the revisions.
 * In the (rare) cases where there was a very low-quality review that the authors flagged, the ACs have the option to recommend that a specific review is removed from view. 
 
 Once you have submitted the revision, you return to [Step 2](#step2) above.
