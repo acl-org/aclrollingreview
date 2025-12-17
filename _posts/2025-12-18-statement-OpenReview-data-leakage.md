@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Statement from ARR and EACL 2026 Organizers re OpenReview data leakage
-permalink: /statement-openReview-data-leakage
+permalink: /statement-openreview-data-leakage
 ---
 
 As noted in the [ACL's Nov 29 announcement](https://www.aclweb.org/portal/content/statement-acl-and-eacl-2026-organizers-1), OpenReview was notified on Nov 27 of a software bug that allowed unauthorized access to authors, reviewers, and area chairs. The ACL announcement details how any use of the leaked information may result in severe consequences. Thankfully, the OpenReview team was able to fix the issue quickly. 

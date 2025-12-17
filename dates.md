@@ -19,7 +19,7 @@ This table lists all the key dates, by which the authors may need to take action
 | [October 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/October) | October 6 | October 8 |  November 10 | November 18–24 | December 11 | December 14 |
 | January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
 | March 2026 | March 16 | TBA |  TBA | TBA | TBA | May 24 |
-| May 2026 | May 25 | January 7 |  TBA | TBA | TBA | August 2 |
+| May 2026 | May 25 | TBA |  TBA | TBA | TBA | August 2 |
 | August 2026 | August 3 | TBA |  TBA | TBA | TBA | October 11 |
 | October 2026 | October 12 | TBA |  TBA | TBA | TBA | December 20 |
 
