@@ -10,7 +10,7 @@ From October 2022 to February 2025, ARR ran 8-week review cycles, with submissio
 
 This means that instead of 6 cycles a year there will generally be 5, but with more reasonable timelines for the review tasks and author response, as well as platform maintenance. It will allow the cycles to always start on Mondays, and develop a consistent schedule that clashes with weekends less (a recurrent problem in the past). In 2025, due to the switch to 10-week cycles enacted relatively late in the year, there will be 4 review cycles in total.
 
-This table lists all the key dates, by which the authors may need to take action, for 2025 cycles following the new schedule:
+This table lists all the key dates, by which the authors may need to take action, for 2025 and 2026 cycles following the new schedule:
 
 | Cycle | Submission | Reviewer registration | Reviews due | Author Response | Meta-reviews release date | Cycle End |
 | :---: | :--------: | :-------------------: | :---------: | :-------------: | :-------------: | :--------: |
@@ -18,14 +18,16 @@ This table lists all the key dates, by which the authors may need to take action
 | [July 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/July) | July 28 | July 30 | September 2* | September 9-15 | October 2 | October 5 |
 | [October 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/October) | October 6 | October 8 |  November 10 | November 18–24 | December 11 | December 14 |
 | January 2026 | January 5 | January 7 |  TBA | TBA | TBA | March 15 |
-
-<span style="font-size:smaller;">*Note: The review deadline for July 2025 cycle was supposed to be September 1, but it was extended to September 2 due to OpenReview being down.</span>
+| March 2026 | March 16 | TBA |  TBA | TBA | TBA | May 24 |
+| May 2026 | May 25 | January 7 |  TBA | TBA | TBA | August 2 |
+| August 2026 | August 3 | TBA |  TBA | TBA | TBA | October 11 |
+| October 2026 | October 12 | TBA |  TBA | TBA | TBA | December 20 |
 
 Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
 
 - **Reviewer registration deadline for ALL authors.** The registration link will be active in the author console immediately upon paper submission. ALL authors must register. Not all authors will receive assignments, but non-compliant papers may be desk rejected.  
-- **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
-- **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
+- **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
+- **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
@@ -37,16 +39,21 @@ The upcoming publication venues participating in ARR are listed below. If you re
 
 | Venue | Final ARR Submission Date | Commitment Date |
 | :---: | :-----------------------: | :-------------: |
-| [NAACL 2025](https://2025.naacl.org/) | October 15, 2024 | December 16, 2024 |
-| [ACL 2025](https://2025.aclweb.org/) | February 15, 2025 | April 20, 2025 |
-| [EMNLP 2025](https://2025.emnlp.org/) | May 19, 2025 | July 31, 2025 |
-| [AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/cfp_conference.html) | July 28, 2025 | October 10, 2025 |
-| [ALTA 2025](https://alta2025.alta.asn.au/) | July 28, 2025 | October 7, 2025 |
 | [EACL 2026](https://2026.eacl.org/) | October 6, 2025 | December 14, 2025 |
+| [ACL 2026](https://2026.aclweb.org/) | January 5, 2026 | March 14, 2026 |
 
 ## Past Venues that Accepted ARR Submissions
 
-In 2022-2023, most *ACL events accepted ARR submissions while also running a direct submission process. Starting from 2024, all main *ACL conferences used ARR exclusively.
+Starting from 2024, all main *ACL conferences used ARR exclusively, including:
+
+- [NAACL 2025](https://2025.naacl.org/) 
+- [ACL 2025](https://2025.aclweb.org/) 
+- [EMNLP 2025](https://2025.emnlp.org/) 
+- [AACL 2025](https://www.afnlp.org/conferences/ijcnlp2025/cfp_conference.html) 
+- [EACL 2026](https://2026.eacl.org/) 
+- [ALTA 2025](https://alta2025.alta.asn.au/) 
+
+In 2022-2023, most *ACL events accepted ARR submissions while also running a direct submission process. 
 
 - [EMNLP 2021](https://2021.emnlp.org/)
 - [INLG 2021](https://inlg2021.github.io/pages/calls.html)

@@ -14,13 +14,22 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Changelog
 
+## October 2025
+
+* Improving form and process for withdrawals (leads: Anna, Mike, Freda)
+* Developing a process for reviewer awards implementation (leads: Sarv, Holy, peer review committee (Steve Bethard), EMNLP PCs, Jenn Rachford)
+
+
 ## July 2025
 
 * Multiple updates to guidelines for all stakeholders (leads: Anna, Mike)
 * Major revision of ARR guidelines for SACs and making them public (leads: Anna)
 * Grace period for fixing metadata issues after submission (leads: Freda)
+* Early warnings to co-authors for someone on the team not submitting their reviews on time (leads: Freda, Anna)
 * Improvements to author process for signing up as reviewers, based on EMNLP feedback (leads: Jonathan)
 * Working with OpenReview to identify and request further improvements (leads: Mike)
+* Improving infrastructure for data storage and analysis (leads: Sudipta)
+* Developing process and implementation for camera-ready responsible checklist submissions (leads: Anna, Holy, EMNLP PCs)
 
 ## May 2025
 

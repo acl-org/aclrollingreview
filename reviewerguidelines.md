@@ -487,8 +487,9 @@ In ARR reviewer discussion happens throughout the process, i.e., both before rev
 
 **Possible influence of other reviewers.** When you see the reviews by the other reviewers, be aware that they may affect your own judgment in several ways because of social psychology effects. If you pointed out a weakness and then saw it also pointed out by someone else, you may feel it is a more severe problem than you originally thought. You may “discard” your own opinion if you see the opinion of someone you believe to be more senior/experienced/famous. If your original opinion was very positive, in the face of a strongly negative review, you may be tempted to “converge to the mean” (or the other way round). Ask yourself if this is really warranted, and whether this may be reflecting some core dispute between approaches/methodologies etc. Strong disagreements may be an indication that the paper is doing something unusual and interesting.
 
-If the paper is a resubmission, see [below](#how-to-review-resubmissions).
+## Updating the assessment
 
+After the author discussion period ends, there is a short period of time for reviewers to finalize their reviews based on any responses from the authors and/or other reviews. The full timeline is communicated in the cycle emails. After the reviews are finalized, the authors can submit [review issue reports](/authors.md#-review-issue-reporting-step22).
 
 # How to review resubmissions
 
@@ -518,10 +519,10 @@ Note that it is because of this stage that it is of utmost importance that in th
 
 If you are substituting for one of the original reviewers, then you will not initially see the previous  reviews or the authors’ revision notes, though this may change in future cycles. (The current setup is intended to help ensure that when authors request different reviewers, the newly assigned reviewers take a fresh look at the paper.)  Nevertheless, as with the repeat reviewers case above, the aim here should be to avoid an endless cycle of paper resubmissions.  You should therefore proceed as follows:
 
-
 1. After reading the paper, you should submit a draft review (following the guidelines elsewhere in these instructions), at which point you will gain access to the previous reviews and author revision notes (click on the "Previous URL" link in the submission metadata).
 2. After reading the revision notes, you should consider whether the weaknesses you identified in your draft review represent (i) previously identified weaknesses that were not adequately addressed; (ii) newly raised issues that represent critical issues of soundness; or (iii) other newly raised issues.
 3. With these categories in mind, you should then edit your draft review, where (i) you explain the reasons why the revisions did not adequately address previously identified weaknesses; (ii) you explain the reasons why newly raised issues represent critical issues of soundness; and (iii) you reframe any other newly raised issues as suggestions for improvement.
+
 
 
 ## Fresh reviewers

@@ -18,7 +18,7 @@ Some caveats:
 
 # Step 1: Submit your paper for ARR review {#step1}
 
-There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline) <!--As part of submission, you will be asked to nominate a reviewer from the list of the authors (see the [CFP](/cfp#reviewing-requirements)).-->
+There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline) 
 
 The submission must adhere to the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj).
 
@@ -66,7 +66,7 @@ All back-and-forth comments can be made until a final deadline, after which the 
 
 ## 🆕 Review issue reporting {#step2.2}
 
-After the author discussion period ends, you will have a new option to report review issues. It is a new form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
+After the author discussion period ends, there is a brief period for the reviewers to finish updating their reviews. The exact timing is communicated in the cycle emails. Then you will have the possibility to report review issues. It is a form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
 
 The purpose of this form is to enable authors to notify the ACs about specific types of common review issues. Our list builds on the mechanism used by ACL'23. There's a report on the statistics of various review issues in that conference, see [section 5.3](https://aclanthology.org/2023.acl-long.911/). 
 
@@ -152,7 +152,7 @@ If you felt the previous-round reviews were constructive, consider asking for th
 If you felt the previous-round reviews reflected a lack of expertise or engagement with the topic of your paper, consider asking for new reviewers.
 
 * Generally we accept such requests, but the expectation is that papers have been revised based on the earlier reviews and it is up to the discretion of the area chairs or editors in chief whether the request is granted. This request is not considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
-* New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023). Note that new reviewers are instructed to form their own view of the paper rather than to focus primarily on the revisions.
+* New reviewers will not see the prior reviews initially (unless the authors requested to keep the old reviewers, but only). Only after they submit their own review will they have access to the prior reviews (new in August 2023). Note that new reviewers are instructed to form their own view of the paper rather than to focus primarily on the revisions.
 * In the (rare) cases where there was a very low-quality review that the authors flagged, the ACs have the option to recommend that a specific review is removed from view. 
 
 Once you have submitted the revision, you return to [Step 2](#step2) above.
@@ -167,9 +167,7 @@ Different venues have different commitment deadlines, and therefore, different c
 
 The commitment phase ends when the paper is no longer under consideration by any venue—either due to withdrawal or due to receiving a decision of acceptance or rejection.
 
-If the paper is accepted, it is no longer eligible for further rounds of review at ARR. Whether you can commit to additional venues is up to the policies of those venues. → [Step 6](#step6)
-
-If the commitment phase ends without an acceptance, the state of the paper returns to [Step 3](#step3). That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
+If you receive a decision of acceptance, by submitting the camera-ready, you accept the publication offer, and the paper can no longer be withdrawn. If your paper is rejected, or you do not want to accept the offer you received, you can withdraw and go back to [Step 3](#step3). There are **no guarantees** that the outcome will be better at another venue. A paper accepted by one venue may be rejected by another, and revisions may not necessarily increase your chances at another venue. 
 
 **Q: If the venue provides an optional "response to the meta-review" field, how should it be used?** <br/>
 
