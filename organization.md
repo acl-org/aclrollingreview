@@ -121,6 +121,14 @@ Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; fon
 </div>
 
 <div class="person" markdown="0">
+  <img src="images/people/yuntian_deng.jpeg" alt="Yuntian Deng">
+  <div>
+    <a href="https://yuntiandeng.com">Yuntian Deng</a><br>
+    University of Waterloo (Co-Chief Technical Officer)
+  </div>
+</div>
+
+<div class="person" markdown="0">
   <img src="images/people/jonathan_kummerfeld.jpg" alt="Jonathan K. Kummerfeld">
   <div>
     <a href="https://jkk.name/">Jonathan K. Kummerfeld</a><br>
