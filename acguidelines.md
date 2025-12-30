@@ -458,7 +458,7 @@ Choose "Emergency Area" (the old "Emergency" score is currently not displayed) i
 
 ![alt_text](images/guidelines/18-AC-assign-emergency-part4.png "image_tooltip")
 
-If you get an error where OpenReview doesn't create the assignments you are trying to create, it likely means that there is a cap on the number of assignments (and invitations count towards the total limit, so be careful with inviting too many people). If there are old assignments where you know that the reviewer will not submit, you can remove them to decrease the cap for a specific paper.
+If you get an error where OpenReview doesn't create the assignments you are trying to create, it likely means that there is a cap on the number of assignments (and invitations count towards the total limit, so be careful with inviting too many people). If there are old assignments where you know that the reviewer will not submit, you can remove them to decrease the cap for a specific paper. To do this, sort by 'Invite Assignment' in the above interface, and then hit the trash can button next to the invitation to delete.
 
 See [here](#openreview-how-to-find-emails-of-reviewers) for how to find reviewer emails so you could reach out to them directly. When communicating via OpenReview, sometimes people respond to email notifications directly by email instead of on OpenReview, and then they get routed to ARR support and you may lose time.
 

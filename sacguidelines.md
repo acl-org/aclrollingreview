@@ -97,7 +97,7 @@ If the AC is not responsive, you have 3 options, depending on how time-critical 
 
 1. Add a second AC from the existing AC pool via the 'Modify AC assignment' link. Please first send an email to the AC to make sure they are willing to help. 
 2. Identify a new qualified AC not in our pool, who agreed to help. In this case, reach out to the PCs to provide their name and OpenReview id. When they are added, you can assign them. 
-3. Act as the AC for the submission (meaning that you will chase reviews and/or find emergency reviewers yourself). 
+3. Act as the AC for the submission (meaning that you will chase reviews and/or find emergency reviewers yourself). See [this part of AC guidelines](https://aclrollingreview.org/acguidelines#openreview-how-to-assign-emergency-reviewers) for instructions for adding emergency reviewers and removing unnecessary invitations if you max out the invitations.
 
 Sometimes contacting an unresponsive AC via your personal email (outside the OpenReview system) does the trick. If you have been unable to reach an AC throughout the chasing period, please follow up with them to clarify if they will perform the rest of their tasks on time, or should be replaced. Note the new policy on [possible penalties for unresponsive reviewers or ACs](https://aclrollingreview.org/incentives2025).
 
