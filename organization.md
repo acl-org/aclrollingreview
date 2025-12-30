@@ -180,13 +180,6 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   </div>
 </div>
 
-<div class="person" markdown="0">
-  <img src="images/people/gabriella_skitalinskaya.jpg" alt="Gabriella Skitalinskaya">
-  <div>
-    <a href="https://www.ai.uni-hannover.de/en/institut/team-luhai/gabriella-skitalinska">Gabriella Skitalinskaya</a><br>
-    Leibniz University Hannover
-  </div>
-</div>
 
 <div class="person" markdown="0">
   <img src="images/people/ning_shi.jpg" alt="Ning Shi">
@@ -205,26 +198,10 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/shabnam_behzad.jpg" alt="Shabnam Behzad">
-  <div>
-    <a href="https://shabnam-b.github.io/">Shabnam Behzad</a><br>
-    Georgetown University
-  </div>
-</div>
-
-<div class="person" markdown="0">
   <img src="images/people/himanshu_beniwal.jpg" alt="Himanshu Beniwal">
   <div>
     <a href="https://himanshubeniwal.github.io/">Himanshu Beniwal</a><br>
     Indian Institute of Technology Gandhinagar
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/shirley.jpg" alt="Shirley Anugrah Hayati">
-  <div>
-    <a href="https://www.shirley.id/">Shirley Anugrah Hayati</a><br>
-    University of Minnesota
   </div>
 </div>
 
