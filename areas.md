@@ -14,7 +14,7 @@ How does one choose the right area, given that there are so many overlaps? Here 
 - What about a paper on multilingual generation? It could go for the generation area if the focus is on generation strategies, or to the multilingualism area - if the focus is on those languages.
 - What about work in low-resource settings - is it efficiency or multilingualism? If the focus is on the training, and the low-resource setting is simulated from a well-resourced language, then we'd suggest the efficiency area. If you are contributing resources, analysis, or new solutions for languages that haven't had that kind of thing before, consider the multilingualism area.
 
-As of May 2025, the areas are:
+As of January 2026, the areas are:
 
 - **AI / LLM Agents**: Autonomous agents; LLM agents; tool use; function calling; multi-modal agents; multi-agent systems; planning in agents; agent communication; agent coordination and negotiation; environment interaction; agent memory; reinforcement learning in agents; LLM-based controllers; agent evaluation; safety and alignment for agents; grounded agents; embodied agents; other LLM agent topics.
 - **Clinical and Biomedical Applications**: Clinical and biomedical language models; medical text mining; clinical decision support; privacy; clinical coding; biomedical knowledge extraction and discovery; biomedical knowledge graphs; clinical and biomedical text summarisation; medical question answering; clinical dialogue systems; mental health; phrase mining and disease association; drug adverse event discovery; bioinformatics; healthcare time series; regulatory and ethical considerations; other clinical and biomedical applications.
