@@ -4,8 +4,6 @@ title: "Area Keywords at ARR"
 permalink: /areas
 ---
 
-At present, ARR offers 26 areas, including 2 areas introduced in April 2024: we are adding the Language Modeling area, and Human-Centered NLP area, in response to many requests. In May 2025 the keywords were further updated in collaboration with EMNLP 2025 program chairs, which will have a different set of tracks at commitment stage (see this [announcement](https://2025.emnlp.org/track-changes/) for details).
-
 Choosing the right area may be tricky for the authors, and to aid them, in this page we provide the keywords associated with ARR areas. This list was initially based on [ACL'23 list](https://2023.aclweb.org/blog/reviewer-assignment/), and we expect it to further change over time. It is not meant to be exhaustive, but it should still give some idea of what is the focus of different areas. In the future, they can be used to analyze the submission volume for different subtopics (so that we could tell which areas are growing and may need their own areas), and for paper-reviewer matching.
 
 How does one choose the right area, given that there are so many overlaps? Here are a few examples: 
