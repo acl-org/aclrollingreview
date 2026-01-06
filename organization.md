@@ -74,6 +74,38 @@ For general support regarding ARR, please contact <a href="mailto:support@aclrol
   </div>
 </div>
 
+<div class="person" markdown="0">
+  <img src="images/people/xiaojun_wan.jpg" alt="Xiaojun Wan">
+  <div>
+    <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a><br>
+    Peking University
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/giovanni_da _san_martino.jpeg" alt="Giovanni Da San Martino">
+  <div>
+    <a href="http://www.joedsm.altervista.org/">Giovanni Da San Martino</a><br>
+    University of Padova
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/parisa_kordjamshidi.png" alt="Parisa Kordjamshidi">
+  <div>
+    <a href="https://www.cse.msu.edu/~kordjams/">Parisa Kordjamshidi</a><br>
+    Michigan State University
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/tanmoy_chakraborty.png" alt="Tanmoy Chakraborty">
+  <div>
+    <a href="https://tanmoychak.com/">Tanmoy Chakraborty</a><br>
+    IIT Delhi
+  </div>
+</div>
+
 Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>
 
 ## Ethics Chair
