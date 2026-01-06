@@ -27,18 +27,10 @@ For general support regarding ARR, please contact <a href="mailto:support@aclrol
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/jun_suzuki.jpg" alt="Jun Suzuki">
-  <div>
-    <a href="https://www.fai.cds.tohoku.ac.jp/members/js/">Jun Suzuki</a><br>
-    Tohoku University
-  </div>
-</div>
-
-<div class="person" markdown="0">
   <img src="images/people/jing_jiang.jpg" alt="Jing Jiang">
   <div>
-    <a href="https://faculty.smu.edu.sg/profile/jing-jiang-636">Jing Jiang</a><br>
-    Singapore Management University
+    <a href="https://comp.anu.edu.au/people/jing-jiang/">Jing Jiang</a><br>
+    Australian National University
   </div>
 </div>
 
