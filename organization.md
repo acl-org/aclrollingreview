@@ -129,14 +129,6 @@ Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; fon
 ## Technical Staff
 
 <div class="person" markdown="0">
-  <img src="images/people/sudipta_kar.jpg" alt="Sudipta Kar">
-  <div>
-    <a href="https://sudiptakar.info/">Sudipta Kar</a><br>
-    Oracle Health AI (Co-Chief Technical Officer)
-  </div>
-</div>
-
-<div class="person" markdown="0">
   <img src="images/people/freda_shi.jpg" alt="Freda Shi">
   <div>
     <a href="https://cs.uwaterloo.ca/~fhs/">Freda Shi</a><br>
@@ -149,6 +141,14 @@ Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; fon
   <div>
     <a href="https://yuntiandeng.com">Yuntian Deng</a><br>
     University of Waterloo (Co-Chief Technical Officer)
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/sudipta_kar.jpg" alt="Sudipta Kar">
+  <div>
+    <a href="https://sudiptakar.info/">Sudipta Kar</a><br>
+    Oracle Health AI
   </div>
 </div>
 
