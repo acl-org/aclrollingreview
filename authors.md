@@ -222,6 +222,17 @@ Please contact: `support at aclrollingreview.org`
 
 See the "reviewing requirements" section of the [CFP](/cfp#reviewing-requirements).
 
+## ARR submission standards
+
+**Q: What should I put in the limitations section?**
+
+Generally, the limitations section should focus on the soundness of the study, and answer the question: what are the methodological caveats that the reader should be aware of when interpreting the reported findings? For instance, were the models, languages or data selected as a convenience sample? Could the reported results be affected by some confounding factor (e.g LLM test data contamination)?
+
+There may also be practical limitations: e.g. a proposed method could work well, but be highly compute-intensive, which is important to know for those who may consider adopting it.
+
+In NLP literature, authors also commonly list the directions of generalizability of their results that they have *not* tested (languages, domains, tasks, datasets, model families, model sizes, etc.). However, any study is necessarily finite, and there cannot be any guidelines for how many languages, models, datasets etc are 'enough' for a given claim. Furthermore, this implies that the goal is always a 'universal' model that can do everything. A more practical approach is to consider the scope of the claims and state clearly what was done (e.g. what kinds of models/datasets/languages etc were tested), where (within the target scope) there is a reasonable expectation that the reported findings may not hold, and what would be needed for future work to test that. See the reviewer guidelines for [common review issues](./reviewerguidelines.md#review-issues) in requesting extra experiments, the results of which would not affect the soundness of presented findings.
+
+
 ## Commitment
 
 **Q: Why does ARR not provide a decision with reviews?**
