@@ -222,7 +222,7 @@ Please contact: `support at aclrollingreview.org`
 
 See the "reviewing requirements" section of the [CFP](/cfp#reviewing-requirements).
 
-## ARR submission standards
+## ARR submission standards {#standards}
 
 **Q: What should I put in the limitations section?**
 
