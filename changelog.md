@@ -18,7 +18,7 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 * Improving form and process for withdrawals (leads: Anna, Mike, Freda)
 * Developing a process for reviewer awards implementation (leads: Sarv, Holy, peer review committee (Steve Bethard), EMNLP PCs, Jenn Rachford)
-
+* Updating process and instructions for publication chairs and Anthology (leads: Anna)
 
 ## July 2025
 

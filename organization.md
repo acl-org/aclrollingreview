@@ -179,7 +179,7 @@ Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; fon
 <div class="person" markdown="0">
   <img src="images/people/holy_lovenia.jpeg" alt="Holy Lovenia">
   <div>
-    <a href="https://holylovenia.github.io/">Holy Lovenia</a><br>
+    <a href="https://holylovenia.github.io/">Holy Lovenia (workflow manager)</a><br>
     SEACrowd
   </div>
 </div>

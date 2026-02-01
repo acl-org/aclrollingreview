@@ -67,7 +67,7 @@ If the AC has not completed their task, please email them and remind them about 
 If the AC is unresponsive, that may suggest that they may not do the necessary work; in that case, after reasonable attempts to contact them, assign an AC replacement (after checking their availability) in OpenReview. You can do this in your SAC console by clicking on “Modify Area Chair Assignments” at the top of your console.
 
 ### Changing AC assignments {#change-AC-assignments}
-
+5\
 1) When the target AC is already in the pool:
 
 ![alt_text](images/guidelines/screen3_change_ac_existing_ac.png "adding AC from the pool")
