@@ -41,9 +41,13 @@ Click on one of the roles for a detailed explanation.
 
 # Reviewers {#reviewers}
 
-Each submission receives at least 3 reviews. The reviewer's main tasks are (1) checking the appropriateness of the submission and its assignment to this reviewer, (2) writing a strong review, (3) updating the review as appropriate based on author-reviewer discussion. 
+Each submission receives at least three reviews. The reviewer's main tasks are (1) checking the appropriateness of the submission and its assignment to this reviewer, (2) writing a well-justified review, (3) updating the review as appropriate based on author-reviewer discussion. 
 
-ARR maintains a pool of reviewers. If you have not reviewed for ARR before and would like to volunteer, contact the editors. All authors of submissions are also expected to be willing to review and those with enough papers in DBLP are added as reviewers. Before every cycle, there is a request for availability with two questions: (1) what is your maximum load for new assignments, where 0 indicates you are not able to review new submissions, and (2) whether you are willing to review resubmissions, even if you answered ‘0’ to (1). It is helpful to agree to review any resubmissions so the authors can get the same reviewers again (assuming they did not request new reviewers).
+ARR maintains a pool of qualified reviewers. Reviewer eligibility requirements are defined in the Call for Papers (CFP), under *Reviewing Requirements* (see: [https://aclrollingreview.org/cfp](https://aclrollingreview.org/cfp)). Researchers who meet these requirements and are interested in volunteering as ARR reviewers should contact the editorial team via email at **[support@aclrollingreview.org](mailto:support@aclrollingreview.org)**, using a clear subject line *“ARR Reviewer Volunteering Inquiry”*.
+
+Authors of submissions are expected to be willing to review. Researchers with a sufficient publication record (e.g., as indexed in DBLP) may be added to the reviewer pool accordingly. Prior to each ARR cycle, reviewers are asked to indicate their availability by answering two questions: (1) their maximum reviewing load for new submissions (where 0 indicates no availability for new assignments), and (2) whether they are willing to review resubmissions, even if they indicated 0 availability for new submissions. Agreeing to review resubmissions is encouraged, as it allows authors to receive continuity in feedback when possible.
+
+Researchers who do not yet meet the ARR reviewing requirements may still be eligible to serve as reviewers for workshops outside of ARR, subject to the discretion of individual workshop organizers.
 
 Quick links:
 - [Reviewer Guidelines](reviewertutorial)
