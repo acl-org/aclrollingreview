@@ -6,7 +6,9 @@ permalink: /organization
 
 ## Support
 
-For general support regarding ARR, please contact <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>.
+For general support regarding ARR please contact <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>. 
+
+For questions related to specific cycles, please write to <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>. Do NOT contact the individual editors listed in this page directly. The ARR editors take turns working in different cycles, and the emails to the editors@aclrollingreview.org go into our ticketing system, where they are then assigned to the right team.
 
 ## Editors in Chief
 
@@ -97,8 +99,6 @@ For general support regarding ARR, please contact <a href="mailto:support@aclrol
     IIT Delhi
   </div>
 </div>
-
-Contact: <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>
 
 ## Ethics Chair
 
