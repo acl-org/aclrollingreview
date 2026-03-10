@@ -186,7 +186,7 @@ For questions related to specific cycles, please write to <a href="mailto:editor
 
 Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">tech@aclrollingreview.org</a>
 
-## Communications/Support Team
+## Communications Team
 
 <div class="person" markdown="0">
   <img src="images/people/shubhra_kanti.jpg" alt="Shubhra Kanti Karmaker (Santu)">
@@ -221,13 +221,13 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   </div>
 </div>
 
-<div class="person" markdown="0">
+<!-- <div class="person" markdown="0">
   <img src="images/people/himanshu_beniwal.jpg" alt="Himanshu Beniwal">
   <div>
     <a href="https://himanshubeniwal.github.io/">Himanshu Beniwal</a><br>
     Indian Institute of Technology Gandhinagar
   </div>
-</div>
+</div> -->
 
 <div class="person" markdown="0">
   <img src="images/people/atsuki_yamaguchi.jpg" alt="Atsuki Yamaguchi">
@@ -242,6 +242,14 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   <div>
     <a href="/organization">Santosh T.Y.S.S.</a><br>
     Technische Universität München
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/leonardo_ranaldi.jpeg" alt="Leonardo Ranaldi">
+  <div>
+    <a href="https://leonardo-ranaldi.github.io/">Leonardo Ranaldi</a><br>
+    University of Edinburgh
   </div>
 </div>
 
