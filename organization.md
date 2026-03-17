@@ -179,8 +179,8 @@ For questions related to specific cycles, please write to <a href="mailto:editor
 <div class="person" markdown="0">
   <img src="images/people/holy_lovenia.jpeg" alt="Holy Lovenia">
   <div>
-    <a href="https://holylovenia.github.io/">Holy Lovenia (workflow manager)</a><br>
-    SEACrowd
+    <a href="https://holylovenia.github.io/">Holy Lovenia</a><br>
+    SEACrowd (Workflow Manager)
   </div>
 </div>
 
