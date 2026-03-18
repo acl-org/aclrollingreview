@@ -517,11 +517,11 @@ Note that it is because of this stage that it is of utmost importance that in th
 
 ## Substitute reviewers
 
-If you are substituting for one of the original reviewers, then you will not initially see the previous  reviews or the authors’ revision notes, though this may change in future cycles. (The current setup is intended to help ensure that when authors request different reviewers, the newly assigned reviewers take a fresh look at the paper.)  Nevertheless, as with the repeat reviewers case above, the aim here should be to avoid an endless cycle of paper resubmissions.  You should therefore proceed as follows:
+As with the repeat reviewers case above, if you are substituting for one of the original reviewers, the aim here should be to avoid an endless cycle of paper resubmissions.  You should therefore proceed as follows:
 
-1. After reading the paper, you should submit a draft review (following the guidelines elsewhere in these instructions), at which point you will gain access to the previous reviews and author revision notes (click on the "Previous URL" link in the submission metadata).
-2. After reading the revision notes, you should consider whether the weaknesses you identified in your draft review represent (i) previously identified weaknesses that were not adequately addressed; (ii) newly raised issues that represent critical issues of soundness; or (iii) other newly raised issues.
-3. With these categories in mind, you should then edit your draft review, where (i) you explain the reasons why the revisions did not adequately address previously identified weaknesses; (ii) you explain the reasons why newly raised issues represent critical issues of soundness; and (iii) you reframe any other newly raised issues as suggestions for improvement.
+1. After reading the paper to form an initial impression, you should look over the author revision notes and the previous reviews (click on the "Previous URL" link in the submission metadata).
+2. After reading the revision notes, you should consider whether any weaknesses you may have identified in your initial read of the paper represent (i) previously identified weaknesses that were not adequately addressed; (ii) newly raised issues that represent critical issues of soundness; or (iii) other newly raised issues.
+3. With these categories in mind, you should proceed to write your review, where (i) you explain the reasons why the revisions did not adequately address previously identified weaknesses; (ii) you explain the reasons why newly raised issues represent critical issues of soundness; and (iii) you reframe any other newly raised issues as suggestions for improvement.
 
 
 
