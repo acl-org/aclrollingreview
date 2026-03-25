@@ -32,6 +32,10 @@ If you do send emails to ACs or reviewers with the OpenReview system, please inc
 
 For your reference, you can find the full instructions given to ARR [authors](https://aclrollingreview.org/authors), [reviewers](https://aclrollingreview.org/reviewerguidelines) and [ACs](https://aclrollingreview.org/acguidelines) on the ARR website.
 
+## SAC report generator tool {#report-generator}
+
+{% include admonition.html type="warning" title="Great news!" body="We are aware that OpenReview interface may not always show conveniently some of the information you might like as a SAC. In coordination with ARR tech and editor team, [Marcos Treviso](https://mtreviso.github.io/) (a veteran ARR SAC) built a report generator that you can use with OpenReview API to build custom reports, which both show various scores and possible problems with papers that need your attention (papers with low-confidence reviews, papers with author-reported review issues, papers with confidential comments, papers for which anonymous review process may be compromised, papers flagged for ethics review, etc., etc.). Please see the [readme](https://github.com/mtreviso/arr-report-generator/) for how to use this tool." %}
+
 # ARR review stage tasks
 
 <!--wishlist - should we have a step to check that no ACs in a given SAC batch are clearly unqualified, take note of any that may need feedback/mentoring, and if any such found - request reassignments?-->
@@ -89,9 +93,9 @@ Any new ACs added to the pool should be **qualified according to the [minimal AR
 
 The task of chasing late reviews is mostly performed by ACs, here are their guidelines for that: https://aclrollingreview.org/acguidelines#-task-3-checking-review-quality-and-chasing-missing-reviewers
 
-As a SAC, your task is to proactively work with the ACs of the submissions in your batch so that each submission receives at least 3 reviews by the beginning of the author response period.
+As a SAC, your task is to proactively work with the ACs of the submissions in your batch so that each submission receives at least 3 reviews by the beginning of the author response period. You can use the OpenReview interface or the [report generator](#report-generator), which shows both review progress and various possible issues with reviews.
 
-For each submission that has less than 3 reviews, please go to the submission page to see the Official Comments and [Emergency Declaration forms](https://aclrollingreview.org/reviewerguidelines#emergency) posted by the AC and/or the reviewer(s). If there is no indication on the page that things are moving along, please get in touch with the AC to see if they have been chasing missing reviews and/or finding emergency reviewers. 
+For each submission that has less than 3 reviews, please go to the submission page to see the Official Comments and [Emergency Declaration forms](https://aclrollingreview.org/reviewerguidelines#emergency) posted by the AC and/or the reviewer(s). If there is no indication on the page that things are moving along, please get in touch with the AC to see if they have been chasing missing reviews and/or finding emergency reviewers. You can use filters on Openreview 'submission status' tab `+numOfficialReviewDone<3` to filter for papers with less than 3 reviews, and `+emergencyDeclarationCount>1` to find the papers with emergency declarations. Likewise, the 'reviewer status' tab has sorting options for papers with missing reviews. <!--TODO check if metaReviewCount and  emergencyDeclarationCount options are enabled and add instructions-->
 
 If the AC is not responsive, you have 3 options, depending on how time-critical the situation is and what replacement options are available: 
 
@@ -120,13 +124,15 @@ If you would like to assign emergency reviewers yourself, please follow these [i
 
 ARR requires that each submission have at least three valid reviews. In the past, the final check for this was a SAC task, but we realize that this is difficult to do for a large volume of submissions that you are handling. 
 
-Starting from October 2024, ARR has a new mechanism for authors themselves to report problematic reviews (https://aclrollingreview.org/authors#step2.2). This will facilitate your task of checking that all papers receive three reasonable reviews. In particular, we are asking you to check the cases that could qualify for ['highly irresponsible' reviewing](https://2025.emnlp.org/reviewer-policies): missing reviews, extremely terse/unprofessional reviews, reviews suspected of being AI-generated. 
+Starting from October 2024, ARR has a new mechanism for authors themselves to report problematic reviews (https://aclrollingreview.org/authors#step2.2). This will facilitate your task of checking that all papers receive three reasonable reviews. In particular, we are asking you to check the cases that could qualify for ['highly irresponsible' reviewing](https://2025.emnlp.org/reviewer-policies): missing reviews, extremely terse/unprofessional reviews, reviews suspected of being AI-generated. The [report generator](#report-generator) shows various possible problems with reviews, including review issues.
 
-If you have any such cases in your batch, and you find the complaint justified, please discuss the situation with your ACs, and consider obtaining another review (find another reviewer, or have it written by the AC or yourself if you/AC haven't already done another review for the same paper). Please also make sure that either you or the AC [reports any 'highly irresponsible' reviews](https://aclrollingreview.org/acguidelines#review-direct-flagging). The PCs will consider what action to take for such reviewers. Equally important are positive incentives for the great reviewers, please be generous with recommending for awards those who do a great job.
+If you have any such cases in your batch, and you find the complaint justified, please discuss the situation with your ACs, and consider obtaining another review (find another reviewer, or have it written by the AC or yourself if you/AC haven't already done another review for the same paper). Please also make sure that either you or the AC [reports any 'highly irresponsible' reviews](https://aclrollingreview.org/acguidelines#review-direct-flagging). The PCs will consider what action to take for such reviewers. Equally important are positive incentives for the great reviewers, please be generous with recommending for awards those who do a great job. They may receive free virtual registration for a \*CL conference or a discount to attend one on-site.
 
 ## ✅ TASK 4: Chasing late meta-reviewers {#emergency-metareviews}
 
 The cycle-specific date when the meta-reviews are due was communicated in the kick-off email for the cycle. It is important that the ACs complete this on time, due to the limited buffer time before the upcoming deadlines of the next cycle to which the authors may wish to resubmit. 
+
+To find which ACs haven't taken action at all, you can use the filter `+metaReviewCount<1` in openreview 'submission status' tab. There is also the sorting option 'number of missing meta-reviews' in the Area Chair status tab.
 
 If you identify an unresponsive AC, there are three options:
 
@@ -137,6 +143,7 @@ If you identify an unresponsive AC, there are three options:
 Once again, it is very important that you send direct messages from your personal email accounts to communicate with the emergency meta-reviewers, since messages sent from OpenReview may end up in the spam folder or simply be ignored. Once you’ve had a positive reply from the person you invite, assign them in OpenReview. Try to give them 24-48 hours to complete the review.
 
 To reassign, go to `Modify Area Chair` assignments in your Senior Area Chair console. The steps are identical to what ACs need to do for emergency reviewing (just need to replace the reviewer with the AC). See slide #15-17 here: https://docs.google.com/presentation/d/1z5hb6Y-tvALSmQYb2skCzv34boG4-QbEBiPKmr8vOX4/edit?usp=sharing
+
 
 # ✅ TASK 5: Nominating great ACs and flagging the irresponsible ones {#metareview-quality-check}
 
@@ -153,6 +160,8 @@ The mechanism for reporting unacceptable meta-reviews and also for nominating th
 
 If you have any ACs that went completely MIA and did not submit the [emergency declaration](https://aclrollingreview.org/reviewerguidelines#emergency) or [delay notification](https://aclrollingreview.org/reviewerguidelines#delay), and you had to reassign them, this will be detected automatically via the fact that the meta-review was completed by a different AC than originally appointed, and no emergency or delay notifaction from them is present in the forum. You do not have to report anything. 
 
+Once again, you can use [report generator](#report-generator) for an easy overview of papers with possible issues shown in the list.
+
 # ✅ Commitment stage tasks (not handled by ARR) {#commitment-stage}
 
 This section only applies to review cycles directly associated with a specific conference. If you are an SAC in such a cycle, the commitment stage is generally handled by the PCs of the respective conference rather than ARR, and may happen slightly differently in different conferences. It will be done in a separate OpenReview site, to which all reviewed and author-committed papers will be imported. This section hosts general guidelines for the main tasks typically performed at commitment stage, and your conference PCs may communicate additional instructions.
@@ -167,9 +176,11 @@ Usually, the 'big' tasks include:
 
 As you make your acceptance recommendations, please consider each paper in your batch, including any response to meta-reviews and/or meta-review issue reports submitted by the authors. As ACL community grows, there may be cases where reviewers and/or area chairs are lacking expertise or appreciation for non-mainstream types of contributions. As a senior researcher who can see a bigger batch of submissions than either area chairs or reviewers, you can see the big picture, and consider not only numerical scores or popularity, but also encouraging a diversity of perspectives, methodology, reporting of negative results.
 
-**Anonymity advantage for borderline papers.** When you make decisions for borderline papers, the new ACL policy is that [the borderline papers that were not preprinted during review have an advantage over those that were](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2). ARR submission page has a "perprint status" field that you can search for. If the authors said that they were planning or considering to release the preprint, we ask you to search for the paper and see if they did. If so, they lose the anonymity advantage.
+**Anonymity advantage for borderline papers.** When you make decisions for borderline papers, the new ACL policy is that [the borderline papers that were not preprinted during review have an advantage over those that were](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2). ARR submission page has a "perprint status" field that you can search for. If the authors said that they were planning or considering to release the preprint, we ask you to search for the paper and see if they did. If so, they lose the anonymity advantage. 
 
 **Compromised reviews.** According to the same source, you should not rely on reviews where the reviewers were biased by the knowledge of the authors' identity. To help you estimate that, the review forms contain the question 'Knowledge of/educated guess at author identity'.
+
+The [report generator](#report-generator) provides an easy interface for quickly checking which papers have preprints. It also shows which papers have confidential comments from authors, review issue reports, and low-confidence reviews.
 
 ## ✅ TASK 2: Finalizing the reports of great/unacceptable ACs and reviewers {#incentives}
 
