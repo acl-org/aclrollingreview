@@ -14,6 +14,17 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Changelog
 
+## March 2026
+
+* experiment with optional Revas tool to identify common review issues (in collaboration with Ubiquitous Knowledge Processing Lab and MBZUAI NLP)
+
+## January 2026
+
+* development of ARR report generator (lead: Marco Treviso)
+* updates to ARR tracks and area keywords (in collaboration with EMNLP 2026 PCs)
+* further updates to formatting guidelines (lead: Anna)
+* hiring and onboarding of a new editorial assistant (lead: Anna)
+
 ## October 2025
 
 * Improving form and process for withdrawals (leads: Anna, Mike, Freda)
