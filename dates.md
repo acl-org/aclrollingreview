@@ -41,6 +41,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | :---: | :-----------------------: | :-------------: |
 | [EACL 2026](https://2026.eacl.org/) | October 6, 2025 | December 14, 2025 |
 | [ACL 2026](https://2026.aclweb.org/) | January 5, 2026 | March 14, 2026 |
+| [EvalMG26](https://evalmg.github.io/) | March 16, 2026 | May 27, 2026 |
 
 ## Past Venues that Accepted ARR Submissions
 
