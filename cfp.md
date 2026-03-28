@@ -150,11 +150,11 @@ Authors considering a resubmission should also refer to the [withdrawal policy](
 
 ### Withdrawal Policy
 
-Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle, so withdrawing after this time requires contacting the ACs.
+Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle.  Please note that withdrawing after the 48 hour deadline requires contacting the ACs.
 
 Once the submission receives the ARR meta-review, it is no longer considered under review, and can be submitted or committed elsewhere with no restrictions. There is no need to withdraw a meta-reviewed paper to resubmit to ARR or commit to a conference that accepts ARR reviews. When resubmitting a revised version, please follow the resubmission policy above.
 
-**Once a paper receives even one review at ARR, it cannot be simply withdrawn and submitted as a new publication.** If you intend to resubmit  to ARR, do *not* withdraw the previous version. Simply resubmit following the above resubmission policy. 
+**Once a paper receives even one review at ARR, it cannot be simply withdrawn and submitted again as a new publication.** If you intend to resubmit to ARR, do *not* withdraw the previous version. Simply resubmit following the above resubmission policy. 
 
 ### Ethics Policy
 
