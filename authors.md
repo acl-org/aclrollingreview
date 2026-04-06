@@ -251,7 +251,7 @@ Yes, this has long been allowed at ARR. However, you need to provide a link to t
 
 ARR follows [the ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation). Submissions must be properly anonymized as detailed in [CFP](/cfp.md). See [here](/authorchecklist.md) for some common issues.
 
-Please note: the content of 'confidential comments' in OpenReview can be viewed by area chairs, senior area chairs and program chairs. The authors are anonymous to both area chairs and senior area chairs, so do NOT put the author names or any other deanonymizing information in such comments.
+**Please read**: Confidential comments in Open Review are visible to ACs, SACs, and PCs.  Because authors are anonymous to ACs and SACs, **do not include author names or any identifying details in confidential comments**.
 
 Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review. See [CFP](/cfp.md) and [here](/authorchecklist.md) for more information on the incentives for anonymous submissions and their implementation at ARR.
 
