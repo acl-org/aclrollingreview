@@ -93,6 +93,14 @@ Short papers may consist of:
 
 Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected.
 
+## Originality requirement and overlap with other work by the same authors. {#originality}
+
+All submitted papers are expected to describe original, completed and unpublished work. See the [publication ethics guidelines](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Text_Re-use) on re-use of text from other publications (no more than 10% total tokens). There can be no overlap in stated contributions. ARR now follows ICML in discouraging [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/) as follows: any concurrently submitted papers on a related topic with an overlapping set of authors must cite each other and discuss the differences in the related work section. Anonymized versions of such papers should be uploaded as supplementary material. Recommended citation format in the bibliography:
+
+> `Anonymous (2026). Paper title. Under review.`
+
+Papers violating the above originality requirements may be desk rejected.
+
 ### Instructions for Two-Way Anonymized Review
 
 Papers must not include authors' names and affiliations. Furthermore, self-references that reveal the authors' identities, e.g., "We previously showed (Smith, 1991)..." must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991)..." Papers should not refer, for further detail, to documents that are not available to the reviewers.
