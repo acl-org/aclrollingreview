@@ -221,13 +221,13 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   </div>
 </div>
 
-<!-- <div class="person" markdown="0">
+<div class="person" markdown="0">
   <img src="images/people/himanshu_beniwal.jpg" alt="Himanshu Beniwal">
   <div>
     <a href="https://himanshubeniwal.github.io/">Himanshu Beniwal</a><br>
     Indian Institute of Technology Gandhinagar
   </div>
-</div> -->
+</div>
 
 <div class="person" markdown="0">
   <img src="images/people/atsuki_yamaguchi.jpg" alt="Atsuki Yamaguchi">
