@@ -127,6 +127,7 @@ A: Both review and meta-review issue reports are meant to signal a problem to th
 If you can see ways to markedly improve your paper or are unhappy with your reviews, consider revising it and resubmitting to a subsequent ARR review cycle.
 
 **What do I need to resubmit?** You submit the same information as [Step 1](#step1), as well as:
+
 - The link to your previous submission (e.g., `https://openreview.net/forum?id=abcd1234`)
 - An explanation of revisions that responds to reviews from the previous round
 - A preference regarding reviewers: same or all new
