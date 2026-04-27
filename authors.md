@@ -260,6 +260,10 @@ ARR follows [the ACL Policies for Review and Citation](https://www.aclweb.org/ad
 
 Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review. See [CFP](/cfp.md) and [here](/authorchecklist.md) for more information on the incentives for anonymous submissions and their implementation at ARR.
 
+**Q: what counts as a preprint?**
+
+The 'preprint' question in ARR submission form focuses on the possibility of deanonymization, rather than any specific publication channel such as arXiv. So e.g. withdrawn publications from other conferences also count as preprints, as long as they reveal the authors' names.
+
 ## Contributing to the Paper and Review Dataset
 
 **Q: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?**
