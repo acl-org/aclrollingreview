@@ -12,7 +12,7 @@ ACL Rolling Review (ARR) invites the submission of long and short papers on subs
 * Step 1 – Centralized Rolling Review: Authors submit papers to a unified review pool with deadlines every two months. Review is handled by an area chair (AC), and revision and resubmission of papers are allowed.
 * Step 2 – Commitment to a Publication Venue: A publication venue is a conference or workshop that accepts reviews from ARR. When an opportunity to commit to a publication venue comes around, authors may submit papers with fully completed reviews (including meta reviews). Program chairs decide the process for committing ARR reviewed papers, as well as the criteria and process for deciding to accept a subset of these submissions into their event.
 
-## SCOPE OF SUBMISSIONS
+## SCOPE OF SUBMISSIONS {#scope}
 
 All topics in Computational Linguistics / Natural Language Processing are welcome at ARR. At submission, papers must select a topic area to assist with AC and reviewer matching. The current set of areas are (in alphabetical order):
 
@@ -67,7 +67,7 @@ ARR welcomes scholars from other communities who make a substantive contribution
 * For machine learning application papers on areas other than language, if the authors feel that their work fits the NLP applications track (e.g. because it finds a new application for a language model), they are welcome to try to convince the reviewers and area chairs that their work should be presented in this venue.
 * A good rule-of-thumb to consider whether your work is connected to a given community is to consider whether your list of references has a substantial proportion of papers from that community. 
 
-## PAPER SUBMISSION INFORMATION
+## PAPER SUBMISSION INFORMATION {#submission}
 
 ### Long Papers
 
@@ -142,7 +142,7 @@ There are several cases to consider:
 Submissions that violate requirements 1, 2, or 4 will be desk rejected.
 
 
-### Resubmission Policy
+### Resubmission Policy {#resubmissions}
 
 Authors may resubmit to ACL Rolling Review.
 
@@ -164,7 +164,7 @@ Submissions that had previously received very low evaluation from reviewers and 
 
 Authors considering a resubmission should also refer to the [withdrawal policy](#withdrawal-policy) below.
 
-### Withdrawal Policy
+### Withdrawal Policy {#withdrawal}
 
 Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle.  Please note that withdrawing after the 48 hour deadline requires contacting the ACs.
 
@@ -172,7 +172,7 @@ Once the submission receives the ARR meta-review, it is no longer considered und
 
 **Once a paper receives even one review at ARR, it cannot be simply withdrawn and submitted again as a new publication.** If you intend to resubmit to ARR, do *not* withdraw the previous version. Simply resubmit following the above resubmission policy. 
 
-### Ethics Policy
+### Ethics Policy {#ethics}
 
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
@@ -181,7 +181,7 @@ The consideration of the ethical impact of our research, use of data, and potent
 We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by the Ethics Advisory Committee (EAC).
 
 
-### AI Writing/Coding Assistance Policy
+### AI Writing/Coding Assistance Policy {#ai}
 
 Generally, generative AI tools do not qualify for authorship. Their use for writing or coding, as well as its scope, must be disclosed in the Responsible NLP Checklist. Details should be included in the Acknowledgements section. For coding assistance, details may also be included in the README files.
 
@@ -200,13 +200,13 @@ The full text of the submissions should be addressed exclusively to the human re
 
 Reviewers found to rely on generative models in violation of publication ethics policy are included under the current definition of ['highly irresponsible' reviewers](https://2025.emnlp.org/reviewer-policies), and can be [sanctioned](https://www.aclweb.org/adminwiki/images/d/d3/ACL_Peer_Review_Committee_Report2_Incentives_May_2025.pdf), including a temporary ban from (re-)submitting at ACL venues.
 
-### Limitations (required section)
+### Limitations (required section) {#limitations}
 
 Authors are required to discuss the limitations of their work in a dedicated section titled "Limitations". This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers. Papers without a limitations section will be desk rejected. Note, prior to the December 2023 cycle, this was optional.
 
 Please note that this section should not introduce new methods, analysis, or results. We reserve the right to desk reject the submissions that use this section to introduce more content that should have been part of the main paper. It can only discuss the limitations of the work presented in the main content of the paper.
 
-### Reviewing Requirements
+### Reviewing Requirements {#reviewing}
 
 Submitting to ARR comes with a reviewing requirement. Starting in May 2025, **all authors are expected to contribute to the review process**, unless an [exception](https://aclrollingreview.org/exemptions2025) applies (e.g., authors new to the community, with insufficient experience, or already serving in another capacity). Papers from the teams that do not meet this requirement, and are not covered by an exception, may be desk rejected. See more details on the updated policy [here](https://aclrollingreview.org/incentives2025).
 
@@ -222,7 +222,7 @@ All reviewers must familiarize themselves with the latest version of the [ARR re
 
 4. The nominated authors who already have ARR reviewer profiles must also set their load for the current cycle to at least 4 papers per submission, prior to submission.  -->
 
-### Paper Submission Process, Criteria and Template
+### Paper Submission Process, Criteria and Template {#process}
 
 Submission is electronic, using the OpenReview.net platform. All long, short, and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](https://aclrollingreview.org/submissionform) are the paper submission form fields for your reference. 
 
@@ -235,7 +235,7 @@ Submissions that do not conform to the required styles, including paper size, ma
 [Here](https://aclrollingreview.org/reviewform) is the current version of the review form, and [here](https://aclrollingreview.org/actioneditorform) is the current version of the AC meta-review form. These forms will be re-assessed and updated periodically.
 
 
-### Desk Rejection
+### Desk Rejection {#dr}
 
 Papers can be desk-rejected for a variety of reasons, including format and anonymity violations, dual submissions, and self-plagiarism (significant overlap in content with other submissions or publications by the same authors). We provide authors with a [checklist](/authorchecklist) to assist with avoiding some of the common issues (the list is not exhaustive).
 
@@ -243,7 +243,7 @@ Starting from December 2024, ARR will also enforce desk rejections for incorrect
 
 Note that while we do our best for the bulk of desk rejections to happen before the start of the review process, sometimes serious problems are missed at initial checks and discovered late. Hence, desk-rejections can happen at any time in the review cycle.
 
-### Optional Supplementary Materials: Appendices, Software, and Data
+### Optional Supplementary Materials: Appendices, Software, and Data {#supplementary}
 
 ARR encourages the submission of these supplementary materials to improve the reproducibility of results and to enable authors to provide additional information that does not fit in the paper. Supplementary materials may include appendices, software, or data. For example, pre-processing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. 
 
