@@ -225,6 +225,10 @@ See the "reviewing requirements" section of the [CFP](/cfp#reviewing-requirement
 
 ## ARR submission standards {#standards}
 
+**Q: do dissertations count as prior publications?**
+
+University dissertations and theses do not count as prior publications for the purposes of ARR submissions.
+
 **Q: What should I put in the limitations section?**
 
 Generally, the limitations section should focus on the soundness of the study, and answer the question: what are the methodological caveats that the reader should be aware of when interpreting the reported findings? For instance, were the models, languages or data selected as a convenience sample? Could the reported results be affected by some confounding factor (e.g LLM test data contamination)?
