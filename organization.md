@@ -6,9 +6,11 @@ permalink: /organization
 
 ## Support
 
-For general support regarding ARR please contact <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>. 
+{% include admonition.html type="warning" title="Important changes!" body="If you have assignments as a reviewer or area chair, and you have an emergency, do **not** reach out to the editors. You should file an [emergency declaration form](https://aclrollingreview.org/reviewerguidelines#emergency) or a [delay notification form](https://aclrollingreview.org/reviewerguidelines#delay) in the forum for the respective submission(s)." %}
 
-For questions related to specific cycles, please write to <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>. Do NOT contact the individual editors listed in this page directly. The ARR editors take turns working in different cycles, and the emails to the editors@aclrollingreview.org go into our ticketing system, where they are then assigned to the right team.
+For other questions related to specific cycles, please write to <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>. Do NOT contact the individual editors listed in this page directly. The ARR editors take turns working in different cycles, and the emails to the editors@aclrollingreview.org go into our ticketing system, where they are then assigned to the right team.
+
+For general support regarding ARR please contact <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>. 
 
 ## Editors in Chief
 
