@@ -66,6 +66,8 @@ All back-and-forth comments can be made until a final deadline, after which the 
 
 **Q: Is it a good idea to press reviewers to raise their scores if I believe my response addressed their concerns? If they don’t, is that grounds for a confidential comment to the AC?** You can ask politely to change the evaluation if your response addressed the reviewer’s concern, but pressing them is probably not a good idea. Also, the reviewer may simply not be convinced by your arguments, and hence no, it’s not automatically grounds for flagging the issue to the AC.
 
+**Q: How can I leave a confidential comment for the AC?** If it is about a review issue, please [flag this in the review issue report](#step2.2). This is what the AC guidelines specify as something they should check. Otherwise you can use the forum functionality on openreview: simply leave a comment on the review and select the intended chair(s) (not authors) as the intended audience. 
+
 ## 🆕 Review issue reporting {#step2.2}
 
 After the author discussion period ends, there is a brief period for the reviewers to finish updating their reviews. The exact timing is communicated in the cycle emails. Then you will have the possibility to report review issues. It is a form of "official comment" on a review that you will see in OpenReview interface (screenshot below).
