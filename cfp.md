@@ -212,7 +212,7 @@ Please note that this section should not introduce new methods, analysis, or res
 
 ### Reviewing Requirements {#reviewing}
 
-Submitting to ARR comes with a reviewing requirement. Starting in May 2025, **all authors are expected to contribute to the review process**, unless an [exception](https://aclrollingreview.org/exemptions2025) applies (e.g., authors new to the community, with insufficient experience, or already serving in another capacity). Papers from the teams that do not meet this requirement, and are not covered by an exception, may be desk rejected. See more details on the updated policy [here](https://aclrollingreview.org/incentives2025).
+Submitting to ARR comes with a reviewing requirement. Starting in May 2025, **all authors are expected to contribute to the review process**, unless an [exemption](https://aclrollingreview.org/exemptions2025) applies (e.g., authors new to the community, with insufficient experience, or already serving in another capacity). Papers from the teams that do not meet this requirement, and are not covered by an exception, may be desk rejected. See more details on the updated policy [here](https://aclrollingreview.org/incentives2025).
 
 A large-scale conference is a community effort. Thousands of authors can only get quality reviews on time if they also provide them. Contributing to the reviewing effort is hence a prerequisite to receiving the same effort from other people (for each paper there are three reviews and meta-review, plus its share of the necessary work from the chairs, the tech team and other volunteers). Note that the paper may still be desk rejected for formatting or any other violation, including the neglect of review duties by some of the authors.
 
