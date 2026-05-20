@@ -103,10 +103,9 @@ One reading strategy that seems to be often used, but not well suited for peer r
 
 **In-depth reading.** This is where you evaluate the evidence that is presented for its technical soundness, proof validity, sound argumentation, novelty, etc. How to do this best depends on the type of paper and your workflow.
 
-**Should I check for related work?** Please do that carefully, and only *after* you've drafted your review. Many papers have non-anonymous preprints, and you may accidentally discover the identity of authors, which would open you up to social biases. Do NOT deliberately search for the preprinted version of the paper you were assigned.
+**Should I check for related work?** Please do that carefully, and only *after* you've drafted your review. Many papers have non-anonymous preprints, and you may accidentally discover the identity of authors, which would open you up to social biases. Do NOT deliberately search for the preprinted version of the paper you were assigned. Papers may reference unpublished related work, performed by an overlapping set of authors; in that case, the authors were [instructed](cfp#originality) to discuss it in the related work, and include an anonymized copy in the 'data' attachment field.
 
 **Do I have to read the appendices?** The paper should be readable by itself, and any details important for understanding the key aspects of the work should be in the paper rather than in appendices. The authors may provide supplementary material with extra experiments, implementation details, examples, code, or data, but you are not required to consider such material. However, if you happen to have a question about supplementary experiments, methodological details etc., and the paper explicitly refers to the appendix for more information about that specific issue — looking it up would save everybody’s time. Often, we see author rebuttals that simply refer the reviewer to the appendix for exactly the thing they asked for.  At the same time, if something has been relegated to the appendix that you, as a reviewer, believe belongs in the main paper, this is a reasonable suggestion to make to the authors to improve the paper (but not a serious weakness as such modifications are usually simple).
-
 
 ## 2. Be specific <span class='reviewIssue'>I1</span>
 
