@@ -4,9 +4,9 @@ layout: default
 
 <h1>Blog</h1>
 
-<div class="posts">
+<div class="posts" id="blog-posts">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post" data-post-index="{{ forloop.index0 }}">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h2>{{ post.title }}</h2>
 
@@ -21,4 +21,74 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+
+  <div class="pagination" id="blog-pagination"></div>
 </div>
+
+<script>
+  (function () {
+    var perPage = {{ site.paginate | default: 6 }};
+    var posts = document.querySelectorAll('#blog-posts .post');
+    var pagination = document.getElementById('blog-pagination');
+    var totalPages = Math.max(1, Math.ceil(posts.length / perPage));
+
+    function getPageFromHash() {
+      var m = window.location.hash.match(/^#page=(\d+)$/);
+      if (m) {
+        var n = parseInt(m[1], 10);
+        if (n >= 1 && n <= totalPages) return n;
+      }
+      return 1;
+    }
+
+    function render(page) {
+      posts.forEach(function (el, i) {
+        var visible = i >= (page - 1) * perPage && i < page * perPage;
+        el.style.display = visible ? '' : 'none';
+      });
+      renderPagination(page);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function pageLink(label, page, opts) {
+      opts = opts || {};
+      if (opts.disabled) {
+        var span = document.createElement('span');
+        span.textContent = label;
+        return span;
+      }
+      if (opts.current) {
+        var cur = document.createElement('span');
+        cur.className = 'webjeda';
+        cur.textContent = label;
+        return cur;
+      }
+      var a = document.createElement('a');
+      a.href = '#page=' + page;
+      a.textContent = label;
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        history.replaceState(null, '', '#page=' + page);
+        render(page);
+      });
+      return a;
+    }
+
+    function renderPagination(page) {
+      pagination.innerHTML = '';
+      if (totalPages <= 1) return;
+
+      pagination.appendChild(pageLink('« Prev', page - 1, { disabled: page === 1 }));
+      for (var p = 1; p <= totalPages; p++) {
+        pagination.appendChild(pageLink(String(p), p, { current: p === page }));
+      }
+      pagination.appendChild(pageLink('Next »', page + 1, { disabled: page === totalPages }));
+    }
+
+    render(getPageFromHash());
+
+    window.addEventListener('hashchange', function () {
+      render(getPageFromHash());
+    });
+  })();
+</script>
