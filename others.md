@@ -23,9 +23,10 @@ permalink: /others
 
 ## Past Contributors to ACL Rolling Review Initiative
 
+- Sudipta Kar, Oracle Health AI (Chief Technical Officer, 2023-2026)
+- Jonathan K. Kummerfeld, University of Sydney (Chief Technical Officer, 2023-2026)
 - Graham Neubig, Carnegie Mellon University (Chief Technical Officer, 2021-2023)
 - Pengfei Liu, Carnegie Mellon University (Tech Team, 2021-2023)
 - Sebastin Santy, University of Washington (Tech Team, 2021-2023)
 - Stephen Mayhew, Duolingo (Chief Communication Officer, 2021-2023)
 - Nils Dycke, TU Darmstadt (Tech Team, 2021-2024)
-
