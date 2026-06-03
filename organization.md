@@ -66,7 +66,7 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
   <img src="images/people/sarvnaz_karimi.jpeg" alt="Sarvnaz Karimi">
   <div>
     <a href="https://www.linkedin.com/in/sarvnaz-karimi-64ab491/?originalSubdomain=au">Sarvnaz Karimi</a><br>
-    CSIRO
+    Monash University and CSIRO
   </div>
 </div>
 
