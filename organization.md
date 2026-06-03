@@ -147,22 +147,6 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/sudipta_kar.jpg" alt="Sudipta Kar">
-  <div>
-    <a href="https://sudiptakar.info/">Sudipta Kar</a><br>
-    Oracle Health AI
-  </div>
-</div>
-
-<div class="person" markdown="0">
-  <img src="images/people/jonathan_kummerfeld.jpg" alt="Jonathan K. Kummerfeld">
-  <div>
-    <a href="https://jkk.name/">Jonathan K. Kummerfeld</a><br>
-    University of Sydney
-  </div>
-</div>
-
-<div class="person" markdown="0">
   <img src="images/people/yoshitomo_matsubara.jpg" alt="Yoshitomo Matsubara">
   <div>
     <a href="https://yoshitomo-matsubara.net/">Yoshitomo Matsubara</a><br>
