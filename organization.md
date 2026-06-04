@@ -102,6 +102,14 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
   </div>
 </div>
 
+<div class="person" markdown="0">
+  <img src="images/people/asad_sayeed.jpg" alt="Asad Sayeed">
+  <div>
+    <a href="https://www.gu.se/en/about/find-staff/asadsayeed">Asad Sayeed</a><br>
+    University of Gothenburg
+  </div>
+</div>
+
 ## Ethics Chair
 
 <div class="person" markdown="0">
@@ -236,6 +244,14 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   <div>
     <a href="https://leonardo-ranaldi.github.io/">Leonardo Ranaldi</a><br>
     University of Edinburgh
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/yuhang_tian.jpg" alt="Yuhang Tian">
+  <div>
+    <a href="https://maydaytyh.github.io/">Yuhang Tian</a><br>
+    Beijing Institute of Technology
   </div>
 </div>
 
