@@ -47,7 +47,7 @@ Note: ARR will continue to allow qualified authors to ask for an exemption, e.g.
 
 The rationale for requiring prior work in ACL anthology at all is that each scientific community has its norms and expectations, and with too diverse a pool of reviewers the submissions may get judged by the standards of a different scientific community, which is frustrating for the authors. Even interdisciplinary submissions typically have at least some connection to the community in which they intend to publish. That said, when there are no qualified reviewers per paper, ARR does consider reviewer candidates on a case-by-case basis. All authors are expected to review if they receive assignments.
 
-**AC qualifications.** We are also modifying our Area Chair requirements slightly. ACs need to meet three criteria:
+**AC qualifications.** We are also modifying our Area Chair requirements slightly. ACs need to meet four criteria:
 
 - Either a completed PhD, or a main conference \*CL publication from more than 5 years ago.
 - Four papers in main ACL events or Findings.
