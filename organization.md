@@ -155,6 +155,14 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
 </div>
 
 <div class="person" markdown="0">
+  <img src="images/people/kemal_kurniawan.jpg" alt="Kemal Kurniawan ">
+  <div>
+    <a href="https://kkurniawan.com/">Kemal Kurniawan</a><br>
+    University of Melbourne (Co-Chief Technical Officer)
+  </div>
+</div>
+
+<div class="person" markdown="0">
   <img src="images/people/yoshitomo_matsubara.jpg" alt="Yoshitomo Matsubara">
   <div>
     <a href="https://yoshitomo-matsubara.net/">Yoshitomo Matsubara</a><br>
@@ -264,6 +272,13 @@ Contact: <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; fon
   <div>
     <a href="https://sonakshi-chauhan.ghost.io/about-me/">Sonakshi Chauhan</a><br>
     University of Glasgow
+  </div>
+</div>
+
+<div class="person" markdown="0">
+  <img src="images/people/thomas_colihan.jpg" alt="Thomas Colihan">
+  <div>
+    <a href="">Thomas Colihan</a><br>
   </div>
 </div>
 
