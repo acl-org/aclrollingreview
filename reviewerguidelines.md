@@ -607,8 +607,7 @@ You can contact your AC either directly or through OpenReview (see the OpenRevie
 * To communicate through OpenReview, you should see a button labeled “Official Comment” at the top of the paper forum. Click on it to open a message form. For messaging exclusively the ACs, please select only “area chairs” in the “Readers” field of the form.
 * To communicate through email, you can find the name of the AC on the “Paper Assignments” page in OpenReview, and click on their name. Their email will be anonymized on the OpenReview page itself (for privacy reasons), but you can often find it by clicking on the “Homepage” link or otherwise searching for their contact information by following the links in the profile.
 
-
-## Q: Can I use a secondary reviewer?
+## Q: Can I use a secondary reviewer? {#secondary-reviewer}
 
 Starting with the April 2024 cycle, we have rolled out a secondary reviewing feature. We understand that especially for more senior reviewers, having the ability to collaborate in reviewing the papers is convenient and helps train new reviewers. 
 
