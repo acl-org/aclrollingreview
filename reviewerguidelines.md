@@ -47,7 +47,6 @@ It would be a good idea to actually clock yourself doing the reviewing work from
 
 # ✅ **TASK 2. Assignment check** 
 
-
 ## Expertise and COI check: can you review these papers?
 
 As soon as you get an assignment, skim the paper to check whether this is **something that you are qualified to review**. The assignments are made based on a semi-automatic process, and, even with careful checks by the area chair, you may feel like you are not qualified to review a given submission.
@@ -615,7 +614,11 @@ Starting with the April 2024 cycle, we have rolled out a secondary reviewing fea
 
 The main reviewer is still responsible for submitting the work, including the review itself, in a timely manner. They are still the point of contact for ARR, and will receive all of ARR communication. They are responsible for the quality and the sustained engagement of the secondary reviewer after author rebuttal. 
 
-There is a special 'Secondary reviewer' field in the review form that can be used to acknowledge the reviewer. It will not be visible to the authors. Secondary reviewers will be added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates.
+The secondary reviewers were initially declared via a 'secondary reviewer' field in the review form, which was only used to acknowledge the reviewers. Starting in May 2026, it is possible to declare the reviewers via a new 'Declare a secondary reviewer' button, which brings up the following interface:
+
+![alt_text](images/guidelines/secondary-reviewer-declaration.png "secondary reviewer declaration form")
+
+The secondary reviewers, like the primary reviewers, are not be visible to the authors. They are added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates.
 
 ## Q: Why is peer review so inconsistent?
 
