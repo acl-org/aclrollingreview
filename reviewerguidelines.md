@@ -617,7 +617,9 @@ The secondary reviewers were initially declared via a 'secondary reviewer' field
 
 ![alt_text](images/guidelines/secondary-reviewer-declaration.png "secondary reviewer declaration form")
 
-The secondary reviewers, like the primary reviewers, are not be visible to the authors. They are added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates.
+The secondary reviewers, like the primary reviewers, are not be visible to the authors. They are added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates. 
+
+New in May 2026: secondary reviewers should now be able to view the forums and see the author response. Any responses to author response, or updates to the original review, still need to be submitted by the primary reviewer (since they take responsibility for the review). However, this change should make it easier for the secondary reviewers to at least follow the discussion and draft the suggested responses for the primary reviewer. 
 
 ## Q: Why is peer review so inconsistent?
 
