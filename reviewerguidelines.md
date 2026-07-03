@@ -47,7 +47,6 @@ It would be a good idea to actually clock yourself doing the reviewing work from
 
 # ✅ **TASK 2. Assignment check** 
 
-
 ## Expertise and COI check: can you review these papers?
 
 As soon as you get an assignment, skim the paper to check whether this is **something that you are qualified to review**. The assignments are made based on a semi-automatic process, and, even with careful checks by the area chair, you may feel like you are not qualified to review a given submission.
@@ -608,14 +607,19 @@ You can contact your AC either directly or through OpenReview (see the OpenRevie
 * To communicate through OpenReview, you should see a button labeled “Official Comment” at the top of the paper forum. Click on it to open a message form. For messaging exclusively the ACs, please select only “area chairs” in the “Readers” field of the form.
 * To communicate through email, you can find the name of the AC on the “Paper Assignments” page in OpenReview, and click on their name. Their email will be anonymized on the OpenReview page itself (for privacy reasons), but you can often find it by clicking on the “Homepage” link or otherwise searching for their contact information by following the links in the profile.
 
-
-## Q: Can I use a secondary reviewer?
+## Q: Can I use a secondary reviewer? {#secondary-reviewer}
 
 Starting with the April 2024 cycle, we have rolled out a secondary reviewing feature. We understand that especially for more senior reviewers, having the ability to collaborate in reviewing the papers is convenient and helps train new reviewers. 
 
 The main reviewer is still responsible for submitting the work, including the review itself, in a timely manner. They are still the point of contact for ARR, and will receive all of ARR communication. They are responsible for the quality and the sustained engagement of the secondary reviewer after author rebuttal. 
 
-There is a special 'Secondary reviewer' field in the review form that can be used to acknowledge the reviewer. It will not be visible to the authors. Secondary reviewers will be added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates.
+The secondary reviewers were initially declared via a 'secondary reviewer' field in the review form, which was only used to acknowledge the reviewers. Starting in May 2026, it is possible to declare the reviewers via a new 'Declare a secondary reviewer' button, which brings up the following interface:
+
+![alt_text](images/guidelines/secondary-reviewer-declaration.png "secondary reviewer declaration form")
+
+The secondary reviewers, like the primary reviewers, are not be visible to the authors. They are added to the list of reviewers for that cycle after completion of the assignments. Conferences publish lists of their reviewers in the proceedings, and secondary reviewers can request reviewer certificates. 
+
+New in May 2026: secondary reviewers should now be able to view the forums and see the author response. Any responses to author response, or updates to the original review, still need to be submitted by the primary reviewer (since they take responsibility for the review). This change is intended to help in cases where the senior researchers mentor the junior researchers serving as secondary reviewers. The secondary reviewers can now follow the discussion themselves, without needing to wait for the primary reviewers to share anything, and they can let the primary reviewers know if it is necessary to update the review and/or post a further reply.
 
 ## Q: Why is peer review so inconsistent?
 
