@@ -235,7 +235,7 @@ See the "reviewing requirements" section of the [CFP](/cfp#reviewing-requirement
 
 University dissertations and theses do not count as prior publications for the purposes of ARR submissions.
 
-**Q: What should I put in the limitations section?**
+**Q: What should I put in the limitations section?** {#limitations}
 
 Generally, the limitations section should focus on the soundness of the study, and answer the question: what are the methodological caveats that the reader should be aware of when interpreting the reported findings? For instance, were the models, languages or data selected as a convenience sample? Could the reported results be affected by some confounding factor (e.g LLM test data contamination)?
 
@@ -245,6 +245,11 @@ In NLP literature, authors also commonly list the directions of generalizability
 
 Limitations section is overall not the place to discuss future work substantively, or any other content that should be part of the main paper.
 
+**Q: What are the rules for related work?**
+
+As per CFP, the main text of the paper must be self-contained, and reviewers are not expected to read the supplementary materials. Any material necessary to assess the novelty, claims and implications of the study (including related work, technical clarifications, discussion), should likewise be part of the main paper. 
+
+This does not mean that there has to be a separate section titled 'related work'; sometimes it is discussed in other sections. However, the paper is still expected to provide the reader with the necessary background, and position its contribution with respect to relevant work. If substantive parts of related work are needed to contextualize the contribution, but are placed exclusively in the appendices -- this will be viewed as an attempt to circumvent the content page count, and result in desk rejection.
 
 ## Commitment
 
