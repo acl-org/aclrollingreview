@@ -150,7 +150,7 @@ Submissions that violate requirements 1, 2, or 4 will be desk rejected.
 
 Authors may resubmit to ACL Rolling Review.
 
-When resubmitting, the **authors must provide a link to the previous submission**. Any paper previously submitted that does not acknowledge its earlier version will be desk rejected. This applies even if the previous version of the paper was desk rejected.
+When resubmitting, the **authors must provide a link to the previous submission**. Any paper previously submitted that does not acknowledge its earlier version will be desk rejected. This applies even if the previous version of the paper was desk rejected. Prior versions with the meta-review score of 1.5 cannot be resubmitted in the next cycle, and those with score of 1 can never be resubmitted.
 
 If the previous version was desk rejected for a violation of anonymity, authors should still follow our standard instructions for resubmission that include adding a general explanation (in the resubmission notes) stating how the paper has been properly anonymized (i.e., ‘we switched to an anonymous Git repository,’ etc.).  A completely new AC and new set of reviewers should be requested at this stage.
 
