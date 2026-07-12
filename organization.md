@@ -227,7 +227,7 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   <img src="images/people/himanshu_beniwal.jpg" alt="Himanshu Beniwal">
   <div>
     <a href="https://himanshubeniwal.github.io/">Himanshu Beniwal</a><br>
-    Indian Institute of Technology Gandhinagar
+    Technische Universität Dresden
   </div>
 </div>
 
