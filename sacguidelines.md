@@ -144,6 +144,7 @@ Once again, it is very important that you send direct messages from your persona
 
 To reassign, go to `Modify Area Chair` assignments in your Senior Area Chair console. The steps are identical to what ACs need to do for emergency reviewing (just need to replace the reviewer with the AC). See slide #15-17 here: https://docs.google.com/presentation/d/1z5hb6Y-tvALSmQYb2skCzv34boG4-QbEBiPKmr8vOX4/edit?usp=sharing
 
+If some papers end up with two meta-reviews, you do not need to remove extra meta-reviews (unless they are of very low quality).
 
 # ✅ TASK 5: Nominating great ACs and flagging the irresponsible ones {#metareview-quality-check}
 
@@ -175,6 +176,8 @@ Usually, the 'big' tasks include:
 ## ✅ TASK 1: Making acceptance recommendations compliant with ACL anonymity policy {#acceptance-anonymity}
 
 As you make your acceptance recommendations, please consider each paper in your batch, including any response to meta-reviews and/or meta-review issue reports submitted by the authors. As ACL community grows, there may be cases where reviewers and/or area chairs are lacking expertise or appreciation for non-mainstream types of contributions. As a senior researcher who can see a bigger batch of submissions than either area chairs or reviewers, you can see the big picture, and consider not only numerical scores or popularity, but also encouraging a diversity of perspectives, methodology, reporting of negative results.
+
+If you have two meta-reviews for one paper, you can decide which recommendation to consider, or you can make the decision based on both inputs.
 
 **Anonymity advantage for borderline papers.** When you make decisions for borderline papers, the new ACL policy is that [the borderline papers that were not preprinted during review have an advantage over those that were](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2). ARR submission page has a "perprint status" field that you can search for. If the authors said that they were planning or considering to release the preprint, we ask you to search for the paper and see if they did. If so, they lose the anonymity advantage. 
 

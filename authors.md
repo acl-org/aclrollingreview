@@ -128,6 +128,10 @@ The recommended length of the discussion at ARR is maximum 2 author responses pe
 
 A: Both review and meta-review issue reports are meant to signal a problem to the higher-up chairs. They do *not* trigger a revision process. The senior area chairs will see these reports together with the rest of the forum materials, when they consider the specific papers for acceptance. If the commitment site provides an option to submit a response to the meta-review, you can also mention any meta-review issue reports there. 
 
+**Q: what if I get two meta-reviews with different recommendations?**
+
+A: For the purposes of ARR process, you are allowed to resubmit in the next cycle if you got at least one meta-review with the recommendation that allows you to do so. For the purposes of decision-making at the commitment stage, the SACs will make their decisions based on all available information (unless one meta-review is of unacceptably low quality). We re-iterate that decisions are not made only on scores even when there is only one meta-review, and a 'high' AC recommendation does not guarantee acceptance.
+
 # Step 4: Resubmit for another round of review (optional) {#step4}
 
 If you can see ways to markedly improve your paper or are unhappy with your reviews, consider revising it and resubmitting to a subsequent ARR review cycle.
