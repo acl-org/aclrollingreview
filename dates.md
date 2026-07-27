@@ -38,6 +38,8 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [EMNLP 2026](https://2026.emnlp.org/) | May 25, 2026 | August 2, 2026 |
 | [AACL 2026](https://2026.aaclnet.org/) | May 25, 2026 | August 2, 2026 |
 | [EACL 2027](https://2027.eacl.org/) | August 3, 2026 | October 11, 2026 |
+| NAACL 2027 and COLING 2027 | October 12, 2026 | December 20, 2026 |
+| ACL 2027 | January, 2027 |  |
 
 ## Past Venues that Accepted ARR Submissions
 
