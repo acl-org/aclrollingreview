@@ -17,7 +17,7 @@ This table lists all the key dates, by which the authors may need to take action
 | March 2026 | March 16 | March 18 | April 20 | April 28-May 4 | May 21 | May 24 |
 | May 2026 | May 25 | May 27 | July 2 | July 8-July 14 | July 30 | August 2 |
 | August 2026 | August 3 | August 5 | September 7 | September 14-September 24 | October 8 | October 11 |
-| October 2026 | October 12 | TBA |  TBA | TBA | TBA | December 20 |
+| October 2026 | October 12 | TBA |  TBA | TBA | TBA | December 23 |
 
 Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
 
@@ -38,7 +38,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [EMNLP 2026](https://2026.emnlp.org/) | May 25, 2026 | August 2, 2026 |
 | [AACL 2026](https://2026.aaclnet.org/) | May 25, 2026 | August 2, 2026 |
 | [EACL 2027](https://2027.eacl.org/) | August 3, 2026 | October 11, 2026 |
-| NAACL 2027 and COLING 2027 | October 12, 2026 | December 20, 2026 |
+| NAACL 2027 and COLING 2027 | October 12, 2026 | December 23, 2026 |
 | ACL 2027 | January, 2027 |  |
 
 ## Past Venues that Accepted ARR Submissions
