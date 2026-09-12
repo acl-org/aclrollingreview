@@ -249,6 +249,7 @@ Among the common issues in the recent cycles, we highlight desk rejections for:
 - violating the resubmissions policy (i.e. submissions that are not accompanied with either revisions in response to prior reviews, or justifications for not doing so, as described in the section on resubmissions)
 - papers with appendices not following the double column format, except if covered by the [approved exceptions](https://acl-org.github.io/ACLPUB/formatting.html#appendices)
 - papers with various abuses of maximum paper length (e.g. extra results in the limitations section, related work exclusively in the appendices, vertical space hacking)
+- hallucinated citations
 - submissions that clearly do not meet the expected quality bar (ready for consideration for acceptance at a top-tier conference) can now be desk rejected without full review, if two chairs consider the case and agree on that decision
 
 Note that while we do our best for the bulk of desk rejections to happen before the start of the review process, sometimes serious problems are missed at initial checks and discovered late. Hence, desk-rejections can happen at any time in the review cycle.
