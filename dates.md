@@ -41,6 +41,7 @@ The upcoming publication venues participating in ARR are listed below. If you re
 | [NAACL 2027](https://2027.naacl.org/) | October 12, 2026 | December 23, 2026 |
 | [COLING 2027](https://2027.coling-iccl.org/) | October 12, 2026 | December 23, 2026 |
 | ACL 2027 | January, 2027 |  |
+| [ArabicNLP 2026](https://arabicnlp2026.sigarab.org/) |  May 25, 2026  | August 2, 2026 |
 
 ## Past Venues that Accepted ARR Submissions
 
