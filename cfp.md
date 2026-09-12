@@ -5,7 +5,7 @@ permalink: /cfp
 highlighter: none
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted a policy similar to that of CVPR, requiring all authors to sign up as reviewers, with assignments made based on their qualifications. Reviewers who fail to fulfill their responsibilities may become ineligible to commit or (re-)submit papers in the following ARR cycle. Submitting authors should ensure that all co-authors are aware of this policy and that every team member submits their reviews and meta-reviews on time according to the guidelines. After each submission deadline, all authors must complete the author registration form in accordance with the guidelines; if they receive assignments, reviews and meta-reviews must be completed by their respective deadlines. In case of emergencies or unavoidable delays, authors should promptly notify the area or senior area chairs via the designated emergency or delay form. More details are available in the reviewing [incentives announcement](https://aclrollingreview.org/incentives2025) and [exemptions policy](https://aclrollingreview.org/exemptions2025).  Metadata fields—including the Responsible Checklist—will remain editable for 48 hours after each submission deadline." %}
+{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. Submissions will now be capped to reviewer capacity. Submissions will only guaranteed review if they bring a qualified service contributor (who can serve for 2 submissions max, and is responsible for finding qualified replacements in case of any emergencies). There are now caps on maximum submissions by a single author (20) and first or joint-first authors (5), and penalties for system abuse including systematic spamming and account manipulation. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
 
 ACL Rolling Review (ARR) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve the efficiency, turnaround, and process consistency of ACL reviewing, while keeping the diversity (topical, geographic and otherwise) and iterative improvement through collaborative work with conference program chairs. ARR will use Open Review as its platform (but reviews will not be open in ARR). The reviewing and acceptance of papers for publication will be done in two steps:
 
@@ -27,8 +27,9 @@ All topics in Computational Linguistics / Natural Language Processing are welcom
 * Information Extraction
 * Information Retrieval and Text Mining
 * Interpretability and Analysis of Models for NLP
+* Language Diversity and NLP for Low-resourced Languages
 * Language Modeling
-* LLM Agents
+* LLM Agents for NLP
 * Linguistic Theories, Cognitive Modeling, and Psycholinguistics
 * Machine Learning for NLP
 * Machine Translation
@@ -60,7 +61,7 @@ ARR welcomes diverse types of contributions in the above areas. When making a su
 * Publicly available software and/or pre-trained models
 * Position papers
 * Reproduction study
-* Surveys (all papers are expected to include reviews of related literature. This category is meant for the papers that go beyond that, e.g. in scope or in establishing new interdisciplinary connections)
+* Surveys (all submissions are expected to include reviews of related literature. This category is meant for the papers that go beyond that, e.g. in scope or in establishing new interdisciplinary connections)
 * Theory
 
 Both positive and negative results for experimental studies are welcome, and have the same challenge of justifying to the program committee why this particular result is interesting and important. A negative results paper might report on non-reproducibility or non-generalizability of previously published results, their misattribution ('right for the wrong reasons'), or present an idea that seemed great (for well-justified reasons), but didn't work.
@@ -83,7 +84,6 @@ Long papers must describe substantial, original, completed and unpublished work.
 * plus unlimited pages of references
 
 Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected. 
-
 
 ### Short Papers
 
@@ -145,7 +145,6 @@ There are several cases to consider:
 
 Submissions that violate requirements 1, 2, or 4 will be desk rejected.
 
-
 ### Resubmission Policy {#resubmissions}
 
 Authors may resubmit to ACL Rolling Review.
@@ -164,7 +163,7 @@ Resubmissions must be modified versions of the original submission that address 
 
 If the authors want to add an author as part of a resubmission, they may do so with a (brief) justification; except in extremely rare circumstances, authors may not be removed. Any changes to the original set of authors should be justified in the field 'Justification for author changes'.
 
-Resubmitted papers will go back to the original reviewers and area chair, where possible, unless the authors request new reviewers or AC (with justification, e.g. violations of reviewer guidelines). Note that new reviewers are instructed to form their own view of the paper first: they only see the previous reviews and author explanation of revisions after they submit their initial reviews.  See the information for authors ([https://aclrollingreview.org/authors#step4](https://aclrollingreview.org/authors#step4)) for further discussion.
+Resubmitted papers will go back to the original reviewers and area chair, where possible, unless the authors request new reviewers or AC (with justification, e.g. violations of reviewer guidelines). Note that new reviewers are instructed to form their own view of the paper first: they only see the previous reviews and author explanation of revisions after they submit their initial reviews.  See the [information for authors](https://aclrollingreview.org/authors#step4) for further discussion.
 
 Submissions that had previously received very low evaluation from reviewers and a meta-review score of 1 generally need a wholesale revision that can be expected to take a lot of time. We reserve the right to desk reject such resubmissions if they are sent back to ARR within 6 months of the original submission without such a revision.
 
@@ -212,21 +211,17 @@ Authors are required to discuss the limitations of their work in a dedicated sec
 
 Please note that this section should not introduce new methods, analysis, or results. We reserve the right to desk reject the submissions that use this section to introduce more content that should have been part of the main paper. It can only discuss the limitations of the work presented in the main content of the paper.
 
-### Reviewing Requirements {#reviewing}
+### Service Requirements {#reviewing}
 
-Submitting to ARR comes with a reviewing requirement. Starting in May 2025, **all authors are expected to contribute to the review process**, unless an [exemption](https://aclrollingreview.org/exemptions2025) applies (e.g., authors new to the community, with insufficient experience, or already serving in another capacity). Papers from the teams that do not meet this requirement, and are not covered by an exception, may be desk rejected. See more details on the updated policy [here](https://aclrollingreview.org/incentives2025).
+Starting in October 2026, ARR will implement the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026). The review service will henceworth be capped to the available capacity. The review of submissions not contributing to the service pool will be subject to a lottery. Submissions will only be guaranteed review if they contribute a [qualified](TODO) service contributor (serving as a reviewer, chair or in senior roles). Any individual can be the designated service contributor on max 2 submissions (which corresponds to max 10 reviews as a reviewer or 16 meta-reviews as an area chair). In case of over-commitment, the submissions with the same over-committed contributor will be randomly subset to allowed max capacity, and the remainder will be added to the lottery pool. Submissions not selected for review via lottery will be desk rejected.
 
-A large-scale conference is a community effort. Thousands of authors can only get quality reviews on time if they also provide them. Contributing to the reviewing effort is hence a prerequisite to receiving the same effort from other people (for each paper there are three reviews and meta-review, plus its share of the necessary work from the chairs, the tech team and other volunteers). Note that the paper may still be desk rejected for formatting or any other violation, including the neglect of review duties by some of the authors.
+The designated service contributors will typically be selected among the authors of the submission, but it is possible to nominate other researchers. However, the designated contributor must be familiar with the submission, and confirm that it is at the expected quality level: ready for consideration for acceptance at a top-tier conference. Systematic endorsement of spammy submissions will be subject to sanctions by the publication ethics committee.
 
-All authors are expected to complete a registration form within 48h hours after submission deadline (e.g. before May 21 EoD AoE for May 2025 cycle, where the submission deadline is May 19). The registration link will be available in their console immediately after paper submission. They must have an updated OpenReview profile, including affiliation, semantic scholar link, dblp link, ACL anthology link, and an email address where they can receive OpenReview messages. See [here](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well) for how to maximize the likelihood of well-matched review assignments.
+All service contributors must have a valid and accurate OpenReview profile including affiliation, ORCID, dblp link, ACL anthology link, and an email address where they can receive OpenReview messages. See [here](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well) for how to maximize the likelihood of well-matched review assignments. After the nomination, they must complete a registration form within 48h hours after submission deadline. The registration link will be available in their console immediately after paper submission. See [here](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well) for how to maximize the likelihood of well-matched review assignments.
 
-The registered authors may or may not be selected for reviewing duties, but all qualified authors are expected to contribute if needed. The reviewers are considered qualified if they have published at least (a) at least two short or long papers in main ACL events or Findings, plus (b) at least one more paper in the ACL Anthology or a major ML/AI venue. We consider publication history recorded at ACL anthology, with the following 'main' venues: ACL, CL, CoLing, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, \*SEM. The major ML/AI venues we consider include AAAI, CVPR, ECCV, FAccT, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, NIPS, NeurIPS, TMLR, and TPAMI. 
+All service contributors must familiarize themselves with the latest version of the ARR guidelines for their role ([reviewers](https://aclrollingreview.org/reviewerguidelines), [area chairs](https://aclrollingreview.org/acguidelines), [senior area chairs](https://aclrollingreview.org/sacguidelines)) and perform their duties on time and in line with ARR requirements. 
 
-All reviewers must familiarize themselves with the latest version of the [ARR reviewer guidelines](https://aclrollingreview.org/reviewerguidelines) and perform the reviews on time and in line with ARR requirements. Starting from May 2025, the authors who are deemed 'highly irresponsible' as reviewers or chairs may become ineligible to (re-)submit their work to ARR in the subsequent ARR cycle, or commit it to the upcoming \*ACL conference. More details here: https://aclrollingreview.org/incentives2025
-
-<!--The number of papers assigned to each reviewer in a given cycle depends in part on the paper matching process. To mitigate the issue of overwhelming volume of assignments, ARR has implemented a load balance check across cycles. Please note that even with four assigned papers, contributing four reviews doesn’t fully reciprocate the volunteer effort that the authors receive for their submission to complete a full review cycle (it involves not just three reviews and a meta-review from the AC, potentially with emergency substitutions, but also effort from the SACs and PCs during paper commitment).
-
-4. The nominated authors who already have ARR reviewer profiles must also set their load for the current cycle to at least 4 papers per submission, prior to submission.  -->
+Note that the submission that contributed to the reviewing pool and was assigned for reviewing may still be desk rejected at any point in the process for formatting, authors failing to complete their OpenReview profiles, or any other violation. In that case, the service contributors must still perform the service they accepted. The contributors who are deemed 'highly irresponsible' will have their own work and any work for which they are service contributors desk rejected. They may also be temporarily **disqualified from ARR service**, which means that their submissions will either have to be covered by another qualified contributor or be subject to the lottery.
 
 ### Paper Submission Process, Criteria and Template {#process}
 
@@ -240,12 +235,19 @@ Submissions that do not conform to the required styles, including paper size, ma
 
 [Here](https://aclrollingreview.org/reviewform) is the current version of the review form, and [here](https://aclrollingreview.org/actioneditorform) is the current version of the AC meta-review form. These forms will be re-assessed and updated periodically.
 
+Starting in October 2026, **all authors must have complete OpenReview profiles** (adding co-authors only by email is no longer sufficient). The profiles must include ORCIDs, affiliation history, emails, any conflicts of interest, and (for those with prior publications) - also DBLP/Anthology links. The profile registration for all authors must be finished 1 week after submission deadline at the latest. Since OpenReview accounts may take some time to create, and this process does not depend on the submission form, we urge the authors to make sure that all co-authors have them as soon as possible. 
 
 ### Desk Rejection {#dr}
 
-Papers can be desk-rejected for a variety of reasons, including format and anonymity violations, dual submissions, and self-plagiarism (significant overlap in content with other submissions or publications by the same authors). We provide authors with a [checklist](/authorchecklist) to assist with avoiding some of the common issues (the list is not exhaustive).
+Papers can be desk-rejected for a variety of reasons, including format and anonymity violations, dual submissions, and self-plagiarism (significant overlap in content with other submissions or publications by the same authors). We provide authors with a [checklist](/authorchecklist) to assist with avoiding some of the common issues. The list is not exhaustive.
 
-Starting from December 2024, ARR will also enforce desk rejections for incorrect, incomplete or misleading filing of the responsible NLP checklist, and for violating the resubmissions policy (i.e. submissions that are not accompanied with either revisions in response to prior reviews, or justifications for not doing so, as described in the section on resubmissions). Starting from July 2025, papers with appendices not following the double column format (except if covered by the [approved exceptions](https://acl-org.github.io/ACLPUB/formatting.html#appendices)) will also be desk rejected.
+Among the common issues in the recent cycles, we highlight desk rejections for:
+
+- incorrect, incomplete or misleading filing of the [responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch)
+- violating the resubmissions policy (i.e. submissions that are not accompanied with either revisions in response to prior reviews, or justifications for not doing so, as described in the section on resubmissions)
+- papers with appendices not following the double column format, except if covered by the [approved exceptions](https://acl-org.github.io/ACLPUB/formatting.html#appendices)
+- papers with various abuses of maximum paper length (e.g. extra results in the limitations section, related work exclusively in the appendices, vertical space hacking)
+- submissions that clearly do not meet the expected quality bar (ready for consideration for acceptance at a top-tier conference) can now be desk rejected without full review, if two chairs consider the case and agree on that decision
 
 Note that while we do our best for the bulk of desk rejections to happen before the start of the review process, sometimes serious problems are missed at initial checks and discovered late. Hence, desk-rejections can happen at any time in the review cycle.
 
