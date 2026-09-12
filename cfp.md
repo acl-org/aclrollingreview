@@ -5,7 +5,7 @@ permalink: /cfp
 highlighter: none
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. Submissions will now be capped to reviewer capacity. Submissions will only guaranteed review if they bring a qualified service contributor (who can serve for 2 submissions max, and is responsible for finding qualified replacements in case of any emergencies). There are now caps on maximum submissions by a single author (20) and first or joint-first authors (5), and penalties for system abuse including systematic spamming and account manipulation. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. Submissions will now be capped to reviewer capacity. Submissions will only guaranteed review if they bring a qualified service contributor (who can serve for 2 submissions max, and is responsible for finding qualified replacements in case of any emergencies). There are now caps on maximum submissions by a single author (20) and first or joint-first authors (5), and penalties for system abuse including systematic spamming and account manipulation. All authors and service contributors MUST have OpenReview profiles with accurate affiliation history, career status, emails, ORCID and, where applicatble, DBLP and ACL Anthology links. Violations will lead to desk rejection. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
 
 ACL Rolling Review (ARR) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve the efficiency, turnaround, and process consistency of ACL reviewing, while keeping the diversity (topical, geographic and otherwise) and iterative improvement through collaborative work with conference program chairs. ARR will use Open Review as its platform (but reviews will not be open in ARR). The reviewing and acceptance of papers for publication will be done in two steps:
 
@@ -249,7 +249,7 @@ Among the common issues in the recent cycles, we highlight desk rejections for:
 - violating the resubmissions policy (i.e. submissions that are not accompanied with either revisions in response to prior reviews, or justifications for not doing so, as described in the section on resubmissions)
 - papers with appendices not following the double column format, except if covered by the [approved exceptions](https://acl-org.github.io/ACLPUB/formatting.html#appendices)
 - papers with various abuses of maximum paper length (e.g. extra results in the limitations section, related work exclusively in the appendices, vertical space hacking)
-- hallucinated citations
+- 'hallucitations'
 - submissions that clearly do not meet the expected quality bar (ready for consideration for acceptance at a top-tier conference) can now be desk rejected without full review, if two chairs consider the case and agree on that decision
 
 Note that while we do our best for the bulk of desk rejections to happen before the start of the review process, sometimes serious problems are missed at initial checks and discovered late. Hence, desk-rejections can happen at any time in the review cycle.
@@ -264,5 +264,5 @@ Appendices should come after the references in the submitted pdf. They do not co
 
 If supplementary software is provided through a link to an online repository, it should be properly anonymized (e.g., [Anonymous GitHub](https://anonymous.4open.science/)). Links to cloud services like Google Drive, Dropbox etc. are not acceptable, as they might track the download activity.
 
-Note that the appendices should follow the official double-column format, with the exceptions covered by the [ACLPUB guidelines](https://acl-org.github.io/ACLPUB/formatting.html#appendices).
+Note that the appendices must follow the official double-column format, with the exceptions covered by the [ACLPUB guidelines](https://acl-org.github.io/ACLPUB/formatting.html#appendices).
 
