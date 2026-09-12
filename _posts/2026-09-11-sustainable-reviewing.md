@@ -25,15 +25,7 @@ We advise the following steps for those who are planning to make a submission fo
 5. Check the new service obligations: if a designated service contributor has any emergencies, the responsibility to notify about that and to provide a suitable and willing replacement is now on them. Otherwise any submissions they are serving for, and any they co-author, will be desk rejected.
 6. Make sure that you are not planning more than 20 submissions, and not more than 5 as a first or joing-first author.
 
-The updated reviewer qualifications are as follows:
-
-- Those who have obtained their PhDs and/or have senior academic positions (postdoc/faculty), automatically qualify if they have at least 2 publications in major ACL events, Findings of the ACL, or major ML venues. 
-- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 2 publications in major ACL events or Findings or major ML venues and a total of >= 3 publications in total. 
-- Those who do not automatically qualify by these criteria can serve as secondary reviewers, mentored by a qualified primary reviewer (see (4) below), but cannot be designated service contributors by themselves. 
-
-Venues considered 'major ACL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, *SEM. Venues considered 'major ML' are: AAAI, COLM, CVPR, ECCV, FAccT, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, NeurIPS, TMLR, TPAMI. Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. For some of ARR tracks, major relevant venues include SIGIR, ECIR, WWW, ICWSM, CHI, Interspeech and ICASSP.
-
-The ARR submission form opens two weeks in advance (available from September 28 for October'26 review cycle). ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.
+See [this page](https://aclrollingreview.org/qualifications) for the most current ARR service qualifications criteria and instructions for how to check the qualifications.
 
 ACL Peer Review Standing Committee
 https://www.aclweb.org/portal/content/acl-peer-review-standing-committee
