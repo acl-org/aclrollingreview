@@ -14,6 +14,25 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Changelog
 
+# August 2026
+
+* finalizing and deploying the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), in collaboration with peer review committee, publication ethics committee (lead: Anna)
+* substantial updates to documentation and email templates in response to new policy (leads: Anna, Thomas)
+* development of policy on hallucitations, in collaboration with peer review committee, publication ethics committee, leadership of TACL and CL (lead: Anna)
+* updating the look of ARR website (lead: Dongqi Liu)
+* development of qualifications checker (leads: Kemal Kurniawan, Holy Lovenia)
+* updating the ARR tracks in collaboration with NAACL and COLING'27 chairs (lead: Anna)
+* updating contractor contracts and ARR reporting (leads: Anna, Sonakshi)
+* collaboration on further development of optional Revas tool to identify common review issues (in collaboration with Ubiquitous Knowledge Processing Lab and MBZUAI NLP)
+* initial collection of feedback on paper-reviewer matching (lead: Harold)
+
+# May 2026
+
+* development of [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), in collaboration with peer review committee, publication ethics committee (lead: Anna)
+* development of policy on hallucitations, in collaboration with peer review committee, publication ethics committee, leadership of TACL and CL (lead: Anna)
+* collaboration on further development of optional Revas tool to identify common review issues (in collaboration with Ubiquitous Knowledge Processing Lab and MBZUAI NLP)
+* supporting the experiments at EMNLP'26 (automated reviewing and hallucitation detection) (lead: Holy)
+
 ## March 2026
 
 * experiment with optional Revas tool to identify common review issues (in collaboration with Ubiquitous Knowledge Processing Lab and MBZUAI NLP)
