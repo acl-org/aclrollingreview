@@ -4,6 +4,8 @@ title: Changes to reviewer volunteering requirement and incentives in May 2025 c
 permalink: /incentives2025
 ---
 
+{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. It supercedes the policy below. Please refer to: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+
 TLDR:
 
 - All authors must complete a form to confirm their OpenReview profile is complete and they will serve if asked. (This form becomes available in the author console after submission.)

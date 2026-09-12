@@ -26,6 +26,7 @@ Please **check all these points in advance**, ideally at least one week. Some of
 - [ ] The submission's references have been thoroughly checked and do not contain 'hallucitations'. They also fully support the claims for which they are cited.
 - [ ] The submission is at the expected quality bar: ready for consideration for acceptance at a top-tier conference. Spammy submissions will now be desk rejected without full review (based on consideration of two chairs)
 - [ ] The designated service contributor, if any, is familiar with and will vouch for the quality of the submission. Systematic endorsement of spammy submissions will be subject to sanctions of publication ethics committee.
+- [ ] Any related concurrent work should be discussed in related work and enclosed in supplementary material. See the CFP on submission originality and thinly sliced contributions, with desk rejection penalties: https://aclrollingreview.org/cfp#originality
 
 ## Dual submissions and resubmissions
 
@@ -36,7 +37,7 @@ Please **check all these points in advance**, ideally at least one week. Some of
 - [ ] If the paper is a revision, the submission follows the [resubmissions policy in the CFP](cfp/#resubmission-policy): the previous version must be acknowledged, and you must provide a summary of changes and revisions. You can also provide justifications for not performing some of the requested changes or requesting new AC/reviewers.
 - [ ] If the paper had been previously reviewed at ARR and received a meta-review score of 1.5, it can only be resubmitted after skipping at least one cycle. Score of 1 means it should not be resubmitted at all.
 - [ ] Optionally, in the same pdf as the revision notes, you can include a color-coded version of the paper that highlights the revisions. It may help ACs and reviewers to assess any changes.
-- [ ] If there were any changes to the original set of authors, it is described in the submission form in the field 'Justification for author changes'. Do NOT include this information in the summary of revisions pdf, as this will deanonymize you.
+- [ ] If there were any changes to the original set of authors, it has to be described in the submission form in the field 'Justification for author changes'. Do NOT include this information in the summary of revisions pdf, as this will deanonymize you.
 
 ## Paper Format
 
