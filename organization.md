@@ -200,7 +200,7 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   <img src="images/people/dongqi_liu.jpg" alt="Dongqi Liu">
   <div>
     <a href="https://dongqi.me/">Dongqi Liu</a><br>
-    Saarland University, Germany
+    Saarland University
   </div>
 </div>
 
