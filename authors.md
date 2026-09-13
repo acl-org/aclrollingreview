@@ -4,7 +4,7 @@ title: "Authors Guidelines"
 permalink: /authors
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
 # Step 0: Is ARR right for your paper? {#step0}
 
@@ -34,7 +34,7 @@ As soon as you have submitted your paper, and until you receive the meta-review,
 
 A submission may be **desk rejected** if it does not adhere to the [CFP](/cfp) (e.g. if it is not in scope, if it violates technical submission requirements, etc.) Sometimes a violation is not immediately obvious, but does get noticed later in the cycle. Due to that, desk rejection can occur at any point in the review cycle, even after receiving initial reviews or even a meta-review. To help the authors avoid desk rejections, we compiled [a list of common problems to check before submission](/authorchecklist.md). 
 
-{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. Submissions will now be capped to reviewer capacity. Submissions will only guaranteed review if they bring a qualified service contributor (who can serve for 2 submissions max, and is responsible for finding qualified replacements in case of any emergencies). There are now caps on maximum submissions by a single author (20) and first or joint-first authors (5), and penalties for system abuse including systematic spamming and account manipulation. All authors and service contributors MUST have OpenReview profiles with accurate affiliation history, career status, emails, ORCID and, where applicatble, DBLP and ACL Anthology links. Violations will lead to desk rejection. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. Submissions will now be capped to reviewer capacity. Submissions will only guaranteed review if they bring a qualified service contributor (who can serve for 2 submissions max, and is responsible for finding qualified replacements in case of any emergencies). There are now caps on maximum submissions by a single author (20) and first or joint-first authors (5), and penalties for system abuse including systematic spamming and account manipulation. All authors and service contributors MUST have OpenReview profiles with accurate affiliation history, career status, emails, ORCID and, where applicatble, DBLP and ACL Anthology links. Violations will lead to desk rejection. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
 
 # Step 2: Respond to reviews  {#step2}

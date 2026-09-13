@@ -6,9 +6,9 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-From October 2022 to February 2025, ARR ran 8-week review cycles, with submission deadlines [on the 15th of every second month](/key-changes-in-the-october-cycle/). After extensive deliberation and [soliciting community feedback](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future), the [ACL Peer Review Committee](https://www.aclweb.org/adminwiki/index.php/ACL_Peer_Review_Standing_Committee) recommended that the ACL Executive Committee switch to 10-week cycles. The new schedule took effect with the May 2025 cycle. The full committee report is available in the [adminwiki](https://www.aclweb.org/adminwiki/images/9/9e/COPR-5-cycle-report-to-publish.pdf).
+ARR followed 8-week review cycles from October 2022 through February 2025. After extensive deliberation and [community feedback](https://www.aclweb.org/portal/content/acl-survey-what-should-acl-peer-review-process-be-future), the [ACL Peer Review Committee](https://www.aclweb.org/adminwiki/index.php/ACL_Peer_Review_Standing_Committee) recommended moving to 10-week cycles, beginning with the May 2025 cycle. Submission deadlines are now set individually for each cycle rather than fixed to a particular day of the month; please refer to the schedule below for current dates. The full committee report is available in the [admin wiki](https://www.aclweb.org/adminwiki/images/9/9e/COPR-5-cycle-report-to-publish.pdf).
 
-This means that instead of six cycles a year there will generally be five, but with more reasonable timelines for review tasks, author response, and platform maintenance. It will allow cycles to start on Mondays and follow a consistent schedule that clashes less often with weekends, a recurrent problem in the past. In 2025, due to the relatively late switch to 10-week cycles, there were four review cycles in total.
+Under the 10-week schedule, ARR generally runs five cycles per year, allowing more reasonable timelines for review tasks, author responses, and platform maintenance. Cycles can begin on Mondays and follow a more consistent schedule with fewer weekend conflicts. Because the transition occurred partway through 2025, ARR ran four cycles that year.
 
 This table lists all the key dates, by which the authors may need to take action, for the upcoming cycles following the new schedule:
 

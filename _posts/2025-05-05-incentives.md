@@ -4,7 +4,7 @@ title: Changes to reviewer volunteering requirement and incentives in May 2025 c
 permalink: /incentives2025
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. It supercedes the policy below. Please refer to: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. It supercedes the policy below. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
 TLDR:
 

@@ -5,7 +5,7 @@ permalink: sacguidelines
 redirect_from: /sac
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
 # What does it mean to be a Senior Area Chair at ARR? {#intro}
 

@@ -7,7 +7,7 @@ redirect_from: /reviewertutorial
 
 The ARR peer review guidelines are a work-in-progress and will be updated as ARR evolves. Before starting an assignment, the reviewers should always check whether the [version](#changelog) they are familiar with is still the current one. The sections with significant recent updates are marked with 🆕.
 
-{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Full announcement: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
 # 🆕 ACL policy on great and irresponsible reviewers & chairs
 

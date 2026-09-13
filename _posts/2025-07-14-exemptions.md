@@ -4,7 +4,7 @@ title: Author reviewing exemptions from July 2025 cycle
 permalink: /exemptions2025
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. It supercedes the policy below, and removes the prior exceptions policy. Please refer to: https://aclrollingreview.org/sustainable-reviewing-2026" %}
+{% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. It supercedes the policy below, and removes the prior exceptions policy. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
 As discussed in the recent [policy announcement](https://aclrollingreview.org/incentives2025), we are requiring that all ARR authors must complete a form to confirm that they will serve as reviewers or ACs if asked. As the policy specifies, authors are allowed to ask for a duty exemption and provide a reason. This document  provides a categorization of acceptable and unacceptable reasons for such exemptions that will begin to be enforced starting from the July 2025 ARR cycle.
 
