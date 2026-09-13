@@ -184,8 +184,6 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
   </div>
 </div>
 
-Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">tech@aclrollingreview.org</a>
-
 ## Communications Team
 
 <div class="person" markdown="0">
@@ -260,8 +258,6 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
     Beijing Institute of Technology
   </div>
 </div>
-
-Contact: <a href="mailto:support@aclrollingreview.org">support@aclrollingreview.org</a>
 
 ## Editorial Staff
 
