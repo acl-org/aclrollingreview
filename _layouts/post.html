@@ -2,38 +2,37 @@
 layout: default
 ---
 
-<article class="post detailed">
-  <h2>{{ page.title }}</h2>
-
-  <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
-    {% endif %}
-    <div class="post-tags">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
+<article class="post detailed site-shell content-shell">
+  <header class="page-header post-header">
+      <p class="eyebrow">Blog post</p>
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>
+      {% if page.last_modified_at %}
+        <span>Updated {{ page.last_modified_at | date: "%B %-d, %Y" }}</span>
       {% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
-    </div>
-  </div>
-    
-  <div class="entry">
+    </p>
+
+    {% assign categories = page.categories %}
+    {% if categories.size > 0 %}
+      <div class="post-tags">
+        {% for category in categories %}
+          <span>{{ category }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  <div class="entry prose">
     {{ content }}
   </div>
 
-  <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a>, <a href="https://bsky.app/intent/compose?text={{ page.title }} {{site.url}}{{page.url}}" target="_blank">Bluesky</a></p>
+  <div class="share-row">
+      <span>Share this post</span>
+    <a href="https://twitter.com/share?text={{ page.title }}&url={{ site.url }}{{ page.url }}" target="_blank" rel="noopener">X / Twitter</a>
+    <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" rel="noopener">Facebook</a>
+    <a href="https://bsky.app/intent/compose?text={{ page.title }} {{ site.url }}{{ page.url }}" target="_blank" rel="noopener">Bluesky</a>
   </div>
-
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
 
   {% include disqus.html %}
 </article>

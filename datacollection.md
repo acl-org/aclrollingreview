@@ -55,7 +55,7 @@ Based on past experiences of collection efforts at ACL-2018 and COLING-2020 and 
 
 
 ## Who is involved?
-To roll out this initiative within the new ARR system [under defined terms](https://www.aclweb.org/adminwiki/index.php/Review_Data_Collection_at_*ACL), in 2021 the UKP Lab received a mandate by the ACL Executive board drawing from previous practical experiences in ethical review data collection and enabling the technical realization as part of the ARR team. The [ARR team](/people) supports this initiative including the editorial team, the communications team and the technical team.
+To roll out this initiative within the new ARR system [under defined terms](https://www.aclweb.org/adminwiki/index.php/Review_Data_Collection_at_*ACL), in 2021 the UKP Lab received a mandate by the ACL Executive board drawing from previous practical experiences in ethical review data collection and enabling the technical realization as part of the ARR team. The [ARR Team](/organization) supports this initiative including the editorial team, the communications team and the technical team.
 
 
 ## What makes ARR data special?

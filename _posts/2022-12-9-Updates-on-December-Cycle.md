@@ -14,6 +14,6 @@ Lastly, given that the December cycle has a winter holiday in between, we prepar
 - 02/10/2023: Deadline to complete the review process for all papers
 
 Useful reminders to everyone:
-- Check your spam folders for missed emails from OpenReview regularly during the cycle. This is still a source of delays in the process. We are using a new email address: [aclrollingreview@openreview.org]() in the hope that this email will be more easily identified by you as something that needs attention.
+- Check your spam folders for missed emails from OpenReview regularly during the cycle. This is still a source of delays in the process. We are using a new email address: [aclrollingreview@openreview.org](mailto:aclrollingreview@openreview.org) in the hope that this email will be more easily identified by you as something that needs attention.
 - We will continue to ask reviewers and action editors to indicate their availability and max load, this is already happening now. This is our earliest check point to prevent reviewing delays every cycle. We thank you for your understanding and prompt reply to this!
 - Authors who submit papers to the December cycle are automatically added as reviewers. Read the bullet point above for what to do if for some reason you can’t help on this cycle (hint: availability and max load tasks).

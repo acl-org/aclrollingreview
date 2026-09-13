@@ -38,4 +38,4 @@ We consider the following as unacceptable reasons:
 - Busy with work / over-commitment
 - Known or pre-existing medical conditions (present at the time of writing the paper)
 
-While some authors in these circumstances may feel that they are too busy to adequately review, ARR does allow the use of [secondary reviewers](https://aclrollingreview.org/reviewerguidelines#q-can-i-use-a-secondary-reviewer) that may help ameliorate concerns around time commitments.
+While some authors in these circumstances may feel that they are too busy to adequately review, ARR does allow the use of [secondary reviewers](https://aclrollingreview.org/reviewerguidelines#secondary-reviewer) that may help ameliorate concerns around time commitments.

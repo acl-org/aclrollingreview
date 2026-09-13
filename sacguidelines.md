@@ -27,7 +27,7 @@ If the cycle is associated with a specific conference, the program chairs will a
 
 A lot of your work will involve communication with ACs and reviewers. Especially for time-critical communication, we recommend that you generally reach out personally by email rather than through OpenReview, because many people do not read them. 
 
-- [how to find reviewers emails](see here https://aclrollingreview.org/acguidelines#openreview-how-to-find-emails-of-reviewers)
+- [how to find reviewer emails](https://aclrollingreview.org/acguidelines#openreview-how-to-find-emails-of-reviewers)
 - [how to find AC emails](#contact-ac)
 
 If you do send emails to ACs or reviewers with the OpenReview system, please include your email address or OpenReview ID in the body of the message. Otherwise such emails land in our ticketing system with no indication of which SAC sent the original message.
@@ -213,7 +213,7 @@ Among other desiderata for papers that get awards are: highlighting a broad rang
 
 These tasks may or may not involve SACs in different cycles. This is only relevant to you if your help with this was requested in a specific cycle.
 
-### Help to update keywords for subfields {#keyword-update}
+## Help to update keywords for subfields {#keyword-update}
 
 ARR has a list of keywords associated with different tracks. At present this list is primarily used to help the authors pick the right track for their submission: [https://aclrollingreview.org/areas](https://aclrollingreview.org/areas) 
 

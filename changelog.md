@@ -73,7 +73,7 @@ One major benefit of ARR is that we can steadily improve the peer review process
 ## February 2025
 
 * Optimizing the AC assignments so that each AC works with fewer SACs (leads: Freda, Harold)
-* Developing a workflow for processign reported cases of [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) violations with the help of [ACL Publication Ethics Committtee](https://www.aclweb.org/portal/content/acl-publication-ethics-committee-0) (leads: Leon, Kokil, Aoife)
+* Developing a workflow for processing reported cases of [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) violations with the help of the [ACL Publication Ethics Committee](https://www.aclweb.org/portal/content/acl-publication-ethics-committee-0) (leads: Leon, Kokil, Aoife)
 * Improving submission and review forms (leads: Anna, ACL'25 and EMNLP'25 PCs)
 * Updating the [workload requirement](_posts/2025-02-10-reviewing-workload-adjustment.md), in consultation with ACL'25 PCs (leads: Jing, Xiaodan)
 * Corresponding updates to the guidelines and email templates (leads: Anna)

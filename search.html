@@ -4,25 +4,35 @@ title: Search
 permalink: /search/
 ---
 
-<h2>Search Results for "<span id="search-query"></span>"</h2>
+<div class="site-shell content-shell search-page">
+  <header class="page-header">
+    <p class="eyebrow">Site search</p>
+    <h1>Search ARR</h1>
+    <form class="search-form" action="{{ site.baseurl }}/search/" method="get" role="search">
+      <label class="sr-only" for="search-page-input">Search the ARR website</label>
+      <input id="search-page-input" name="q" type="search" placeholder="Search pages and blog posts" autocomplete="off">
+      <button type="submit">Search</button>
+    </form>
+    <p class="search-summary" id="search-summary">Results for “<strong id="search-query"></strong>” <span id="search-count"></span></p>
+  </header>
 
-<div class="search-preamble" style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <p style="margin: 0; color: #495057; font-size: 0.95em; line-height: 1.5;">
-    <strong style="color: #007bff;">Note:</strong> ARR has been running since March 2021, so there may be older pages with outdated information. In case of conflicts, the sources to be considered primary are the <a href="https://aclrollingreview.org/cfp" style="color: #007bff; text-decoration: underline;">CFP</a> and guidelines for <a href="https://aclrollingreview.org/authors" style="color: #007bff; text-decoration: underline;">authors</a>, <a href="https://aclrollingreview.org/reviewerguidelines" style="color: #007bff; text-decoration: underline;">reviewers</a> and <a href="https://aclrollingreview.org/acguidelines" style="color: #007bff; text-decoration: underline;">area chairs</a>. For authors we also maintain a <a href="https://aclrollingreview.org/authorchecklist" style="color: #007bff; text-decoration: underline;">submission checklist</a>.
-  </p>
-</div>
+  <div class="search-preamble">
+    <strong>About older information</strong>
+    <p>ARR has operated since March 2021, so older pages may be outdated. In case of conflicts, use the current <a href="{{ site.baseurl }}/cfp">CFP</a> and guidelines for <a href="{{ site.baseurl }}/authors">authors</a>, <a href="{{ site.baseurl }}/reviewerguidelines">reviewers</a>, and <a href="{{ site.baseurl }}/acguidelines">area chairs</a>.</p>
+  </div>
 
-<ul id="search-results">
+  <ul id="search-results" class="search-results">
   {% assign all_items = site.pages | concat: site.posts %}
   {% for item in all_items %}
-  {% if item.search_index != false %}
-  <li class="search-item" data-title="{{ item.title | downcase }}"
-    data-content="{{ item.content | strip_html | strip_newlines | downcase }}">
+  {% if item.search_index != false and item.title and item.title != "" %}
+  <li class="search-item" data-title="{{ item.title | downcase | escape }}"
+    data-content="{{ item.content | strip_html | strip_newlines | downcase | escape }}">
     <a href="{{ item.url }}">{{ item.title }}</a>
   </li>
   {% endif %}
   {% endfor %}
-</ul>
+  </ul>
+</div>
 
 <script>
   var params = new URLSearchParams(window.location.search);
@@ -31,21 +41,29 @@ permalink: /search/
   if (query) {
     document.title = "Search Results for '" + query + "'";
     document.getElementById("search-query").innerText = query;
+    document.getElementById("search-page-input").value = query;
 
     var searchItems = document.querySelectorAll(".search-item");
     query = query.toLowerCase();
 
+    var matches = 0;
     searchItems.forEach(function (item) {
       var title = item.getAttribute("data-title");
       var content = item.getAttribute("data-content");
 
       if (title.includes(query) || content.includes(query)) {
         item.style.display = "list-item";
+        matches += 1;
       } else {
         item.style.display = "none";
       }
     });
+    document.getElementById("search-count").innerText = "· " + matches + (matches === 1 ? " result" : " results");
+    if (matches === 0) {
+      document.getElementById("search-results").innerHTML = "<li class='search-empty'>No matching pages were found. Try a shorter or more general term.</li>";
+    }
   } else {
-    document.getElementById("search-results").innerHTML = "<li>No search query provided.</li>";
+    document.getElementById("search-summary").hidden = true;
+    document.getElementById("search-results").innerHTML = "<li class='search-empty'>Enter a term above to search current guidance and archived blog posts.</li>";
   }
 </script>

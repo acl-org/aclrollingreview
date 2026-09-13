@@ -2,69 +2,91 @@
 layout: default
 ---
 
-<div id="intro" style="line-height: 150%; border: solid 1px #8EB8E1; padding-left: 15px; padding-right: 15px">
-<p><b>ACL Rolling Review (ARR) is a centralized reviewing service targeting top-tier conferences 
-under the <a href="https://aclweb.org">Association for Computational Linguistics</a>.</b></p>
-<ul style="list-style-type: square">
- <li style="margin-bottom: 5px">Built atop the OpenReview platform, ARR implements the initial stages of conference reviewing in 2 month cycles, 
-culminating in the release to authors of reviews and a metareview.</li>
- <li style="margin-bottom: 5px">Authors may submit a revision to a subsequent ARR cycle and request the same or new reviewers.</li>
- <li style="margin-bottom: 5px">Reviews are decoupled from acceptance decisions: as long as a paper has reviews and has not yet been accepted by a venue,
-the authors can choose among participating venues, whose program committees will consider the already-reviewed papers for acceptance.</li>
-</ul>
-<p>For further information about submitting, see the page for <a href="https://aclrollingreview.org/authors">Authors</a>.</p>
-</div>
+<section class="home-hero">
+  <div class="site-shell home-hero__inner">
+    <div class="home-hero__content">
+      <h1>A centralized reviewing service for ACL conferences</h1>
+      <p class="home-hero__lead">ACL Rolling Review provides consistent, high-quality peer review for the international computational linguistics community.</p>
+      <div class="button-row">
+        <a class="button button--primary" href="{{ site.baseurl }}/authors">Author guidelines</a>
+        <a class="button button--secondary" href="{{ site.baseurl }}/dates">Cycle dates &amp; venues</a>
+      </div>
+      <nav class="role-links" aria-label="Guidance by role">
+        <span>Guidance for</span>
+        <a href="{{ site.baseurl }}/authors">Authors</a>
+        <a href="{{ site.baseurl }}/reviewerguidelines">Reviewers</a>
+        <a href="{{ site.baseurl }}/acguidelines">Area Chairs</a>
+        <a href="{{ site.baseurl }}/sacguidelines">Senior Area Chairs</a>
+        <a href="{{ site.baseurl }}/organizers">Conference/Workshop Organizers</a>
+      </nav>
+    </div>
+  </div>
+</section>
 
-<p style="line-height: 150%">ARR began with a <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal">2020 proposal</a>.
-As of mid-2023, it has evolved with experience and feedback from the community. 
-In 2024, the ACL, EACL, NAACL, and EMNLP main conferences all used ARR as the sole submission system. The upcoming participating venues are listed at <a href="https://aclrollingreview.org/dates">dates and venues</a>. The <a href="https://aclrollingreview.org/organization">ARR team</a> continues to welcome input on the design of the review process. See also the ARR <a href="https://aclrollingreview.org/changelog">changelog</a> and <a href="https://aclrollingreview.org/future">future plans</a>.</p>
+<section class="home-section home-overview">
+  <div class="site-shell home-overview__grid">
+    <div class="overview-intro">
+      <p class="eyebrow">How ARR works</p>
+      <h2>One review process, with continuity across cycles</h2>
+      <p>ARR began with a <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal">2020 proposal</a> and continues to evolve with community experience and feedback.</p>
+      <a class="text-link" href="{{ site.baseurl }}/reviewing">Learn how ARR works <span aria-hidden="true">→</span></a>
+    </div>
 
-<p><span style="vertical-align: middle">Follow us on</span> <a href="https://twitter.com/ReviewAcl" class="svg-icon twitter" style="vertical-align: middle;"></a>&nbsp;<a href="https://twitter.com/ReviewAcl" style="vertical-align: middle;">Twitter</a><span style="vertical-align: middle">,</span> <a href="https://www.facebook.com/aclrollingreview" class="svg-icon facebook" style="vertical-align: middle"></a>&nbsp;<a href="https://www.facebook.com/aclrollingreview" style="vertical-align: middle">Facebook</a> <span style="vertical-align: middle">and</span> <a href="https://bsky.app/profile/aclrollingreview.bsky.social" class="svg-icon bluesky" style="vertical-align: middle"></a>&nbsp;<a href="https://bsky.app/profile/aclrollingreview.bsky.social" style="vertical-align: middle">Bluesky</a><span style="vertical-align: middle">.</span></p>
+    <ol class="process-list">
+      <li>
+        <span>1</span>
+        <div><h3>Submit for review</h3><p>Receive reviews and a meta-review through a regular ARR cycle.</p></div>
+      </li>
+      <li>
+        <span>2</span>
+        <div><h3>Revise when useful</h3><p>Submit a revision in a later cycle while retaining review continuity.</p></div>
+      </li>
+      <li>
+        <span>3</span>
+        <div><h3>Commit to a venue</h3><p>Send the reviewed paper to a participating venue for an acceptance decision.</p></div>
+      </li>
+    </ol>
+  </div>
+</section>
 
-<h1>Updates</h1>
+<section class="home-section home-updates">
+  <div class="site-shell">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">News &amp; notices</p>
+        <h2>Latest blog posts</h2>
+      </div>
+      <a class="text-link" href="{{ site.baseurl }}/blog/">View all blog posts <span aria-hidden="true">→</span></a>
+    </div>
 
- <div class="posts">
-   {% for post in paginator.posts %}
-     <article class="post">
-       <a href="{{ site.baseurl }}{{ post.url }}">
-         <h2>{{ post.title }}</h2>
+    <div class="updates-list">
+      {% for post in paginator.posts %}
+        <article class="update-card">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %e, %Y" }}</time>
+          <div>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 34 }}</p>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
 
-         <div>
-           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-         </div>
-       </a>
-       <div class="entry">
-         {{ post.excerpt }}
-       </div>
+    {% if paginator.total_pages > 1 %}
+      <nav class="pagination" aria-label="Blog posts pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">← Previous</a>
+        {% else %}
+          <span aria-disabled="true">← Previous</span>
+        {% endif %}
 
-       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-     </article>
-   {% endfor %}
+        <span class="pagination__status">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
-   <!-- pagination -->
-   {% if paginator.total_pages > 1 %}
-   <div class="pagination">
-     {% if paginator.previous_page %}
-       <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-     {% else %}
-       <span>&laquo; Prev</span>
-     {% endif %}
-
-     {% for page in (1..paginator.total_pages) %}
-       {% if page == paginator.page %}
-         <span class="webjeda">{{ page }}</span>
-       {% elsif page == 1 %}
-         <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-       {% else %}
-         <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-       {% endif %}
-     {% endfor %}
-
-     {% if paginator.next_page %}
-       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-     {% else %}
-       <span>Next &raquo;</span>
-     {% endif %}
-   </div>
-   {% endif %}
- </div>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next →</a>
+        {% else %}
+          <span aria-disabled="true">Next →</span>
+        {% endif %}
+      </nav>
+    {% endif %}
+  </div>
+</section>

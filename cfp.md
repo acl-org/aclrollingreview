@@ -9,7 +9,7 @@ highlighter: none
 
 ACL Rolling Review (ARR) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve the efficiency, turnaround, and process consistency of ACL reviewing, while keeping the diversity (topical, geographic and otherwise) and iterative improvement through collaborative work with conference program chairs. ARR will use Open Review as its platform (but reviews will not be open in ARR). The reviewing and acceptance of papers for publication will be done in two steps:
 
-* Step 1 – Centralized Rolling Review: Authors submit papers to a unified review pool with deadlines every two months. Review is handled by an area chair (AC), and revision and resubmission of papers are allowed.
+* Step 1 – Centralized Rolling Review: Authors submit papers to a unified review pool on ARR's published cycle deadlines. Review is handled by an area chair (AC), and revision and resubmission of papers are allowed.
 * Step 2 – Commitment to a Publication Venue: A publication venue is a conference or workshop that accepts reviews from ARR. When an opportunity to commit to a publication venue comes around, authors may submit papers with fully completed reviews (including meta reviews). Program chairs decide the process for committing ARR reviewed papers, as well as the criteria and process for deciding to accept a subset of these submissions into their event.
 
 ## SCOPE OF SUBMISSIONS {#scope}
@@ -167,7 +167,7 @@ Resubmitted papers will go back to the original reviewers and area chair, where 
 
 Submissions that had previously received very low evaluation from reviewers and a meta-review score of 1 generally need a wholesale revision that can be expected to take a lot of time. We reserve the right to desk reject such resubmissions if they are sent back to ARR within 6 months of the original submission without such a revision.
 
-Authors considering a resubmission should also refer to the [withdrawal policy](#withdrawal-policy) below.
+Authors considering a resubmission should also refer to the [withdrawal policy](#withdrawal) below.
 
 ### Withdrawal Policy {#withdrawal}
 
@@ -217,7 +217,7 @@ Starting in October 2026, ARR will implement the [sustainable reviewing policy](
 
 The designated service contributors will typically be selected among the authors of the submission, but it is possible to nominate other researchers. However, the designated contributor must be familiar with the submission, and confirm that it is at the expected quality level: ready for consideration for acceptance at a top-tier conference. Systematic endorsement of spammy submissions will be subject to sanctions by the publication ethics committee.
 
-All service contributors must have a valid and accurate OpenReview profile including affiliation, ORCID, dblp link, ACL anthology link, and an email address where they can receive OpenReview messages. See [here](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well) for how to maximize the likelihood of well-matched review assignments. After the nomination, they must complete a registration form within 48h hours after submission deadline. The registration link will be available in their console immediately after paper submission. See [here](https://aclrollingreview.org/reviewerguidelines#how-to-get-assigned-to-papers-that-match-your-interests-well) for how to maximize the likelihood of well-matched review assignments.
+All service contributors must have a valid and accurate OpenReview profile, including affiliation, ORCID, DBLP and ACL Anthology links, and an email address where they can receive OpenReview messages. After nomination, they must complete a registration form within 48 hours after the submission deadline. The registration link will be available in their console immediately after paper submission. See the [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines#matching) for how to maximize the likelihood of well-matched review assignments.
 
 It is the responsibility of the authors to ensure that all service contributors are available and willing to perform the service role. Exceptions will no longer apply. In case of any unexpected circumstances, the service contributors must file the [delay notifications](https://aclrollingreview.org/reviewerguidelines#delay) or [emergency declarations](https://aclrollingreview.org/reviewerguidelines#emergency) on time. In the latter case, they must also provide a qualified and willing substitute for their remaining tasks. Otherwise any submissions for which they are serving or are co-authoring will be desk rejected.
 
@@ -265,4 +265,3 @@ Appendices should come after the references in the submitted pdf. They do not co
 If supplementary software is provided through a link to an online repository, it should be properly anonymized (e.g., [Anonymous GitHub](https://anonymous.4open.science/)). Links to cloud services like Google Drive, Dropbox etc. are not acceptable, as they might track the download activity.
 
 Note that the appendices must follow the official double-column format, with the exceptions covered by the [ACLPUB guidelines](https://acl-org.github.io/ACLPUB/formatting.html#appendices).
-

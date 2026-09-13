@@ -25,7 +25,7 @@ The dates and cycles relevant for this coordinated submission process are as fol
 Each cycle will include its corresponding author response period before the meta-review stage. Exact time will be announced in the conference CFPs. Relevant aspects of the plan above are discussed below.
 
 **Anonymity period**
-Unless the ACL enacts a change in policy, each conference will follow the current ACL wide anonymity embargo policy where authors cannot release a deanonymized preprint during the review cycle or between commitment and decisions, plus one month before submission and commitment. More information here: [ARR Call For Papers](/cfp#anonymity-period) and [ARR Author instructions](/authors).
+Unless the ACL enacts a change in policy, each conference will follow the current ACL wide anonymity embargo policy where authors cannot release a deanonymized preprint during the review cycle or between commitment and decisions, plus one month before submission and commitment. More information here: [ARR Call For Papers](/cfp#instructions-for-two-way-anonymized-review) and [ARR Author instructions](/authors).
 
 **Acceptance rates**
 To calculate each conference’s acceptance rate, we will record, at the time of submission to ARR, authors’ intention to commit to one of the three conferences. This doesn’t imply a hard commitment. Authors may choose to commit to a different venue after receiving their reviews.
@@ -66,4 +66,3 @@ Email contacts:
 - EACL PCs: eacl2024pcs@googlegroups.com 
 - NAACL PCs: naacl2024-programchairs@googlegroups.com 
 - ACL PCs: acl2024-programchairs@googlegroups.com
-

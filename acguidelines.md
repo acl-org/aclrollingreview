@@ -9,9 +9,9 @@ redirect_from: /aetutorial
 
 # 🆕 ACL policy on great and irresponsible reviewers & chairs
 
-**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference webistes, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
+**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference websites, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
 
-Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](#review-issues) and [NLP papers](#paper-issues) to watch out for.When you see a problem, you can refer junior reviewers to these materials and offer feedback.
+Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](./reviewerguidelines.md#review-issues) and [NLP papers](./reviewerguidelines.md#paper-issues) to watch out for. When you see a problem, you can refer junior reviewers to these materials and offer feedback.
 
 **Irresponsible reviewers and chairs.** Unfortunately, with the growing number of conference submissions, there have been more and more cases where reviewers or chairs sign up for service and then simply disappear without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit (meta-)reviews that are completely unacceptable in their quality (e.g. extremely terse, unprofessional in tone, LLM-generated).
 
@@ -53,7 +53,7 @@ Tips on working with the reviewer browser interface:
 
  - `Research area` field is unfortunately not shown for all reviewers, because some of them did not fill it in. You can also click on the reviewers' names to open their OR profiles, which contain links to Google Scholar etc.
  - `Status: requested` means that this paper is a revision, and this reviewer reviewed the previous version, and the authors requested for them to be assigned again. More on resubmissions [here](#how-to-check-reviewing-assignments-for-resubmissions).
- - `Affinity score` is described [here](#how-to-interpret-reviewer-affinity-scores-how-to-interpret-reviewer-affinity-scores).
+ - `Affinity score` is described [here](#how-to-interpret-reviewer-affinity-scores).
  - `Seniority` flag indicates whether the reviewer qualifies as senior by the current ARR criteria.
 
 You need to perform the following checks and tasks:
@@ -187,7 +187,7 @@ To the extent possible, we ask you to do at least a surface check that **the rev
 - rude reviews 
 - reviews where the low scores are not accompanied by substantial criticism 
 - reviews with blanket non-specific statements (e.g. saying "not novel" without references, 'too few experiments' without specifying what is missing, etc.) 
-- some of the [common heuristics discussed in the reviewer guidelines](https://aclrollingreview.org/reviewerguidelines#3-check-for-common-review-issues-i2-i10), such as 'this is a resource paper', 'results are not sota'. Note that it contains new instructions about requests for comparisons to the latest 'closed' models. 
+- some of the [common heuristics discussed in the reviewer guidelines](https://aclrollingreview.org/reviewerguidelines#review-issues), such as 'this is a resource paper', 'results are not sota'. Note that it contains new instructions about requests for comparisons to the latest 'closed' models.
 - reviews that have clearly problematic content that is not based on sufficient understanding of the submission, and may have been LLM-generated. Neither reviewers nor ACs are supposed to rely on LLMs for content, and using commercial LLMs even for language checking also violates confidentiality rules.
 
 If you notice any such obvious problems, there's still time to contact the reviewer and ask them to fix them. Junior reviewers may be able and willing to do a better job if you ask them directly to fix a specific issue. If non-responsive, proceed with emergency reassignments. The reviewers have been provided with extensive [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines). Please check if you have anything seriously problematic in your batch, and if so - please reassign these papers to emergency reviewers. 

@@ -163,7 +163,7 @@ For example, if you collected data via crowdsourcing, did your instructions to c
 
 **E1. Elaboration For Yes Or No. For yes, provide a section number, or include your elaboration directly in the checklist response. For no, justify why not.**
 
-Any use of AI assistants has to conform with the [ACL publications ethics policy](), especially with respect to authorship criteria. 
+Any use of AI assistants has to conform with the [ACL publications ethics policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship), especially with respect to authorship criteria.
 
 **E1. Section Or Justification**
 

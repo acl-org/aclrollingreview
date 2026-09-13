@@ -6,8 +6,8 @@ search_index: false
 ---
 
 We are recruiting volunteer emergency reviewers and emergency action editors. To volunteer, fill out (*Update: These forms are no longer in use. Please contact the editors to volunteer*):
-* Emergency [*action editor* form]()
-* Emergency [*reviewer* form]()
+* Emergency *action editor* form
+* Emergency *reviewer* form
 
 **Responsibilities**: 
 * As an emergency *action editor*, you will step in at the request of the editors in chief when the action editor assigned to paper is unable to or does not complete their responsibility for a paper. You will chase down reviewers (or find emergency reviewers) and complete a meta review so that authors get their reviews in a timely fashion.

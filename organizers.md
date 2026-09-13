@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "For Conference/Workshop Organizers"
+title: "Conference/Workshop Organizers"
 permalink: /organizers
 ---
 
@@ -24,15 +24,15 @@ Organizers of venues that would like to subscribe to ARR (either in Full or Hybr
 
 ## Commitment (fetching ARR Reviews)
 
-Venue organizers need to decide the exact mechanism by which they will enable authors of ARR-processed papers to commit to their venue. OpenReview will then provide access to the all reviews of the committed papers. In principle, there are the following options: 
+Venue organizers need to decide the exact mechanism by which they will enable authors of ARR-processed papers to commit to their venue. OpenReview will then provide access to all reviews of the committed papers. In principle, there are the following options:
 
 1. The venue uses OpenReview, receiving reviews from ARR only
-    - In this case, the organizers should [submit a venue request form](https://openreview.net/group?id=OpenReview.net/Support) and inform the OpenReivew staff that they subscribe to ARR.
+    - In this case, the organizers should [submit a venue request form](https://openreview.net/group?id=OpenReview.net/Support) and inform the OpenReview staff that they subscribe to ARR.
     - Once the commitment venue is deployed, there will be a field present in the submission form named "paper_link" for authors to commit their ARR processed papers. Here authors will simply provide the URL to the OpenReview forum of their ARR submission. This field is validated, so it will check whether the forum link exists in an ARR venue before allowing the author to submit.
     - For Full ARR venues, this commitment form is the only submission form to be created.
 
 2. The venue uses OpenReview, with its own review process in OpenReview and reviews from ARR
-    - In this case, submit two venue request forms, one for non-ARR reviewing and another for commitment of ARR-reviews papers.
+    - In this case, submit two venue request forms, one for non-ARR reviewing and another for commitment of ARR-reviewed papers.
     - OpenReview will provide read access to ARR forums of committed papers to the venue (assigned SACs, PCs) or import ARR reviews into the venue's OpenReview instance depending on the API used for the original ARR submission. Please contact OpenReview (<info@openreview.net>) when the submission deadline has passed and you're ready to begin the reviewing process.
 
 3. The venue does not use OpenReview

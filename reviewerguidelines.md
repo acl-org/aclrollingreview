@@ -11,7 +11,7 @@ The ARR peer review guidelines are a work-in-progress and will be updated as ARR
 
 # 🆕 ACL policy on great and irresponsible reviewers & chairs
 
-**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference webistes, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
+**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference websites, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
 
 Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](#review-issues) and [NLP papers](#paper-issues) to watch out for. If you are junior, it may be a good idea to prepare the review earlier and ask more experienced people in your network for feedback. Some ACs may also offer feedback for reviews that come in good time.
 
@@ -19,7 +19,7 @@ Since peer reviewing is not often offered as a part of PhD school curriculum, AR
 
 Starting in October 2024, ARR provided the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. A similar functionality has now been [developed](https://aclrollingreview.org/authors#step3.2) for meta-reviews, with author issue reports viewable for senior area chairs. Since the reviewer and AC guidelines may also seen by the authors during the response period, some sections of these guidelines now have codes for (meta-)review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2) and [here](https://aclrollingreview.org/authors#step3.2).
 
-Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers or chairs may have their work desk-rejected from the current cycle, and ineligible for resubmission or commitment during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference. After the author response period ACs can report both great and irresponsible reviews via a [new form on reviews](#review-direct-flagging) or by listing the great/irresponsible reviewers [in the meta-review form](#metareview-form-flagging).
+Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers or chairs may have their work desk-rejected from the current cycle, and ineligible for resubmission or commitment during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference. After the author response period ACs can report both great and irresponsible reviews via a [new form on reviews](./acguidelines.md#review-direct-flagging) or by listing the great/irresponsible reviewers [in the meta-review form](./acguidelines.md#metareview-form-flagging).
 
 # What are the confidentiality and anonymity rules for reviewing?
 
@@ -302,7 +302,9 @@ As a counter to common problems with reviews, there are also common problems wit
 
 
 <table>
+<tr>
    <td colspan="2" ><b>Issues with methodology (M)</b></td>
+</tr>
 <tr>
    <td>M1. LLM-only evaluation without validation
    </td>
@@ -490,7 +492,7 @@ In ARR reviewer discussion happens throughout the process, i.e., both before rev
 
 ## Updating the assessment
 
-After the author discussion period ends, there is a short period of time for reviewers to finalize their reviews based on any responses from the authors and/or other reviews. The full timeline is communicated in the cycle emails. After the reviews are finalized, the authors can submit [review issue reports](/authors.md#-review-issue-reporting-step22).
+After the author discussion period ends, there is a short period of time for reviewers to finalize their reviews based on any responses from the authors and/or other reviews. The full timeline is communicated in the cycle emails. After the reviews are finalized, the authors can submit [review issue reports](./authors.md#step2.2).
 
 # How to review resubmissions
 
@@ -708,4 +710,3 @@ See [these guidelines](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt0
 **NLP tool assistance in peer review**
 
 * Kuznetsov et al. (2024) What Can Natural Language Processing Do for Peer Review? [https://arxiv.org/abs/2405.06563](https://arxiv.org/abs/2405.06563) 
-

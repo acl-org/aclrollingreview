@@ -1,34 +1,33 @@
 ---
 layout: default
+title: Blogs
 ---
 
-<h1>Blog</h1>
+<div class="site-shell listing-shell">
+  <header class="page-header listing-header">
+    <p class="eyebrow">News &amp; notices</p>
+    <h1>Blogs</h1>
+    <p>Announcements, policy changes, cycle information, and reports from ACL Rolling Review.</p>
+  </header>
 
-<div class="posts" id="blog-posts">
-  {% for post in site.posts %}
-    <article class="post" data-post-index="{{ forloop.index0 }}">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h2>{{ post.title }}</h2>
+  <div class="posts archive-list" id="blog-posts">
+    {% for post in site.posts %}
+      <article class="archive-card" data-post-index="{{ forloop.index0 }}">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 42 }}</p>
+        <a class="text-link" href="{{ site.baseurl }}{{ post.url }}">Read post <span aria-hidden="true">→</span></a>
+      </article>
+    {% endfor %}
+  </div>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-
-  <div class="pagination" id="blog-pagination"></div>
+  <nav class="pagination archive-pagination" id="blog-pagination" aria-label="Blog pagination"></nav>
 </div>
 
 <script>
   (function () {
     var perPage = {{ site.paginate | default: 6 }};
-    var posts = document.querySelectorAll('#blog-posts .post');
+    var posts = document.querySelectorAll('#blog-posts .archive-card');
     var pagination = document.getElementById('blog-pagination');
     var totalPages = Math.max(1, Math.ceil(posts.length / perPage));
 
@@ -47,19 +46,21 @@ layout: default
         el.style.display = visible ? '' : 'none';
       });
       renderPagination(page);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      window.scrollTo({ top: 0 });
     }
 
     function pageLink(label, page, opts) {
       opts = opts || {};
       if (opts.disabled) {
         var span = document.createElement('span');
+        span.setAttribute('aria-disabled', 'true');
         span.textContent = label;
         return span;
       }
       if (opts.current) {
         var cur = document.createElement('span');
-        cur.className = 'webjeda';
+        cur.className = 'pagination__current';
+        cur.setAttribute('aria-current', 'page');
         cur.textContent = label;
         return cur;
       }
@@ -78,11 +79,13 @@ layout: default
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
 
-      pagination.appendChild(pageLink('« Prev', page - 1, { disabled: page === 1 }));
-      for (var p = 1; p <= totalPages; p++) {
-        pagination.appendChild(pageLink(String(p), p, { current: p === page }));
-      }
-      pagination.appendChild(pageLink('Next »', page + 1, { disabled: page === totalPages }));
+      pagination.appendChild(pageLink('← Previous', page - 1, { disabled: page === 1 }));
+      var status = document.createElement('span');
+      status.className = 'pagination__status';
+      status.setAttribute('aria-current', 'page');
+      status.textContent = 'Page ' + page + ' of ' + totalPages;
+      pagination.appendChild(status);
+      pagination.appendChild(pageLink('Next →', page + 1, { disabled: page === totalPages }));
     }
 
     render(getPageFromHash());

@@ -1,16 +1,14 @@
 ---
 layout: page
-title: "Organization"
+title: "ARR Team"
 permalink: /organization
 ---
 
-## Support
-
 {% include admonition.html type="warning" title="Important changes!" body="If you have assignments as a reviewer or area chair, and you have an emergency, do **not** reach out to the editors. You should file an [emergency declaration form](https://aclrollingreview.org/reviewerguidelines#emergency) or a [delay notification form](https://aclrollingreview.org/reviewerguidelines#delay) in the forum for the respective submission(s)." %}
 
-For other questions related to specific cycles, please write to <a href="mailto:editors@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">editors@aclrollingreview.org</a>. Do NOT contact the individual editors listed in this page directly. The ARR editors take turns working in different cycles, and the emails to the editors@aclrollingreview.org go into our ticketing system, where they are then assigned to the right team.
+For other questions related to specific cycles, please write to <a href="mailto:editors@aclrollingreview.org">editors@aclrollingreview.org</a>. Do NOT contact the individual editors listed in this page directly. The ARR editors take turns working in different cycles, and the emails to the editors@aclrollingreview.org go into our ticketing system, where they are then assigned to the right team.
 
-For general support regarding ARR please contact <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>. 
+For general support regarding ARR please contact <a href="mailto:support@aclrollingreview.org">support@aclrollingreview.org</a>.
 
 ## Editors in Chief
 
@@ -79,7 +77,7 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
 </div>
 
 <div class="person" markdown="0">
-  <img src="images/people/giovanni_da _san_martino.jpeg" alt="Giovanni Da San Martino">
+  <img src="images/people/giovanni_da_san_martino.jpeg" alt="Giovanni Da San Martino">
   <div>
     <a href="http://www.joedsm.altervista.org/">Giovanni Da San Martino</a><br>
     University of Padova
@@ -131,7 +129,7 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
 <div class="person" markdown="0">
   <img src="images/people/manuel_mager.png" alt="Manuel Mager">
   <div>
-    <a href="">Manuel Mager</a><br>
+    <span class="person-name">Manuel Mager</span><br>
     Amazon
   </div>
 </div>
@@ -242,7 +240,7 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
 <div class="person" markdown="0">
   <img src="images/people/santosh.jpg" alt="Santosh T.Y.S.S.">
   <div>
-    <a href="/organization">Santosh T.Y.S.S.</a><br>
+    <span class="person-name">Santosh T.Y.S.S.</span><br>
     Technische Universität München
   </div>
 </div>
@@ -263,7 +261,7 @@ Contact: <a href="mailto:tech@aclrollingreview.org" style="color:#0073e6; font-w
   </div>
 </div>
 
-Contact: <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; font-weight:bold;">support@aclrollingreview.org</a>
+Contact: <a href="mailto:support@aclrollingreview.org">support@aclrollingreview.org</a>
 
 ## Editorial Staff
 
@@ -278,45 +276,6 @@ Contact: <a href="mailto:support@aclrollingreview.org" style="color:#0073e6; fon
 <div class="person" markdown="0">
   <img src="images/people/thomas_colihan.jpg" alt="Thomas Colihan">
   <div>
-    <a href="">Thomas Colihan</a><br>
+    <span class="person-name">Thomas Colihan</span><br>
   </div>
 </div>
-
-<style>
-.person {
-  display: flex !important;
-  align-items: flex-start !important;
-  margin-bottom: 15px !important;
-}
-
-.person img {
-  border-radius: 50% !important;
-  width: 110px !important;
-  height: 110px !important;
-  margin-right: 15px !important;
-}
-
-.person div {
-  display: flex !important;
-  flex-direction: column !important;
-  line-height: 1 !important;
-  padding-top: 20px !important;
-}
-
-.person a {
-  font-weight: bold !important;
-  color: #0073e6 !important;
-  text-decoration: none !important;
-}
-
-.person a:hover {
-  text-decoration: underline !important;
-}
-
-.person-info {
-  display: flex !important;
-  flex-direction: column !important;
-  line-height: 1.4 !important;
-}
-
-</style>

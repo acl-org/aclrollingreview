@@ -18,13 +18,13 @@ Some caveats:
 
 # Step 1: Submit your paper for ARR review {#step1}
 
-There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline) 
+ARR has recurring submission **deadlines**: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline)
 
 The submission must adhere to the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj).
 
 Submissions are made in **OpenReview**. Here is the list of [submission points for 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024). In case of system instability it is recommended to submit at least one hour before the deadline. All authors will receive a confirmation email upon submission. You may **edit** all aspects of your submission up until the deadline.
 
-At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see [People](/people)). 
+At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see the [ARR Team](/organization)).
 
 As soon as you have submitted your paper, and until you receive the meta-review, it will be considered **under review** by ARR. You may not submit the paper elsewhere during this period.
 
@@ -230,7 +230,7 @@ Please contact: `support at aclrollingreview.org`
 
 **Q: What are the qualification requirements for authors nominated to review?**
 
-See the "reviewing requirements" section of the [CFP](/cfp#reviewing-requirements).
+See the "reviewing requirements" section of the [CFP](/cfp#reviewing).
 
 ## ARR submission standards {#standards}
 
