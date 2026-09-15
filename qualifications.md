@@ -23,7 +23,7 @@ For some of ARR tracks, other major relevant venues we recognize include:
 - Ethics, Bias, and Fairness: FAccT, AEIS
 - Human-computer Interaction: CHI
 - Information Retrieval: ECIR, SIGIR
-- Linguistic Theories, Cognitive Modeling, and Psycholinguistics: Natural Language & Linguistic Theory, Cognition, Journal of Memory and Language, Journal of Child Language, Language Learning
+- Linguistic Theories, Cognitive Modeling, and Psycholinguistics: Cognition, Journal of Memory and Language, Journal of Child Language, Language Learning, Cognitive Science, Language Acquisition
 - Machine learning: AAAI, COLM, CVPR, ECCV, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, NeurIPS, TMLR, TPAMI, WWW 
 - Multilingualism and Cross-Lingual NLP: Linguistic Typology, International Journal of Multilingualism
 - Phonology, Morphology, and Word Segmentation: Journal of Phonetics, the Journal of the International Phonetic Association
@@ -31,7 +31,9 @@ For some of ARR tracks, other major relevant venues we recognize include:
 - Speech Recognition, Text-to-Speech and Spoken Language Understanding: Interspeech, ICASSP
 - Syntax: Tagging, Chunking and Parsing: Linguistic Inquiry, Natural Language & Linguistic Theory
 
-General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glossa, Applied Linguistics, Constructions and Frames
+General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glossa, Applied Linguistics, Constructions and Frames, Journal of Logic, Language and Information, Journal of Linguistics
+
+ARR is working on a way to ensure that the reviewers with expertise relevant to specific tracks would be assigned within those tracks.
 
 Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. If you believe we are missing a some other venue that is highly selective and 'major' in a given research area, for which there is an ARR track, and the publications from which are indexed in DBLP - please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). 
 
