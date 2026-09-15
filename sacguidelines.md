@@ -181,7 +181,7 @@ As you make your acceptance recommendations, please consider each paper in your 
 
 If you have two meta-reviews for one paper, you can decide which recommendation to consider, or you can make the decision based on both inputs.
 
-**Anonymity advantage for borderline papers.** When you make decisions for borderline papers, the new ACL policy is that [the borderline papers that were not preprinted during review have an advantage over those that were](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2). ARR submission page has a "perprint status" field that you can search for. If the authors said that they were planning or considering to release the preprint, we ask you to search for the paper and see if they did. If so, they lose the anonymity advantage. 
+**Anonymity advantage for borderline papers.** When you make decisions for borderline papers, the new ACL policy is that [the borderline papers that were not preprinted during review have an advantage over those that were](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2). ARR submission page has a "preprint status" field that you can search for. If the authors said that they were planning or considering to release the preprint, we ask you to search for the paper and see if they did. If so, they lose the anonymity advantage. 
 
 **Compromised reviews.** According to the same source, you should not rely on reviews where the reviewers were biased by the knowledge of the authors' identity. To help you estimate that, the review forms contain the question 'Knowledge of/educated guess at author identity'.
 
