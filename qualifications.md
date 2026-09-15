@@ -51,7 +51,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 - Either a completed PhD, or a main conference *CL publication from more than 5 years ago
 - Four papers in main ACL events or Findings
-- Two additional papers in either main ACL events or major ML/AI venues
+- Two additional papers in either main ACL events or major relevant venues
 - Extensive reviewing experience
 
 ## How to check if I am qualified?
