@@ -32,7 +32,7 @@ https://www.aclweb.org/portal/content/acl-peer-review-standing-committee
 
 # Frequently Asked Questions
 
-## Could you include <venue X> in the qualifications checker?
+## Could you include \<venue X\> in the qualifications checker?
 
 We have already significantly updated the venue list from the policy. [This page](https://aclrollingreview.org/qualifications) contains the most current list and instructions for how to apply for more venues to be included.
 
