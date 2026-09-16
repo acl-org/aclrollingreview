@@ -26,6 +26,7 @@ For some of ARR tracks, other major relevant venues we recognize include:
 - Linguistic Theories, Cognitive Modeling, and Psycholinguistics: Cognition, Journal of Memory and Language, Journal of Child Language, Language Learning, Cognitive Science, Language Acquisition
 - Machine learning: AAAI, COLM, CVPR, ECCV, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, NeurIPS, TMLR, TPAMI, WWW 
 - Multilingualism and Cross-Lingual NLP: Linguistic Typology, International Journal of Multilingualism
+- NLP and Code Models: ICSE, FSE, ASE
 - Phonology, Morphology, and Word Segmentation: Journal of Phonetics, the Journal of the International Phonetic Association
 - Semantics: Lexical and Sentence-Level: Linguistics & Philosophy, Journal of Semantics
 - Speech Recognition, Text-to-Speech and Spoken Language Understanding: Interspeech, ICASSP

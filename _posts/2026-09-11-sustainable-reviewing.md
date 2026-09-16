@@ -29,3 +29,22 @@ See [this page](https://aclrollingreview.org/qualifications) for the most curren
 
 ACL Peer Review Standing Committee
 https://www.aclweb.org/portal/content/acl-peer-review-standing-committee
+
+# Frequently Asked Questions
+
+## Could you include <venue X> in the qualifications checker?
+
+We have already significantly updated the venue list from the policy. [This page](https://aclrollingreview.org/qualifications) contains the most current list and instructions for how to apply for more venues to be included.
+
+## How many papers can a designated contributor support?
+
+As described in the [proposal](https://www.aclweb.org/portal/sites/default/files/ACL%20sustainable%20reviewing%20policy_2026.pdf), the maximum number of submissions per one contributor is 2. This entails max 10 reviews per person, which is already a relatively high service load. However, it is possible for non-authors to be nominated. The authors who need to submit more can leverage their networks to bring in more service contributors, decentralizing the recruitment process. 
+
+## Can't you allow one 'free' submission for the new members of the community?
+
+Unfortunately, the data suggests that we cannot. In 38% submissions in EMNLP 2026 that did not contribute service, most authors were submitting only one paper. But this already created a huge overload on others in the service pool, and the community response was very critical. However, lottery does allow us to review as many unsupported submissions as we can do sustainably. If the community steps forward with more volunteer service to support the new members, we will automatically be able to accept more papers for review.
+
+## Does this apply to demo or industry tracks?
+
+No, this is only for the 'main' ARR review cycles. Demo and industry tracks are run separately, and may choose their own approaches.
+
