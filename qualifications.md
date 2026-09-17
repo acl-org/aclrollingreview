@@ -44,7 +44,7 @@ Venues considered major may be expanded over time and additional qualification c
 4. Why should this venue be added? How central is it for this research area?
 5. Is it indexed by DBLP? If so, please include the link. Currently only dblp-indexed venues can be taken into account by the automated checker.-->
 
-ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should not be expected to take several weeks.
+ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
 
 ## AC qualifications
 
