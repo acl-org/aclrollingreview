@@ -156,7 +156,7 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
   <img src="images/people/kemal_kurniawan.jpg" alt="Kemal Kurniawan ">
   <div>
     <a href="https://kkurniawan.com/">Kemal Kurniawan</a><br>
-    University of Melbourne (Co-Chief Technical Officer)
+    University of New South Wales (Co-Chief Technical Officer)
   </div>
 </div>
 
