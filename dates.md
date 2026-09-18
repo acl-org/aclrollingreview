@@ -17,7 +17,7 @@ This table lists all the key dates, by which the authors may need to take action
 | March 2026 | March 16 | March 18 | April 20 | April 28-May 4 | May 21 | May 24 |
 | May 2026 | May 25 | May 27 | July 2 | July 8-July 14 | July 30 | August 2 |
 | August 2026 | August 3 | August 5 | September 7 | September 14-September 24\* | October 8 | October 11 |
-| October 2026 | October 12 | October 15 | November 16 |  November 24-November 30 | December 17 | December 23 |
+| October 2026 | October 12 | October 14 | November 16 |  November 24-November 30 | December 17 | December 20 |
 {: .review-cycle-table}
 
 \*Note: in August 2026 cycle, the author response period is split into 3 phases, where the initial author response is due on September 19. Please see the instructions emailed to the authors.
