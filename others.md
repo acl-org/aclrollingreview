@@ -20,6 +20,7 @@ permalink: /others
 - Mausam, IIT Delhi
 - Viviane Moreira, Universidade Federal do Rio Grande do Sul
 - Lilja Øvrelid, University of Oslo
+- Jun Suzuki, Tohoku University
 
 ## Past Contributors to ACL Rolling Review Initiative
 

@@ -275,3 +275,7 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
     <span class="person-name">Thomas Colihan</span><br>
   </div>
 </div>
+
+### Acknowledgements
+
+We gratefully acknowledge the service and contributions of our [past Editors-in-Chief](/others#past-editors-in-chief).
