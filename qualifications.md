@@ -10,8 +10,8 @@ The most recent service qualifications at ARR are based on the [sustainable revi
 
 The updated **reviewer qualifications** are as follows:
 
-- Those who have obtained their PhDs and/or have senior academic positions (postdoc/faculty), automatically qualify if they have at least 2 publications in major CL events, Findings of the ACL, or other major relevant venues (see below). 
-- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 2 publications in major ACL events or Findings or major ML venues and a total of >= 3 publications in total. 
+- Those who have obtained their PhDs and/or have senior academic positions (postdoc/faculty), automatically qualify if they have at least 2 publications in major CL venues, Findings of the ACL, or other major relevant venues (see below). 
+- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 2 publications in major CL events, Findings or major related venues, and a total of >= 3 publications in total. 
 - Those who do not automatically qualify by these criteria can serve as secondary reviewers, mentored by a qualified primary reviewer, but cannot be designated service contributors by themselves. 
 
 Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, *SEM. 
@@ -51,8 +51,8 @@ ARR will consider the recommendations, and update this page with any further ven
 The ARR area chairs must qualify as reviewers, and additionally:
 
 - Either a completed PhD, or a main conference *CL publication from more than 5 years ago
-- Four papers in main ACL events or Findings
-- Two additional papers in either main ACL events or major relevant venues
+- 2 papers in major CL venues or Findings
+- 4 additional papers in either major CL events or major relevant venues
 - Extensive reviewing experience
 
 ## How to check if I am qualified?
@@ -61,10 +61,12 @@ The ARR submission form opens two weeks in advance (available from September 28 
 
 ## How to apply for manual verification?
 
-Those who do not formally qualify under the above criteria, but have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have been sufficiently mentored as secondary reviewers at major ACL venues may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis. 
+Those who do not formally qualify under the above publication criteria, but satisfy the degree requirements and have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have been sufficiently mentored as secondary reviewers in ARR cycles may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis.
 
-The sustainable reviewing policy also proposes for ARR to develop a reviewer certification system, based on a combination of knowledge of ARR review criteria and secondary reviewer record. Doctoral students who do not yet have a sufficient publication record themselves, may be considered qualified if they pass a test of knowledge of ARR review criteria (to be developed), have successfully served as secondary reviewers for at least 10 submissions across at least 2 review cycles (with no 'irresponsible reviewer' flags from area chairs, active engagement during the author rebuttal, no evidence of using AI to generate reviews, etc.), and are highly recommended by the primary reviewers who mentored them.
+The current criteria for manual verification are based on documentation of at least 10 high quality reviews, from ARR or the "major venues" on ARR's current list. The number of publications a candidate has, and whether or not they've already worked for ARR are irrelevant (other than that they may provide evidence for the required number of reviews). The candidates who do not have a Masters degree, as well as those who served as secondary reviewers at ARR, need to enclose a recommendation letter from the supervisor who mentored them in reviewing.
 
-ARR is currently in the process of streamlining the manual application process. More detailed instructions will be posted here soon.
+You can apply for manual verification through [this form](https://tally.so/r/PdolyV). Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline.
+
+
 
 <!--Since this process is manual, the applications are not guaranteed to be reviewed quickly, and should be sent as early as possible before the deadline.-->
