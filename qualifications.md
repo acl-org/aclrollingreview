@@ -67,7 +67,7 @@ The current criteria for manual verification are based on documentation of at le
 
 You can apply for manual verification through [this form](https://tally.so/r/PdolyV). Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline.
 
-For the junior researchers who do not yet qualify under either publication-based or reviewing-based criteria: we recommend working with a qualified researcher who would mentor you as a secondary reviewer, taking responsibility for the quality of your reviews and then providing a recommendation. Since secondary reviewing is capped to 5 reviews per individual in a given cycle, it is possible to become qualified in this way after serving in 2 ARR cycles.
+For the junior researchers who do not yet qualify under either publication-based or reviewing-based criteria, but would like to become qualified for ARR service: we recommend working with a qualified researcher who would mentor you as a secondary reviewer, taking responsibility for the quality of your reviews and then providing a recommendation. Since secondary reviewing is capped to 5 reviews per individual in a given cycle, it is possible to become qualified in this way after serving in 2 ARR cycles.
 
 
 <!--Since this process is manual, the applications are not guaranteed to be reviewed quickly, and should be sent as early as possible before the deadline.-->
