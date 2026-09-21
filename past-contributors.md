@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Others"
-permalink: /others
+title: "Past Contributors"
+permalink: /past-contributors
+redirect_from:
+  - /others
 ---
 
 ## Past Editors in Chief
