@@ -40,7 +40,13 @@ ARR is working on a way to ensure that the reviewers with expertise relevant to 
 
 ## What about \<another venue\>? 
 
-Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. If you believe we are missing a some other venue that is highly selective and 'major' in a given research area, for which there is an ARR track, and the publications from which are indexed in DBLP - please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). 
+Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. The following conditions should be satisfied: 
+
+- the venue should be highly selective and 'major' in a given research area
+- the focus of the venue clearly aligns with an existing [ARR track](/areas.md): simply having publications that use NLP/ML methodology is not sufficient 
+- the publications should be indexed in DBLP
+
+If you believe we are missing important venues relevant to ARR tracks, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). 
 
 <!--1. Which venue do you propose to add? (name, URL)
 2. Which ARR track(s) does it correspond to?
@@ -48,9 +54,9 @@ Venues considered major may be expanded over time and additional qualification c
 4. Why should this venue be added? How central is it for this research area?
 5. Is it indexed by DBLP? If so, please include the link. Currently only dblp-indexed venues can be taken into account by the automated checker.-->
 
-ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
+ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks. 
 
-Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier)
+Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), ACM SIGMOD, IEEE ICDE, EDBT
 
 ## AC qualifications
 
