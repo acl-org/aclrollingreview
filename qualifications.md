@@ -6,12 +6,14 @@ permalink: /qualifications
 
 The most recent service qualifications at ARR are based on the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), and supercede the [earlier qualifications criteria](https://aclrollingreview.org/incentives2025).
 
+This policy is new, and ARR is still working out the implementation details. This page will be updated further with any relevant clarifications, FAQ or alternations.
+
 ## Reviewer qualifications
 
 The updated **reviewer qualifications** are as follows:
 
 - Those who have obtained their PhDs and/or have senior academic positions (postdoc/faculty), automatically qualify if they have at least 2 publications in major CL venues, Findings of the ACL, or other major relevant venues (see below). 
-- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 2 publications in major CL events, Findings or major related venues, and a total of >= 3 publications in total. 
+- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 2 publications (not necessarily first-author) in major CL events, Findings or major related venues, and a total of >= 3 publications in total. 
 - Those who do not automatically qualify by these criteria can serve as secondary reviewers, mentored by a qualified primary reviewer, but cannot be designated service contributors by themselves. 
 
 Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, *SEM. 
@@ -36,6 +38,8 @@ General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glos
 
 ARR is working on a way to ensure that the reviewers with expertise relevant to specific tracks would be assigned within those tracks.
 
+## What about \<another venue\>? 
+
 Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. If you believe we are missing a some other venue that is highly selective and 'major' in a given research area, for which there is an ARR track, and the publications from which are indexed in DBLP - please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). 
 
 <!--1. Which venue do you propose to add? (name, URL)
@@ -45,6 +49,8 @@ Venues considered major may be expanded over time and additional qualification c
 5. Is it indexed by DBLP? If so, please include the link. Currently only dblp-indexed venues can be taken into account by the automated checker.-->
 
 ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
+
+Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier)
 
 ## AC qualifications
 
@@ -61,13 +67,22 @@ The ARR submission form opens two weeks in advance (available from September 28 
 
 ## How to apply for manual verification?
 
+⚠️ The manual verification process focuses on **reviewing experience**, and does NOT consider publications. If you believe that you should qualify because of publications in unlisted venues, please apply for including that venue as described above.
+
 Those who do not formally qualify under the above publication criteria, but satisfy the degree requirements and have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have been sufficiently mentored as secondary reviewers in ARR cycles may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis.
 
 The current criteria for manual verification are based on documentation of at least 10 high quality reviews, from ARR or the "major venues" on ARR's current list. The number of publications a candidate has, and whether or not they've already worked for ARR are irrelevant (other than that they may provide evidence for the required number of reviews). The candidates who do not have a Masters degree (including those in Masters+PhD programs), as well as those who served as secondary reviewers at ARR, need to enclose a recommendation letter from the supervisor who mentored them in reviewing.
 
 You can apply for manual verification through [this form](https://tally.so/r/PdolyV). Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline.
 
-For the junior researchers who do not yet qualify under the required combination of either reviewing-based criteria or publications + educational qualifications, but would like to become qualified for ARR service: we recommend working with a qualified researcher who would mentor you as a secondary reviewer, taking responsibility for the quality of your reviews and then providing a recommendation. Since secondary reviewing is capped to 5 reviews per individual in a given cycle, it is possible to become qualified in this way after serving in 2 ARR cycles.
-
+⚠️ Important: Reviewing experience from workshops or unlisted venues will not be accepted. Many workshops are relevant and high-quality events, but ARR does not have the resources for verifying what kind of review process they may run.
 
 <!--Since this process is manual, the applications are not guaranteed to be reviewed quickly, and should be sent as early as possible before the deadline.-->
+
+## How do I become qualified through secondary reviewer?
+
+For the junior researchers who do not yet qualify under the required combination of either reviewing-based criteria or publications + educational qualifications, but would like to become qualified for ARR service: we recommend working with a qualified researcher who would mentor you as a secondary reviewer, taking responsibility for the quality of your reviews and then providing a recommendation. Since secondary reviewing is capped to 5 reviews per individual in a given cycle, it is possible to become qualified in this way after serving in 2 ARR cycles.
+
+It does not matter what institution the mentor is from, as long as they are mentoring you and are themselves qualified. It is possible to become qualified in this way without the Masters degree. The secondary reviewer contributions are recorded in the reviewing form by the supervisor: https://aclrollingreview.org/reviewerguidelines#secondary-reviewer 
+
+We hope to establish a program for helping independent researchers to find such mentors, but currently ARR cannot provide this yet.
