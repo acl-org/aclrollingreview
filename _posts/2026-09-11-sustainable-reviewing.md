@@ -4,6 +4,8 @@ title: ACL sustainable reviewing policy
 permalink: /sustainable-reviewing-2026
 ---
 
+{% include admonition.html type="warning" title="Work in progress!" body="⚠️ This policy is new, and ARR is still working out the implementation details. We also receive a lot of questions. We will be posting any relevant clarifications and FAQ here and in the qualifications page (https://aclrollingreview.org/qualifications)." %}
+
 In light of challenges with unsustainable rate of submissions at EMNLP'26, ACL Peer Review Standing Committee has developed a proposal for a sustainable reviewing policy. It has now been approved by ACL exec team, and it will apply for submissions to ACL Rolling Review (ARR) starting from October 2026.
 
 TLDR: ARR faces a reviewing crisis: submissions are growing far faster than reviewer capacity. 38% of the ~17K May 2026 submissions came from authors with no available publication record, and there are cases of outright spam, for which we so far had no established protocols.

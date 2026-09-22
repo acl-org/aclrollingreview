@@ -6,7 +6,7 @@ permalink: /qualifications
 
 The most recent service qualifications at ARR are based on the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), and supercede the [earlier qualifications criteria](https://aclrollingreview.org/incentives2025).
 
-This policy is new, and ARR is still working out the implementation details. This page will be updated further with any relevant clarifications, FAQ or alternations.
+{% include admonition.html type="warning" title="Work in progress!" body="⚠️ This policy is new, and ARR is still working out the implementation details. We also receive a lot of questions. We will be posting any relevant clarifications and FAQ here and in the sustainable reviewing policy page (https://aclrollingreview.org/sustainable-reviewing-2026)." %}
 
 ## Reviewer qualifications
 
