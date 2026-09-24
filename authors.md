@@ -179,6 +179,10 @@ The commitment phase ends when the paper is no longer under consideration by any
 
 If you receive a decision of acceptance, by submitting the camera-ready, you accept the publication offer, and the paper can no longer be withdrawn. If your paper is rejected, or you do not want to accept the offer you received, you can withdraw and go back to [Step 3](#step3). There are **no guarantees** that the outcome will be better at another venue. A paper accepted by one venue may be rejected by another, and revisions may not necessarily increase your chances at another venue. 
 
+**Q: For how long are the ARR reviews valid?**
+
+Commitment can be made to any venue accepting ARR reviews, within 6 months of the meta-review release date. After that, it should be updated as appropriate and re-reviewed.
+
 **Q: If the venue provides an optional "response to the meta-review" field, how should it be used?** <br/>
 
 That field is optional, and it is up to you to decide whether to use it, based on your situation and submission history. Here are some possibilities:
