@@ -4,6 +4,9 @@ title: "ARR Mentorship Programme"
 permalink: /mentorship
 search_index: false
 --- 
+
+{% include admonition.html type="warning" title="Legacy page!" body="⚠️ This page refers to a legacy program that was developed in the earlier phases of ARR. As of fall 2026, ARR does not have an active mentorship program. We realize that there is a lot of interest in this, and we will try to work on this as soon as possible, given all the other changes due to the new sustainable reviewing policy (https://aclrollingreview.org/sustainable-reviewing-2026)." %}
+
 An increasing number of NLP submissions are going through ARR. To make sure that we can handle this growth, and to maintain a diverse and balanced reviewer pool, we would like to set up a reviewer mentorship program in the spirit of previous programs run at ACL. The goal of this program is to help researchers with less reviewing experience to quickly get up to speed with the help of more experienced reviewers.   
 ## Overview
 The program operates as follows:
