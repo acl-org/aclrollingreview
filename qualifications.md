@@ -73,13 +73,13 @@ The ARR submission form opens two weeks in advance (available from September 28 
 
 ## How to apply for manual verification?
 
-⚠️ The manual verification process focuses on **reviewing experience**, and does NOT consider publications. If you believe that you should qualify because of publications in unlisted venues, please apply for including that venue as described above.
-
 Those who do not formally qualify under the above publication criteria, but satisfy the degree requirements and have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have been sufficiently mentored as secondary reviewers in ARR cycles may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis.
 
-The current criteria for manual verification are based on documentation of at least 10 high quality reviews, from ARR or the "major venues" on ARR's current list. The number of publications a candidate has, and whether or not they've already worked for ARR are irrelevant (other than that they may provide evidence for the required number of reviews). The candidates who do not have a Masters degree (including those in Masters+PhD programs), as well as those who served as secondary reviewers at ARR, need to enclose a recommendation letter from the supervisor who mentored them in reviewing.
+To check eligibility, complete the following self-assessment. A link to the application form will be provided if eligible.
 
-You can apply for manual verification through [this form](https://tally.so/r/PdolyV). Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline.
+{% include manual_verification_widget.html %}
+
+⚠️ The manual verification process focuses on **reviewing experience**, and does NOT consider publications. If you believe that you should qualify because of publications in unlisted venues, please apply for including that venue as described above.
 
 ⚠️ Important: Reviewing experience from workshops or unlisted venues will not be accepted. Many workshops are relevant and high-quality events, but ARR does not have the resources for verifying what kind of review process they may run.
 
