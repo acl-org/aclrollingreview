@@ -1,0 +1,636 @@
+<div class="arr-widget-wrapper" id="arr-eligibility-checker" markdown="0">
+  <style>
+    .arr-widget-wrapper {
+      margin: 1.25rem 0;
+      font-family: var(--sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif);
+      color: var(--ink, #182330);
+    }
+
+    .arr-widget-card {
+      background: var(--paper, #ffffff);
+      border: 1px solid var(--rule, #d8dee3);
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(22, 38, 56, 0.08);
+      overflow: hidden;
+    }
+
+    .arr-widget-header {
+      background: var(--surface, #f4f6f7);
+      color: var(--ink, #182330);
+      padding: 0 1.75rem;
+      border-bottom: 2px solid var(--rule, #d8dee3);
+      border-top: 4px solid #9f343c;
+    }
+
+    .arr-widget-title {
+      font-family: var(--serif, Georgia, serif);
+      font-size: 1.55rem;
+      font-weight: 700;
+      color: #162638;
+      margin: 0.5em 0 0 0;
+      line-height: 1.3;
+    }
+
+    .arr-widget-intro {
+      font-size: 0.95rem;
+      color: var(--ink-soft, #4a5663);
+      margin: 0;
+      max-width: 720px;
+      line-height: 1.5;
+    }
+
+    .arr-widget-content {
+      padding: 1.75rem;
+    }
+
+    /* Decision Box / Interactive Wizard */
+    .arr-wizard-container {
+      background: #ffffff;
+      border: 2px solid var(--rule, #d8dee3);
+      border-radius: 10px;
+      padding: 1.5rem;
+      position: relative;
+    }
+
+    .arr-wizard-topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding-bottom: 0.65rem;
+      border-bottom: 1px solid var(--rule, #d8dee3);
+    }
+
+    .arr-step-tag {
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--ink-soft, #4a5663);
+    }
+
+    .arr-reset-btn {
+      background: none;
+      border: none;
+      color: #243b52;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: underline;
+      padding: 0.2rem 0.4rem;
+    }
+
+    .arr-reset-btn:hover {
+      color: #9f343c;
+    }
+
+    .arr-q-title {
+      font-size: 1.18rem;
+      font-weight: 700;
+      color: var(--ink, #182330);
+      margin: 0 0 0.65rem 0;
+      line-height: 1.4;
+    }
+
+    .arr-q-tip {
+      background: #fffbeb;
+      border-left: 3px solid #f59e0b;
+      padding: 0.65rem 0.85rem;
+      font-size: 0.84rem;
+      color: #78350f;
+      border-radius: 0 6px 6px 0;
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+
+    .arr-btn-group {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .arr-action-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.45rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 0.65rem 1.35rem;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-decoration: none;
+      border: 1px solid transparent;
+    }
+
+    .arr-action-btn.btn-primary {
+      background: #162638;
+      color: #ffffff !important;
+    }
+
+    .arr-action-btn.btn-primary:hover {
+      background: #243b52;
+      transform: translateY(-1px);
+    }
+
+    .arr-action-btn.btn-secondary {
+      background: var(--surface-strong, #e9edef);
+      color: var(--ink, #182330) !important;
+      border-color: #b7c0c8;
+    }
+
+    .arr-action-btn.btn-secondary:hover {
+      background: #d8dee3;
+    }
+
+    .arr-back-link {
+      background: transparent;
+      border: none;
+      color: var(--ink-soft, #4a5663);
+      font-size: 0.88rem;
+      cursor: pointer;
+      padding: 0.5rem 0.75rem;
+    }
+
+    .arr-back-link:hover {
+      color: var(--ink, #182330);
+    }
+
+    /* Outcomes */
+    .arr-view-step {
+      display: none;
+      animation: arrFadeIn 0.25s ease;
+    }
+
+    .arr-view-step.active {
+      display: block;
+    }
+
+    @keyframes arrFadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .arr-outcome-box {
+      border-radius: 8px;
+      padding: 1.4rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .arr-outcome-box.eligible {
+      background: #f0fdf4;
+      border: 2px solid #86efac;
+    }
+
+    .arr-outcome-box.ineligible {
+      background: #fef2f2;
+      border: 2px solid #fca5a5;
+    }
+
+    .arr-status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      margin-bottom: 0.65rem;
+    }
+
+    .arr-status-badge.eligible {
+      background: #dcfce7;
+      color: #15803d;
+      border: 1px solid #86efac;
+    }
+
+    .arr-status-badge.ineligible {
+      background: #fee2e2;
+      color: #991b1b;
+      border: 1px solid #fca5a5;
+    }
+
+    .arr-outcome-heading {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin: 0 0 0.45rem 0;
+      line-height: 1.35;
+    }
+
+    .arr-outcome-box.eligible .arr-outcome-heading {
+      color: #14532d;
+    }
+
+    .arr-outcome-box.ineligible .arr-outcome-heading {
+      color: #7f1d1d;
+    }
+
+    .arr-outcome-summary {
+      font-size: 0.92rem;
+      color: var(--ink, #182330);
+      margin: 0 0 1rem 0;
+      line-height: 1.5;
+    }
+
+    /* Checklist */
+    .arr-checklist-card {
+      background: #ffffff;
+      border: 1px solid rgba(0, 0, 0, 0.09);
+      border-radius: 6px;
+      padding: 1rem 1.15rem;
+      margin: 1rem 0;
+    }
+
+    .arr-checklist-title {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 700;
+      color: var(--ink-soft, #4a5663);
+      margin: 0 0 0.65rem 0;
+    }
+
+    .arr-checklist-items {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .arr-checklist-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.65rem;
+      font-size: 0.9rem;
+      padding: 0.4rem 0;
+      color: var(--ink, #182330);
+    }
+
+    .arr-checklist-item input[type="checkbox"] {
+      margin-top: 0.2rem;
+      cursor: pointer;
+      accent-color: #15803d;
+      width: 16px;
+      height: 16px;
+    }
+
+    /* Unlocked Form CTA Box */
+    .arr-form-unlocked {
+      background: #ffffff;
+      border: 2px dashed #15803d;
+      border-radius: 8px;
+      padding: 1.25rem;
+      margin-top: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      align-items: flex-start;
+    }
+
+    .arr-form-btn {
+      background: #15803d;
+      color: #ffffff !important;
+      font-size: 1.05rem;
+      font-weight: 700;
+      padding: 0.8rem 1.6rem;
+      border-radius: 6px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      box-shadow: 0 4px 12px rgba(21, 128, 61, 0.25);
+      transition: all 0.2s ease;
+    }
+
+    .arr-form-btn:hover {
+      background: #166534;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(21, 128, 61, 0.35);
+    }
+
+    .arr-turnaround-note {
+      font-size: 0.83rem;
+      color: var(--ink-soft, #4a5663);
+      margin: 0;
+      line-height: 1.45;
+    }
+
+
+    @media (max-width: 680px) {
+      .arr-widget-content {
+        padding: 1rem;
+      }
+      .arr-btn-group {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .arr-action-btn {
+        width: 100%;
+      }
+    }
+  </style>
+
+  <div class="arr-widget-card">
+    <div class="arr-widget-header">
+      <h3 class="arr-widget-title">ARR Manual Verification Eligibility Checker</h3>
+      <p class="arr-widget-intro">
+        Please complete the quick self-assessment below. The application form link will be shown once you confirm an eligible pathway and review the required documentation checklist.
+      </p>
+    </div>
+
+    <div class="arr-widget-content">
+      <!-- Interactive Decision Wizard Container -->
+      <div class="arr-wizard-container" id="arr-wizard-view" aria-live="polite">
+        <!-- Question 1 -->
+        <div class="arr-view-step active" id="view-step-q1">
+          <div class="arr-wizard-topbar">
+            <span class="arr-step-tag">Step 1 of 2</span>
+          </div>
+          <div class="arr-q-title">
+            Do you have 10+ high-quality reviews from ARR or listed major venues?
+          </div>
+          <div class="arr-q-tip">
+            ⚠️ <strong>Venue restriction:</strong> Reviewing experience from workshops or unlisted venues will <strong>not</strong> be accepted. Only reviews from ARR or the major venues listed on this page count toward the 10-review requirement. The number of publications you have is irrelevant for manual verification.
+          </div>
+          <div class="arr-btn-group">
+            <button type="button" class="arr-action-btn btn-primary" onclick="arrAnswerQ1(true)">
+              ✓ Yes, I have 10+ reviews
+            </button>
+            <button type="button" class="arr-action-btn btn-secondary" onclick="arrAnswerQ1(false)">
+              ✕ No
+            </button>
+          </div>
+        </div>
+
+        <!-- Question 2 (Yes branch from Q1) -->
+        <div class="arr-view-step" id="view-step-q2">
+          <div class="arr-wizard-topbar">
+            <span class="arr-step-tag">Step 2 of 2</span>
+            <button type="button" class="arr-reset-btn" onclick="arrReset()">Start Over</button>
+          </div>
+          <div class="arr-q-title">
+            Do you hold a Master's degree or higher?
+          </div>
+          <div class="arr-q-tip">
+            Candidates who do not have an awarded Master's degree (including bachelor's students and those in combined Bachelor+Master's or Master's+PhD programs who have not yet officially completed their Master's) should select "No".
+          </div>
+          <div class="arr-btn-group">
+            <button type="button" class="arr-action-btn btn-primary" onclick="arrAnswerQ2(true)">
+              ✓ Yes, Master's or higher completed
+            </button>
+            <button type="button" class="arr-action-btn btn-secondary" onclick="arrAnswerQ2(false)">
+              ✕ No, not yet completed
+            </button>
+            <button type="button" class="arr-back-link" onclick="arrNavTo('q1')">
+              ← Back to Question 1
+            </button>
+          </div>
+        </div>
+
+        <!-- Question 3 (No branch from Q1) -->
+        <div class="arr-view-step" id="view-step-q3">
+          <div class="arr-wizard-topbar">
+            <span class="arr-step-tag">Step 2 of 2</span>
+            <button type="button" class="arr-reset-btn" onclick="arrReset()">Start Over</button>
+          </div>
+          <div class="arr-q-title">
+            Have you served as an ARR secondary reviewer for at least 10 reviews?
+          </div>
+          <div class="arr-q-tip">
+            Secondary reviewer contributions must have been officially recorded in the ARR reviewing form by your qualified supervisor (capped at 5 reviews per cycle, typically requiring service across at least 2 cycles).
+          </div>
+          <div class="arr-btn-group">
+            <button type="button" class="arr-action-btn btn-primary" onclick="arrAnswerQ3(true)">
+              ✓ Yes, 10+ ARR secondary reviews
+            </button>
+            <button type="button" class="arr-action-btn btn-secondary" onclick="arrAnswerQ3(false)">
+              ✕ No
+            </button>
+            <button type="button" class="arr-back-link" onclick="arrNavTo('q1')">
+              ← Back to Question 1
+            </button>
+          </div>
+        </div>
+
+        <!-- Outcome 1: Standard Path -->
+        <div class="arr-view-step" id="view-outcome-standard">
+          <div class="arr-outcome-box eligible">
+            <div class="arr-status-badge eligible">
+              <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              Eligible
+            </div>
+            <div class="arr-outcome-heading">
+              You qualify for manual verification.
+            </div>
+            <div class="arr-outcome-summary">
+              You satisfy both the 10+ high-quality review threshold at ARR or listed major venues and the Master's degree requirement. Please verify that you have the required evidence ready before opening the application form.
+            </div>
+
+            <div class="arr-checklist-card">
+              <div class="arr-checklist-title">Required Submission Checklist (Standard Path):</div>
+              <ul class="arr-checklist-items">
+                <li class="arr-checklist-item">
+                  <input type="checkbox" id="check-std-1">
+                  <label for="check-std-1"><strong>Reviewing evidence:</strong> Documentation of at least 10 high-quality reviews from ARR or major venues listed above (e.g., links, confirmation records, OpenReview history).</label>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Revealed Form Link -->
+            <div class="arr-form-unlocked">
+              <a href="https://tally.so/r/PdolyV" target="_blank" rel="noopener noreferrer" class="arr-form-btn">
+                <span>Apply for Manual Verification</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+              </a>
+              <p class="arr-turnaround-note">
+                ⚠️ <strong>Note on processing:</strong> Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline. Please submit as early as possible.
+              </p>
+            </div>
+          </div>
+          <button type="button" class="arr-action-btn btn-secondary" onclick="arrReset()">
+            ↺ Check Another Profile / Restart
+          </button>
+        </div>
+
+        <!-- Outcome 2: Mentorship Path -->
+        <div class="arr-view-step" id="view-outcome-mentorship">
+          <div class="arr-outcome-box eligible">
+            <div class="arr-status-badge eligible">
+              <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              Eligible
+            </div>
+            <div class="arr-outcome-heading">
+              You qualify for manual verification.
+            </div>
+            <div class="arr-outcome-summary">
+              You meet the 10+ high-quality review threshold from ARR or listed major venues. Because you do not yet hold a Master's degree, you must enclose a recommendation letter from the supervisor who mentored you in reviewing.
+            </div>
+
+            <div class="arr-checklist-card">
+              <div class="arr-checklist-title">Required Submission Checklist (Mentorship Path):</div>
+              <ul class="arr-checklist-items">
+                <li class="arr-checklist-item">
+                  <input type="checkbox" id="check-ment-1">
+                  <label for="check-ment-1"><strong>Reviewing evidence:</strong> Documentation of at least 10 high-quality reviews from ARR or listed major venues.</label>
+                </li>
+                <li class="arr-checklist-item">
+                  <input type="checkbox" id="check-ment-2">
+                  <label for="check-ment-2"><strong>Recommendation letter:</strong> Formal letter from the supervisor who mentored you in reviewing.</label>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Revealed Form Link -->
+            <div class="arr-form-unlocked">
+              <a href="https://tally.so/r/PdolyV" target="_blank" rel="noopener noreferrer" class="arr-form-btn">
+                <span>Apply for Manual Verification</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+              </a>
+              <p class="arr-turnaround-note">
+                ⚠️ <strong>Note on processing:</strong> Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline. Please submit as early as possible.
+              </p>
+            </div>
+          </div>
+          <button type="button" class="arr-action-btn btn-secondary" onclick="arrReset()">
+            ↺ Check Another Profile / Restart
+          </button>
+        </div>
+
+        <!-- Outcome 3: Secondary Reviewer Path -->
+        <div class="arr-view-step" id="view-outcome-secondary">
+          <div class="arr-outcome-box eligible">
+            <div class="arr-status-badge eligible">
+              <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+              Eligible
+            </div>
+            <div class="arr-outcome-heading">
+              You qualify for manual verification under the Secondary Reviewer Path.
+            </div>
+            <div class="arr-outcome-summary">
+              You have completed at least 10 ARR secondary reviews under qualified supervision. You are eligible for manual verification regardless of degree status with your supervisor's recommendation letter.
+            </div>
+
+            <div class="arr-checklist-card">
+              <div class="arr-checklist-title">Required Submission Checklist (Secondary Reviewer Path):</div>
+              <ul class="arr-checklist-items">
+                <li class="arr-checklist-item">
+                  <input type="checkbox" id="check-sec-1">
+                  <label for="check-sec-1"><strong>ARR secondary reviewing records:</strong> Documentation of at least 10 completed ARR secondary reviews.</label>
+                </li>
+                <li class="arr-checklist-item">
+                  <input type="checkbox" id="check-sec-2">
+                  <label for="check-sec-2"><strong>Recommendation letter:</strong> Formal letter from the supervisor who mentored you as secondary reviewer.</label>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Revealed Form Link -->
+            <div class="arr-form-unlocked">
+              <a href="https://tally.so/r/PdolyV" target="_blank" rel="noopener noreferrer" class="arr-form-btn">
+                <span>Apply for Manual Verification</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+              </a>
+              <p class="arr-turnaround-note">
+                ⚠️ <strong>Note on processing:</strong> Since this process is manual, ARR does not guarantee that all applications will be processed quickly, especially if there is a big surge in applications close to the submission deadline. Please submit as early as possible.
+              </p>
+            </div>
+          </div>
+          <button type="button" class="arr-action-btn btn-secondary" onclick="arrReset()">
+            ↺ Check Another Profile / Restart
+          </button>
+        </div>
+
+        <!-- Outcome 4: Not Eligible -->
+        <div class="arr-view-step" id="view-outcome-ineligible">
+          <div class="arr-outcome-box ineligible">
+            <div class="arr-status-badge ineligible">
+              <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg>
+              Not Currently Eligible
+            </div>
+            <div class="arr-outcome-heading">
+              Candidate does not satisfy manual verification criteria.
+            </div>
+            <div class="arr-outcome-summary">
+              Manual verification requires either <strong>10+ reviews from ARR or listed major venues</strong>, or <strong>10+ mentored ARR secondary reviews</strong>. Reviews from workshops or unlisted venues cannot be accepted.
+            </div>
+
+            <div class="arr-checklist-card" style="border-left: 3px solid #dc2626;">
+              <div class="arr-checklist-title" style="color: #991b1b;">Recommended Pathways to Become Qualified:</div>
+              <ul class="arr-checklist-items">
+                <li class="arr-checklist-item">
+                  <span style="color: #dc2626; font-weight: bold; margin-right: 4px;">•</span>
+                  <span><strong>ARR Secondary Reviewer Path:</strong> We recommend working with a qualified researcher who can mentor you as an ARR secondary reviewer. Since secondary reviewing is capped at 5 reviews per individual per cycle, you can achieve qualification in just 2 cycles (10 reviews total) plus a mentor recommendation. See the <a href="https://aclrollingreview.org/reviewerguidelines#secondary-reviewer" target="_blank" rel="noopener noreferrer">secondary reviewer instructions</a>.</span>
+                </li>
+                <li class="arr-checklist-item" style="margin-top: 0.5rem;">
+                  <span style="color: #dc2626; font-weight: bold; margin-right: 4px;">•</span>
+                  <span><strong>Publication Route:</strong> If you meet the educational criteria and co-author 2 papers in major CL venues/Findings plus ≥3 total papers, you will automatically qualify as a primary reviewer without needing manual verification.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <button type="button" class="arr-action-btn btn-secondary" onclick="arrReset()">
+            ↺ Check Another Profile / Restart
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      function hideAllSteps() {
+        var steps = document.querySelectorAll('#arr-eligibility-checker .arr-view-step');
+        steps.forEach(function(step) {
+          step.classList.remove('active');
+        });
+      }
+
+      window.arrNavTo = function(step) {
+        hideAllSteps();
+        var targetView = document.getElementById('view-step-' + step);
+        if (targetView) targetView.classList.add('active');
+      };
+
+      window.arrAnswerQ1 = function(isYes) {
+        if (isYes) {
+          window.arrNavTo('q2');
+        } else {
+          window.arrNavTo('q3');
+        }
+      };
+
+      window.arrAnswerQ2 = function(isYes) {
+        if (isYes) {
+          window.arrShowOutcome('standard');
+        } else {
+          window.arrShowOutcome('mentorship');
+        }
+      };
+
+      window.arrAnswerQ3 = function(isYes) {
+        if (isYes) {
+          window.arrShowOutcome('secondary');
+        } else {
+          window.arrShowOutcome('ineligible');
+        }
+      };
+
+      window.arrShowOutcome = function(pathName) {
+        hideAllSteps();
+        var outcomeView = document.getElementById('view-outcome-' + pathName);
+        if (outcomeView) {
+          outcomeView.classList.add('active');
+        }
+      };
+
+      window.arrReset = function() {
+        window.arrNavTo('q1');
+      };
+
+      // Set initial state
+      window.arrNavTo('q1');
+    })();
+  </script>
+</div>
