@@ -67,7 +67,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 ## How to check if I am qualified?
 
-The ARR submission form opens two weeks in advance (available from September 28 for October'26 review cycle). ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form. 
+ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.
 
 ## How to apply for manual verification?
 
