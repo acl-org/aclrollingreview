@@ -20,21 +20,25 @@ Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCN
 
 For some of ARR tracks, other major relevant venues we recognize include:
 
+- Clinical and Biomedical Applications: JAMIA, Journal of Biomedical Informatics, npj Digital Medicine, IEEE Journal of Biomedical and Health Informatics, Artificial Intelligence in Medicine, International Journal of Medical Informatics
 - Computational Social Science and Cultural Analytics: ICWSM
 - Discourse and Pragmatics: Journal of Pragmatics
+- Efficient Methods for NLP: ASPLOS
 - Ethics, Bias, and Fairness: FAccT, AEIS
-- Human-computer Interaction: CHI
-- Information Retrieval: ECIR, SIGIR
+- Human-computer Interaction: CHI, ACM CSCW, UIST
+- Information Retrieval: ECIR, SIGIR, WSDM, ACM SIGMOD, IEEE ICDE, CIKM
+- Language modeling (security-related subareas): USENIX, CCS (ACM Conference on Computer and Communications Security)
 - Linguistic Theories, Cognitive Modeling, and Psycholinguistics: Cognition, Journal of Memory and Language, Journal of Child Language, Language Learning, Cognitive Science, Language Acquisition
-- Machine learning: AAAI, COLM, CVPR, ECCV, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, NeurIPS, TMLR, TPAMI, WWW 
-- Multilingualism and Cross-Lingual NLP: Linguistic Typology, International Journal of Multilingualism
-- NLP and Code Models: ICSE, FSE, ASE
+- Machine learning: AAAI, AISTATS, COLM, CVPR, ECCV, ICCV, ICLR, ICML, IJCAI, JAIR, JMLR, KDD, NeurIPS, TMLR, TPAMI, WWW
+- Multilingualism and Cross-Lingual NLP: Linguistic Typology, International Journal of Multilingualism, Language Documentation & Conservation, Diachronica
+- NLP and Code Models: ICSE, FSE, ASE, ISSTA
+- NLP and Symbolic Reasoning: Journal of Logic and Computation, Journal of Philosophical Logic
 - Phonology, Morphology, and Word Segmentation: Journal of Phonetics, the Journal of the International Phonetic Association
 - Semantics: Lexical and Sentence-Level: Linguistics & Philosophy, Journal of Semantics
 - Speech Recognition, Text-to-Speech and Spoken Language Understanding: Interspeech, ICASSP
 - Syntax: Tagging, Chunking and Parsing: Linguistic Inquiry, Natural Language & Linguistic Theory
 
-General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glossa, Applied Linguistics, Constructions and Frames, Journal of Logic, Language and Information, Journal of Linguistics
+General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glossa, Applied Linguistics, Constructions and Frames, Journal of Logic, Language and Information, Journal of Linguistics, International Journal of Applied Linguistics
 
 ARR is working on a way to ensure that the reviewers with expertise relevant to specific tracks would be assigned within those tracks.
 
@@ -42,21 +46,15 @@ ARR is working on a way to ensure that the reviewers with expertise relevant to 
 
 Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. The following conditions should be satisfied: 
 
-- the venue should be highly selective and 'major' in a given research area
-- the focus of the venue clearly aligns with an existing [ARR track](/areas.md): simply having publications that use NLP/ML methodology is not sufficient 
+- the venue should be highly selective and top-tier in a given research area
+- the focus of the venue clearly aligns with an existing [ARR track](/areas.md): simply having publications that use NLP/ML methodology, or having some publications that align with a track, is *not* sufficient 
 - the publications should be indexed in DBLP
 
-If you believe we are missing important venues relevant to ARR tracks, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). 
+If you believe we are missing venues that match the above criteria, please see below whether your venue was already considered:  
 
-<!--1. Which venue do you propose to add? (name, URL)
-2. Which ARR track(s) does it correspond to?
-3. Official page(s) with information about acceptance rates
-4. Why should this venue be added? How central is it for this research area?
-5. Is it indexed by DBLP? If so, please include the link. Currently only dblp-indexed venues can be taken into account by the automated checker.-->
+Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), EDBT, International Conference on Affective Computing and Intelligent Interaction (ACII), Medical Image Computing and Computer Assisted Intervention (MICCAI), IEEE International Conference on Multimedia and Expo (ICME), IEEE International Conference on Data Mining (ICDM), International Conference on Pattern Recognition (ICPR), International Conference on Autonomous Agents and Multiagent Systems (AAMAS), ACM Conference on AI and Agentic Systems (ACM CAIS), IEEE Access.
 
-ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks. 
-
-Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), ACM SIGMOD, IEEE ICDE, EDBT
+If the venue you would like to propose is not among these, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
 
 ## AC qualifications
 
