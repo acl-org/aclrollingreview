@@ -6,9 +6,9 @@ permalink: /qualifications
 
 The most recent service qualifications at ARR are based on the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), and supercede the [earlier qualifications criteria](https://aclrollingreview.org/incentives2025).
 
-{% include admonition.html type="warning" title="Work in progress!" body="⚠️ This policy is new, and ARR is still working out the implementation details. We also receive a lot of questions. We will be posting any relevant clarifications and FAQ here and in the sustainable reviewing policy page (https://aclrollingreview.org/sustainable-reviewing-2026)." %}
+{% include admonition.html type="warning" title="Work in progress!" body="⚠️ This policy is new, and ARR is still working out the implementation. Some details may change. We also receive a lot of questions. We will be posting any relevant clarifications and FAQ here and in the sustainable reviewing policy page (https://aclrollingreview.org/sustainable-reviewing-2026)." %}
 
-## Reviewer qualifications
+## Reviewer qualifications {#reviewer}
 
 The updated **reviewer qualifications** are as follows:
 
@@ -43,7 +43,7 @@ General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glos
 
 ARR is working on a way to ensure that the reviewers with expertise relevant to specific tracks would be assigned within those tracks.
 
-## What about \<another venue\>? 
+## What about \<another venue\>? {#more-venues}
 
 Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. The following conditions should be satisfied: 
 
@@ -57,7 +57,7 @@ Venues we considered and did not accept: Applied Intelligence (Springer), IEEE I
 
 If the venue you would like to propose is not among these, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
 
-## AC qualifications
+## AC qualifications {#ac}
 
 The ARR area chairs must qualify as reviewers, and additionally:
 
@@ -66,7 +66,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 - 4 additional papers in either major CL events or major relevant venues
 - Extensive reviewing experience
 
-## How to check if I am qualified?
+## How to check if I am qualified? {#checker}
 
 <!--ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.-->
 
@@ -80,11 +80,7 @@ If you are not qualified according to your publication record and education leve
 
 We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for an official publication.
 
-## Do special tracks count?
-
-The practices among special tracks between conferences vary significantly, and we do not have the resources to verify which ones are comparable to the main track. Currently, only main tracks are considered; Demonstration, Industry, SRW, Doctoral Consortium, Student Tracks, etc., are not included.
-
-## How to apply for manual verification?
+## How to apply for manual verification? {#manual-verification}
 
 Those who do not formally qualify under the above publication criteria, but satisfy the degree requirements and have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have been sufficiently mentored as secondary reviewers in ARR cycles may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis.
 
@@ -98,7 +94,11 @@ To check eligibility, complete the following self-assessment. A link to the appl
 
 <!--Since this process is manual, the applications are not guaranteed to be reviewed quickly, and should be sent as early as possible before the deadline.-->
 
-## How do I become qualified through secondary reviewer?
+## Can I get qualified partly with publications and partly with reviewing? {#partial-credit}
+
+No, you need to be qualified through at least one of these mechanisms.
+
+## How do I become qualified through secondary reviewing? {#secondary}
 
 For the junior researchers who do not yet qualify under the required combination of either reviewing-based criteria or publications + educational qualifications, but would like to become qualified for ARR service: we recommend working with a qualified researcher who would mentor you as a secondary reviewer, taking responsibility for the quality of your reviews and then providing a recommendation. Since secondary reviewing is capped to 5 reviews per individual in a given cycle, it is possible to become qualified in this way after serving in 2 ARR cycles.
 
@@ -106,6 +106,10 @@ It does not matter what institution the mentor is from, as long as they are ment
 
 We hope to establish a program for helping independent researchers to find such mentors, but currently ARR cannot provide this yet.
 
-## Did you change the qualification rule for service contributors without PhD degree?
+## Did you change the qualification rule for service contributors without PhD degree? {2+1}
 
 The qualification criterion was originally formulated as 'at least 2 publications (not necessarily first-author) in major CL events, Findings or major related venues, and a total of >= 3 publications in total' This formulation was a leftover from the prior ARR criteria, where 2 papers were required to be in major CL venues and the extra one could be from a related or CL venue. To broaden and simplify the criteria, and to qualify as many people from related communities as possible, we now allow all 3 papers for service contributors with a Masters degree to come from any venue in the approved list. We further considerably expanded the list of qualified related venues in response to community requests.
+
+## Do resubmissions still need to bring in a service contributor?
+
+see [here](https://aclrollingreview.org/sustainable-reviewing-2026#resubmissions)
