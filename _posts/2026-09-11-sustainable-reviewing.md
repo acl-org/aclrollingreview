@@ -58,6 +58,6 @@ No, this is only for the 'main' ARR review cycles. Demo and industry tracks are 
 
 No. E.g. it is possible to have a designated contributor qualified for IR track, even if the submission for which they serve is in another track.
 
-## Do resubmissions still need to bring in a service contributor?
+## Do resubmissions still need to bring in a service contributor? {#resubmissions}
 
 Yes. Resubmissions still have to be considered by as many people as first-time submissions, and so they still need to bring in a service contributor, or be subject to lottery.
