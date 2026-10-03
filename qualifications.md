@@ -108,10 +108,14 @@ It does not matter what institution the mentor is from, as long as they are ment
 
 We hope to establish a program for helping independent researchers to find such mentors, but currently ARR cannot provide this yet.
 
-## Did you change the qualification rule for service contributors without PhD degree? {2+1}
+## Did you change the qualification rule for service contributors without PhD degree? {#2+1}
 
 The qualification criterion was originally formulated as 'at least 2 publications (not necessarily first-author) in major CL events, Findings or major related venues, and a total of >= 3 publications in total' This formulation was a leftover from the prior ARR criteria, where 2 papers were required to be in major CL venues and the extra one could be from a related or CL venue. To broaden and simplify the criteria, and to qualify as many people from related communities as possible, we now allow all 3 papers for service contributors with a Masters degree to come from any venue in the approved list. We further considerably expanded the list of qualified related venues in response to community requests.
 
 ## Do resubmissions still need to bring in a service contributor?
 
-see [here](https://aclrollingreview.org/sustainable-reviewing-2026#resubmissions)
+See [here](https://aclrollingreview.org/sustainable-reviewing-2026#resubmissions).
+
+## What are the qualifications for students in Masters+PhD programs? {#integrated-degree}
+
+If you are in an integrated Masters+Phd program that has a Masters-level qualifying exam, indicate your status as 'PhD student' after you've passed it, and as 'Masters student' before. If there is no such exam, indicate your status as 'Masters student' in the first two years of your program, and as 'PhD student' afterwards. 
