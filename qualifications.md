@@ -70,7 +70,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 <!--ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.-->
 
-The ARR automated checker beta is live now! ⚠️ We are still working out a few details, in particular deduplication of records and import of EMNLP/AACL'26 publications.
+The ARR automated checker beta is live now! ⚠️ We are still working out a few details, in particular the import of EMNLP/AACL'26 publications.
 
 To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in yout OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
 
