@@ -80,7 +80,7 @@ If you are not qualified according to your publication record and education leve
 
 ## What if my paper is accepted but not published yet?
 
-We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for an official publication.
+We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being injested in the databases used for verification.
 
 ## How to apply for manual verification? {#manual-verification}
 
