@@ -119,3 +119,7 @@ See [here](https://aclrollingreview.org/sustainable-reviewing-2026#resubmissions
 ## What are the qualifications for students in Masters+PhD programs? {#integrated-degree}
 
 If you are in an integrated Masters+Phd program that has a Masters-level qualifying exam, indicate your status as 'PhD student' after you've passed it, and as 'Masters student' before. If there is no such exam, indicate your status as 'Masters student' in the first two years of your program, and as 'PhD student' afterwards. 
+
+# Do the papers for reviewer qualifications have to be first-author? {#author-order}
+
+The current qualification criteria do not consider the position in the author list.
