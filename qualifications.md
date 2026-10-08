@@ -21,7 +21,7 @@ Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCN
 For some of ARR tracks, other major relevant venues we recognize include:
 
 - Clinical and Biomedical Applications: JAMIA, Journal of Biomedical Informatics, npj Digital Medicine, IEEE Journal of Biomedical and Health Informatics, Artificial Intelligence in Medicine, International Journal of Medical Informatics
-- Computational Social Science and Cultural Analytics: ICWSM
+- Computational Social Science and Cultural Analytics: ICWSM, Nature Human Behaviour, Journal of Computational Social Science (JCSS)
 - Discourse and Pragmatics: Journal of Pragmatics
 - Efficient Methods for NLP: ASPLOS
 - Ethics, Bias, and Fairness: FAccT, AEIS
@@ -53,7 +53,7 @@ Venues considered major may be expanded over time and additional qualification c
 
 If you believe we are missing venues that match the above criteria, please see below whether your venue was already considered:  
 
-Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), EDBT, International Conference on Affective Computing and Intelligent Interaction (ACII), IEEE Transactions on Affective Computing, Medical Image Computing and Computer Assisted Intervention (MICCAI), IEEE International Conference on Multimedia and Expo (ICME), ACM International Conference on Multimodal Interaction (ICMI), IEEE International Conference on Data Mining (ICDM), International Conference on Pattern Recognition (ICPR), International Conference on Autonomous Agents and Multiagent Systems (AAMAS), ACM Conference on AI and Agentic Systems (ACM CAIS), ACM International Conference on Intelligent Virtual Agents (IVA), IEEE Access, Information Fusion (Elsevier), ACM international joint conference on Pervasive and Ubiquitous Computing, IEEE Transactions on Audio, Speech and Language Processing, International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR) 
+Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), EDBT, International Conference on Affective Computing and Intelligent Interaction (ACII), IEEE Transactions on Affective Computing, Medical Image Computing and Computer Assisted Intervention (MICCAI), IEEE International Conference on Multimedia and Expo (ICME), ACM International Conference on Multimodal Interaction (ICMI), IEEE International Conference on Data Mining (ICDM), International Conference on Pattern Recognition (ICPR), International Conference on Autonomous Agents and Multiagent Systems (AAMAS), ACM Conference on AI and Agentic Systems (ACM CAIS), ACM International Conference on Intelligent Virtual Agents (IVA), IEEE Access, Information Fusion (Elsevier), ACM international joint conference on Pervasive and Ubiquitous Computing, IEEE Transactions on Audio, Speech and Language Processing, International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Journal of the American Statistical Association (JASA), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), ACM International Conference on Multimedia, CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), IEEE Transactions on Systems, Man, and Cybernetics, Part B / IEEE Transactions on Cybernetics, The Florida  Artificial Intelligence  Research Society, Journal of Innovation in Digital Ecosystems, IEEE Big Data, Journal of Informetrics (JOI), Elsevier Neurocomputing 
 
 If the venue you would like to propose is not among these, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
 
@@ -70,7 +70,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 <!--ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.-->
 
-The ARR automated checker beta is live now! ⚠️ We are still working out a few details, in particular the import of EMNLP/AACL'26 publications.
+The ARR automated checker beta is live now! 
 
 To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in yout OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
 
