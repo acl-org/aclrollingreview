@@ -76,7 +76,7 @@ To test it, please log in to openreview, open this [page](https://openreview.net
 
 If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
 
-If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#how-to-apply-for-manual-verification).
+If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#manual-verification).
 
 ## What if my paper is accepted but not published yet?
 
