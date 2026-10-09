@@ -84,7 +84,7 @@ We can automatically confirm and take into account the status of papers accepted
 
 ## How to apply for manual verification? {#manual-verification}
 
-Those who do not formally qualify under the above publication criteria, but satisfy the degree requirements and have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have been sufficiently mentored as secondary reviewers in ARR cycles may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis.
+Those who do not formally qualify under the above publication criteria, but satisfy the degree requirements and have substantially equivalent experience, may apply with documentation of their expertise and review experience for case-by-case consideration (e.g. with records from other venues where they served). In particular, those who have completed at least a Bachelor degree and have been sufficiently mentored as secondary reviewers in ARR cycles may be accepted as reviewers, even if they do not meet the strict publication thresholds, on a case-by-case basis.
 
 To check eligibility, complete the following self-assessment. A link to the application form will be provided if eligible.
 
