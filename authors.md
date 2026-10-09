@@ -28,8 +28,8 @@ A submission may be **desk rejected** for a number of reasons. To help the autho
 
 **What should I do if my DBLP/Anthology profiles mix my own papers with other people's papers?** 
 
-- For ACL Anthology: Instructions for authors to request verification/cleanup of their page are at https://aclanthology.org/info/author-pages/. The requests are made via GitHub issues that we then review manually and process. If their papers were OpenReview-submitted, they should first try just adding an ORCID link in OpenReview to see if that solves it within 2 weeks.
-- For DBLP: see https://dblp.org/faq/1474623.html
+- For ACL Anthology: Instructions for authors to request verification/cleanup of their page are at [https://aclanthology.org/info/author-pages/](https://aclanthology.org/info/author-pages/). The requests are made via GitHub issues that we then review manually and process. If their papers were OpenReview-submitted, they should first try just adding an ORCID link in OpenReview to see if that solves it within 2 weeks.
+- For DBLP: see [https://dblp.org/faq/1474623.html](https://dblp.org/faq/1474623.html)
 - These fixes will take some time, since they require reviewing by the Anthology/DBLP teams. If you are doing this close to submission deadline, for the short term keep the noisy links in the profile, but make sure that your OpenReview profile contains an accurate representation of your publication history. Indicate that the links are noisy and your profile history should be used in the [contributor form](#submission-forms). Make sure the profiles are fixed for the next cycle.
 
 # Step 1: Submit your paper for ARR review {#step1}
