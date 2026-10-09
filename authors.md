@@ -6,7 +6,9 @@ permalink: /authors
 
 {% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
 
-# Step 0: Is ARR right for your paper? {#step0}
+# Step 0: Prepare for submission {#step0}
+
+## Is ARR right for your paper?
 
 ARR provides reviews—and only reviews—for submissions. The reviews will not be specific to a conference/venue, but the standards expected by reviewers are those of a traditional direct submission as a long or short main conference paper to ACL (or the other major conferences operated by the ACL). Refer to the [the CFP](/cfp) for the scope and requirements to the submissions. Please note that \*CL venues are NOT generic machine learning conferences: the submissions are expected to make a substantial contribution to computational processing of human language. 
 
@@ -16,11 +18,22 @@ Some caveats:
 - If you intend to send your paper to a workshop or to a more specialized conference like CoNLL, \*SEM, INLG, etc., check whether it is listed on [the venues page](/dates). If not, there may be venue-specific review processes.
 - Some venues are hybrid, meaning they will consider ARR-reviewed papers as well as direct submissions.
 
-# Step 1: Submit your paper for ARR review {#step1}
+## How to avoid desk rejection? {#desk-reject}
+
+A submission may be **desk rejected** for a number of reasons. To help the authors avoid desk rejections, we compiled [a list of common problems to check before submission](/authorchecklist.md). Common examples include submissions not in scope of ARR, formatting violations, failures to provide the necessary metadata on time, fabricated citations, failures of designated service contributors to perform their duties, and many others. Sometimes a violation is not immediately obvious, but does get noticed later in the cycle. Due to that, **desk rejection can occur at any point in the review cycle, even after receiving initial reviews or even a meta-review.** 
+
+## How to avoid the lottery? {#lottery}
 
 {% include admonition.html type="warning" title="Important changes!" body="ACL has adopted sustainable reviewing policy, which will apply from October 2026. Submissions will now be capped to reviewer capacity. Submissions will only guaranteed review if they bring a qualified service contributor (who can serve for 2 submissions max, and is responsible for finding qualified replacements in case of any emergencies). There are now caps on maximum submissions by a single author (20) and first or joint-first authors (5), and penalties for system abuse including systematic spamming and account manipulation. All authors and service contributors MUST have OpenReview profiles with accurate affiliation history, career status, emails, ORCID and, where applicatble, DBLP and ACL Anthology links. Violations will lead to desk rejection. See the [full announcement](/sustainable-reviewing-2026) and [reviewer qualifications](/qualifications.md)." %}
 
-ARR has recurring submission **deadlines**: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. Starting in May 2025, [all submitting authors have to also sign up as reviewers](https://aclrollingreview.org/incentives2025) (deadline: 48h after the submission deadline)
+**What should I do if my DBLP/Anthology profiles mix my own papers with other people's papers?** 
+- For ACL Anthology: Instructions for authors to request verification/cleanup of their page are at https://aclanthology.org/info/author-pages/. The requests are made via GitHub issues that we then review manually and process. If their papers were OpenReview-submitted, they should first try just adding an ORCID link in OpenReview to see if that solves it within 2 weeks.
+- For DBLP: see https://dblp.org/faq/1474623.html
+- These fixes will take some time. If you are doing this close to submission deadline, for the short term please make sure that your OpenReview profile contains an accurate representation of your publication history, and indicate this in the contributor form.
+
+# Step 1: Submit your paper for ARR review {#step1}
+
+ARR has recurring submission **deadlines**: see [dates and venues](/dates). Deadlines are firm. You are encouraged to have a look at the [submission form](/submissionform) and [responsible NLP checklist](/responsibleNLPresearch.md), which list all the questions you will be asked during submission. To help the authors avoid desk rejection, we also prepared [a list of common problems to check](/authorchecklist.md), and a list of [track keywords](https://aclrollingreview.org/areas) to help select the right track. 
 
 The submission must adhere to the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). 
 
@@ -30,9 +43,13 @@ At the time of submission you may opt to have ARR publish your paper as an **ano
 
 As soon as you have submitted your paper, and until you receive the meta-review, it will be considered **under review** by ARR. You may not submit the paper elsewhere during this period.
 
-## How to avoid desk rejection? {#desk-reject}
+## What forms need to be submitted? {#submission-forms}
 
-A submission may be **desk rejected** for a number of reasons. To help the authors avoid desk rejections, we compiled [a list of common problems to check before submission](/authorchecklist.md). Common examples include submissions not in scope of ARR, formatting violations, failures to provide the necessary metadata on time, fabricated citations, failures of designated service contributors to perform their duties, and many others. Sometimes a violation is not immediately obvious, but does get noticed later in the cycle. Due to that, **desk rejection can occur at any point in the review cycle, even after receiving initial reviews or even a meta-review.** 
+The **main submission form** contains the submission metadata, submission file and the field nominating the designated service contributor. Service contributors, authors and main submission pdfs are final at the submission deadline. Metadata fields have an extra grace period of 48 hours after the submission deadline.
+
+Once a submission has been made, the author console will also contain the **Responsible NLP Checklist form**. Alternatively, you can access the form by clicking on the 'show details' in your submission list, and then you will see a `complete checklist` button in the end of the submission details (see [screenshot](images/checklist-form-location.png)). It used to be part of the main submission form, but the default OR forms do not support branching, which leas to the form being unnecessarily long and error-prone. In the new form, it is possible to skip the sections that don't apply to a given submission. Like the submission form metadata, it has an extra grace period of 48 hours after the submission. However, we recommend consulting the [checklist](/responsibleNLPresearch.md) as early as posisble (some issues like institutional approval should be planned before research even starts). It may be helpful to make a submission early (not necessarily with the final pdf yet), so as to activate the checklist, and to fill it in early. This may help you identify things that can still be fixed in the submission.
+
+Finally, the **service contributor form** is activated in the contributor's console once they are nominated as a contributor in a submission. It is also due maximum 48 hours after submission. That form also becomes availabe to the designated contributor as soon as a submission is made (not necessarily the final one). So if you know that the designated contributor will be unavailable around the deadline, you can coordinate with them to make sure that their form gets submitted (any time after submission site opensand before submission deadline). To find that form, the contributor needs to log in to openreview, and they should see a new 'contributor console' for the corresponding ARR cycle.
 
 ## How to withdraw your paper? {#withdrawal}
 
