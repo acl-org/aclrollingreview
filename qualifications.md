@@ -24,7 +24,7 @@ For some of ARR tracks, other major relevant venues we recognize include:
 - Computational Social Science and Cultural Analytics: ICWSM, Nature Human Behaviour, Journal of Computational Social Science (JCSS)
 - Discourse and Pragmatics: Journal of Pragmatics
 - Efficient Methods for NLP: ASPLOS
-- Ethics, Bias, and Fairness: FAccT, AEIS
+- Ethics, Bias, and Fairness: FAccT, AIES
 - Human-computer Interaction: CHI, ACM CSCW (PACM HCI), UIST
 - Information Retrieval: ECIR, SIGIR, WSDM, ACM SIGMOD, IEEE ICDE, CIKM, VLDB, ICDM
 - Language modeling (security-related subareas): USENIX, CCS (ACM Conference on Computer and Communications Security)
