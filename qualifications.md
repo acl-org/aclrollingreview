@@ -25,7 +25,7 @@ For some of ARR tracks, other major relevant venues we recognize include:
 - Discourse and Pragmatics: Journal of Pragmatics
 - Efficient Methods for NLP: ASPLOS
 - Ethics, Bias, and Fairness: FAccT, AEIS
-- Human-computer Interaction: CHI, ACM CSCW, UIST
+- Human-computer Interaction: CHI, ACM CSCW (PACM HCI), UIST
 - Information Retrieval: ECIR, SIGIR, WSDM, ACM SIGMOD, IEEE ICDE, CIKM, VLDB, ICDM
 - Language modeling (security-related subareas): USENIX, CCS (ACM Conference on Computer and Communications Security)
 - Linguistic Theories, Cognitive Modeling, and Psycholinguistics: Cognition, Journal of Memory and Language, Journal of Child Language, Language Learning, Cognitive Science, Language Acquisition
