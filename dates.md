@@ -20,11 +20,11 @@ This table lists all the key dates, by which the authors may need to take action
 | October 2026 | October 12 | October 14 | November 16 |  November 24-November 30 | December 17 | December 20 |
 {: .review-cycle-table}
 
-\*Note: in August 2026 cycle, the author response period is split into 3 phases, where the initial author response is due on September 19. Please see the instructions emailed to the authors.
+Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions:
 
-Note that in addition to submission and author response dates, the following action points are now listed, as non-compliance may result in desk rejection or sanctions (see more details at https://aclrollingreview.org/incentives2025):
-
-- **Reviewer registration deadline for ALL authors.** The registration link will be active in the author console immediately upon paper submission. ALL authors must register. Not all authors will receive assignments, but non-compliant papers may be desk rejected.  
+- **Designated contributor registration deadline.** The OpenReview account listed as the service contributor will see a new console in OpenReview immediately upon paper submission (not necessarily the final version). Papers not providing a [qualified](/qualifications.md) contributor within max allowed capacity will be subject to [lottery](https://aclrollingreview.org/sustainable-reviewing-2026). See [here](/authors.md#submission-forms).
+- **Responsible NLP Checklist.** It is now a separate form, to be completed 48h after submission deadline at the latest. See [here](/authors.md#submission-forms). 
+- **OpenReview profile and ORCID registration deadline for ALL authors.** Starting from October 2026, ALL authors must register OpenReview accounts (email registration no longer sufficient), including their ORCID. More details [here](https://aclrollingreview.org/sustainable-reviewing-2026). We are aware that it may be difficult to get in touch with all authors, and the grace period for this task is as long as we can provide before assignment: one week after submission deadline at the latest.
 - **Review submission deadline.** The 'highly irresponsible' reviewers who didn't submit on time without a [warning](/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
 - **Meta-review deadline.** The 'highly irresponsible' meta-reviewers who didn't submit on time without a [warning](/reviewerguidelines#emergency), or submit [unacceptable](https://2025.emnlp.org/reviewer-policies) work, may become ineligible to commit their work to the upcoming conference or (re-)submit in the next ARR cycle.
 
