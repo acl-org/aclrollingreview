@@ -57,7 +57,7 @@ Note that any supplemental materials (code, data, appendices) should be truly su
 
 - [ ] The submission must not contain explicit references to the authors’ prior work or otherwise disclose their identity.
 - [ ] Any supplementary materials are also properly anonymized.
-- [ ] The acknowledgements section is not included.
+- [ ] The acknowledgements section contains only disclosures of generative AI use. Acknowledgements of people, grants etc. are de-anonymizing and should only be inluded in the camera-ready. If there is no AI use to disclose, acknowledgements should not be included.
 - [ ] There are no links to non-anonymous repositories or services like Dropbox that may track who opened the link.
 - [ ] The "preprint status" field is filled out appropriately. "We do not intend to release" option is binding. If you are not sure whether you will preprint the paper during the review period, please select the "we are considering…" option.
 
