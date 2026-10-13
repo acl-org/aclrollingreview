@@ -92,7 +92,7 @@ Short paper submissions must describe original and unpublished work. Please note
 Short papers may consist of:
 
 * up to four (4) pages of content
-* unlimited extra space after the conclusion for limitations (required, see below) and optional section on ethical considerations (we recommend it to be titled 'Ethical considerations')
+* unlimited extra space after the conclusion for limitations (required, see below) and optional section on ethical considerations (we recommend it to be titled 'Ethical c`onsiderations')
 * plus unlimited pages of references
 
 Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected.
@@ -120,7 +120,7 @@ ARR is subject to the [ACL Policies for Review and Citation](https://www.aclweb.
 
 The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to ARR will be notified of submissions and reviews. Please refer to the new [ACL policy publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) for authorship criteria.
 
-Please notice that once the paper has been submitted, no changes to the list of authors are allowed. There are additional authorship rules for resubmissions (see below).
+Please notice that once the submission deadline has passed, no changes to the list of authors are allowed. There are additional authorship rules for resubmissions (see below).
 
 
 ### Citation and Comparison
