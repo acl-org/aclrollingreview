@@ -80,6 +80,8 @@ The ARR automated checker beta is live now!
 
 To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in yout OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
 
+Please make sure that your education history is also fully included in your OpenReview profile. At least your highest education degree should be reflected - make sure you have a field listing `B.Sc.`, `M.Sc.`, `Ph.D.` or your other relevant degree. If you have not completed it yet, please add 'student'. E.g. the field for the completed degree should state `Ph.D.`, and for an in-progress degree or degree that was not completed - `Ph.D. student`.
+
 If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
 
 If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#manual-verification).
