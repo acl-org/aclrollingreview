@@ -16,12 +16,13 @@ The updated **reviewer qualifications** are as follows:
 - Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 3 publications in major CL events, Findings or major related venues (see below). 
 - Those who do not automatically qualify by these criteria can serve as secondary reviewers, mentored by a qualified primary reviewer, but cannot be designated service contributors by themselves. 
 
-Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, *SEM, WMT, EAMT, INLG, SIGDIAL
+Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, *SEM, WMT, EAMT, INLG
 
 For some of ARR tracks, other major relevant venues we recognize include:
 
 - Clinical and Biomedical Applications: JAMIA, Journal of Biomedical Informatics, npj Digital Medicine, IEEE Journal of Biomedical and Health Informatics, Artificial Intelligence in Medicine, International Journal of Medical Informatics
 - Computational Social Science and Cultural Analytics: ICWSM, Nature Human Behaviour, Journal of Computational Social Science (JCSS)
+- Dialogue and Interactive Systems: Dialogue and Discourse, SIGDIAL
 - Discourse and Pragmatics: Journal of Pragmatics
 - Efficient Methods for NLP: ASPLOS
 - Ethics, Bias, and Fairness: FAccT, AIES
@@ -29,33 +30,38 @@ For some of ARR tracks, other major relevant venues we recognize include:
 - Information Retrieval: ECIR, SIGIR, WSDM, ACM SIGMOD, IEEE ICDE, CIKM, VLDB, ICDM
 - Language modeling (security-related subareas): USENIX, CCS (ACM Conference on Computer and Communications Security)
 - Linguistic Theories, Cognitive Modeling, and Psycholinguistics: Cognition, Journal of Memory and Language, Journal of Child Language, Language Learning, Cognitive Science, Language Acquisition
-- Machine learning: AAAI, AISTATS, COLM, ICLR, ICML, IJCAI, JAIR, JMLR, KDD, NeurIPS, TMLR, TPAMI, WWW, ECAI
+- Machine learning: AAAI, AISTATS, COLM, ICLR, ICML, IJCAI, JAIR, JMLR, KDD, NeurIPS, TMLR, TPAMI, WWW, ECAI, ECML PKDD
 - Multilingualism and Cross-Lingual NLP: Linguistic Typology, International Journal of Multilingualism, Language Documentation & Conservation, Diachronica
 - Multimodality and Language Grounding to Vision, Robotics and Beyond: CVPR, ECCV, ICCV
+- NLP applications: International Conference on Artificial Intelligence in Education (AIED), ACM RecSys 
 - NLP and Code Models: ICSE, FSE, ASE, ISSTA
-- NLP and Symbolic Reasoning: Journal of Logic and Computation, Journal of Philosophical Logic, Journal of Logic, Language and Information
+- NLP and Symbolic Reasoning: Journal of Logic and Computation, Journal of Philosophical Logic, Journal of Logic, Language and Information, Journal of Language Modelling 
 - Phonology, Morphology, and Word Segmentation: Journal of Phonetics, the Journal of the International Phonetic Association
 - Semantics: Lexical and Sentence-Level: Linguistics & Philosophy, Journal of Semantics
 - Speech Recognition, Text-to-Speech and Spoken Language Understanding: Interspeech, ICASSP
 - Syntax: Tagging, Chunking and Parsing: Linguistic Inquiry, Natural Language & Linguistic Theory
 
-General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glossa, Applied Linguistics, Constructions and Frames, Journal of Linguistics, International Journal of Applied Linguistics
+General linguistics venues relevant to multiple ARR tracks: SCiL, Language, Glossa, Applied Linguistics, Constructions and Frames, Journal of Linguistics, International Journal of Applied Linguistics, Transactions of the Philological Society
 
 ARR is working on a way to ensure that the reviewers with expertise relevant to specific tracks would be assigned within those tracks.
 
 ## What about \<another venue\>? {#more-venues}
 
-Venues considered major may be expanded over time and additional qualification criteria may be added over time as appropriate. The following conditions should be satisfied: 
+In the period running up to October 2026 submission deadline, we have solicited and considered nearly a hundred proposals for venue inclusion. As a result, our list of qualifying venues has been considerably extended, and we plan to use this list for the time being. We may reopen the venue suggestion in a year if there is evidence of significant gaps in coverage of relevant expertise. We may also revoke the inclusion of certain venues if it turns out that the mismatch between review expectations and practices in our fields is too big.
+
+As a general rule, the following conditions should be satisfied: 
 
 - the venue should be highly selective and top-tier in a given research area
-- the focus of the venue clearly aligns with an existing [ARR track](/areas.md): simply having publications that use NLP/ML methodology, or having some publications that align with a track, is *not* sufficient 
+- the focus of the venue clearly aligns with an existing [ARR track](/areas.md): simply having publications that use NLP/ML methodology, or having some publications that align with a track, is *not* sufficient. 
+- the venue should be single-field: multi-field venues that cater to multiple disciplines, such as PNAS, also cannot be accommodated, since the expertise of authors publishing there may not be relevant for reviewing at ARR with extra verification
 - the publications should be indexed in DBLP
+- the area of expertise should not be sufficiently covered by the existing selection. In general, we do not plan to consider further journals related to ML and IR, since these areas of expertise are extensively covered and already provide a point of entry for these communities
 
-If you believe we are missing venues that match the above criteria, please see below whether your venue was already considered:  
+The following venues have been considered and not included:  
 
-Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), EDBT, International Conference on Affective Computing and Intelligent Interaction (ACII), IEEE Transactions on Affective Computing, Medical Image Computing and Computer Assisted Intervention (MICCAI), IEEE International Conference on Multimedia and Expo (ICME), ACM International Conference on Multimodal Interaction (ICMI), IEEE International Conference on Data Mining (ICDM), International Conference on Pattern Recognition (ICPR), International Conference on Autonomous Agents and Multiagent Systems (AAMAS), ACM Conference on AI and Agentic Systems (ACM CAIS), ACM International Conference on Intelligent Virtual Agents (IVA), IEEE Access, Information Fusion (Elsevier), ACM international joint conference on Pervasive and Ubiquitous Computing, IEEE Transactions on Audio, Speech and Language Processing, International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Journal of the American Statistical Association (JASA), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), ACM International Conference on Multimedia, CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), IEEE Transactions on Systems, Man, and Cybernetics, Part B / IEEE Transactions on Cybernetics, The Florida  Artificial Intelligence  Research Society, Journal of Innovation in Digital Ecosystems, IEEE Big Data, Journal of Informetrics (JOI), Elsevier Neurocomputing 
+Venues we considered and did not accept: Applied Intelligence (Springer), IEEE International Conference on Image Processing, Knowledge-Based Systems (Elsevier), EDBT, International Conference on Affective Computing and Intelligent Interaction (ACII), IEEE Transactions on Affective Computing, Medical Image Computing and Computer Assisted Intervention (MICCAI), IEEE International Conference on Multimedia and Expo (ICME), ACM International Conference on Multimodal Interaction (ICMI), IEEE International Conference on Data Mining (ICDM), International Conference on Pattern Recognition (ICPR), International Conference on Autonomous Agents and Multiagent Systems (AAMAS), ACM Conference on AI and Agentic Systems (ACM CAIS), ACM International Conference on Intelligent Virtual Agents (IVA), IEEE Access, Information Fusion (Elsevier), ACM international joint conference on Pervasive and Ubiquitous Computing, IEEE Transactions on Audio, Speech and Language Processing, International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR), Journal of the American Statistical Association (JASA), IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), ACM International Conference on Multimedia, CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), IEEE Transactions on Systems, Man, and Cybernetics, Part B / IEEE Transactions on Cybernetics, The Florida  Artificial Intelligence  Research Society, Journal of Innovation in Digital Ecosystems, IEEE Big Data, Journal of Informetrics (JOI), Elsevier Neurocomputing, The Pacific Rim International Conference on Artificial Intelligence (PRICAI),  IEEE Transactions on Circuits and Systems for Video Technology, IEEE International Joint Conference on Neural Networks (IJCNN), IEEE Robotics and Automation Letters (RA-L), Management Science, International Conference on AI in Education, ACM Conference on Learning @ Scale, IEEE Transactions on Computers, 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), International Conference on Document Analysis and Recognition (ICDAR), European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), ACM/IEEE Joint Conference on Digital Libraries (JCDL), Springer Nature Computer Science, International Conference on Speech and Computer (SPECOM), International Symposium on Intelligent Data Analysis (IDA), PLOS Computational Biology, Intelligent Systems in Molecular Biology (ISMB), Annals of Mathematics, SIAM Journal on Optimization, SIAM Journal on Applied Mathematics, SIAM Journal on Numerical Analysis (SINUM), Journal of Applied Mathematics and Computing (JAMC), Communications on Pure and Applied Mathematics (CPAM), The Annals of Statistics
 
-If the venue you would like to propose is not among these, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.
+<!--If the venue you would like to propose is not among these, please apply through this [form](https://forms.cloud.microsoft/e/LMqZS9zCSD). ARR will consider the recommendations, and update this page with any further venues that were selected for addition. This process should be expected to take several weeks.-->
 
 ## AC qualifications {#ac}
 
