@@ -76,19 +76,47 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 <!--ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.-->
 
-The ARR automated checker beta is live now! 
+The ARR automated checker beta is live now! We are aware of some issues with AACL, USENIX and ICWSM publications, we are working on this and it will be resolved soon. Please re-check later.
 
 To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in yout OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
 
-Please make sure that your education history is also fully included in your OpenReview profile. At least your highest education degree should be reflected - make sure you have a field listing `B.Sc.`, `M.Sc.`, `Ph.D.` or your other relevant degree. If you have not completed it yet, please add 'student'. E.g. the field for the completed degree should state `Ph.D.`, and for an in-progress degree or degree that was not completed - `Ph.D. student`.
+If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#manual-verification). 
 
-If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
+**Q:** The checker finds enough publications, but I'm still not qualified! </br>
+**A:** Please make sure that your education history is also fully included in your OpenReview profile. At least your highest education degree should be reflected - make sure you have a field listing `B.Sc.`, `M.Sc.`, `Ph.D.` or your other relevant degree. If you have not completed it yet, please add 'student'. E.g. the field for the completed degree should state `Ph.D.`, and for an in-progress degree or degree that was not completed - `Ph.D. student`.
 
-If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#manual-verification).
+**Q:** How do I get my papers into my openreview profile? </br>
+**A:** You can import from a dblp or an orcid profile in your openreview profile, just add the corresponding links and press 'add papers to profile'. Do check that the list is correct and contains only the work you did (co-)author. Misrepresentation of credentials is subject to publication ethics committee sanctions.
 
-## What if my paper is accepted but not published yet?
+**Q:** The checker says I'm unqualified but I was manually verified for reviewing experience </br>
+**A:** You don't have to do anything
 
-We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being injested in the databases used for verification.
+**Q:** My recent paper is accepted but missing from the checker </br>
+**A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being injested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
+
+**Q:** My paper is missing due to metadata issues </br>
+**A:** If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
+
+**Q:** I've nominated an unqualified person as a contributor, will the paper be desk rejected? </br>
+**A:** No, it will go in the lottery
+
+**Q:** I've nominated the wrong person as a contributor </br>
+**A:** Metadata is still editable, up until 48h after submission deadline. Open submission, 'edit' in the top right corner
+
+**Q:** Do I get a double load if I am both a contributor and also signed up as a volunteer reviewer? </br>
+**A:** No, designated contributor overrides volunteer settings
+
+## Contributor forms FAQ
+
+**Q:** Where is the contributor form? </br>
+**A:** https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
+
+**Q:** Which forms do I need to submit to be sure everything is in order? </br>
+**A:** See here: aclrollingreview.org/authors#submission-forms
+
+## Can I get qualified partly with publications and partly with reviewing? {#partial-credit}
+
+No, you need to be qualified through at least one of these mechanisms.
 
 ## How to apply for manual verification? {#manual-verification}
 
@@ -103,10 +131,6 @@ To check eligibility, complete the following self-assessment. A link to the appl
 ⚠️ Important: Reviewing experience from workshops or unlisted venues will not be accepted. Likewise, Demonstration, Industry, SRW, Doctoral Consortium, Student Tracks, etc., are not included. Many workshops and tracks are relevant and high-quality events, but ARR does not have the resources for verifying what kind of review process they may run.
 
 <!--Since this process is manual, the applications are not guaranteed to be reviewed quickly, and should be sent as early as possible before the deadline.-->
-
-## Can I get qualified partly with publications and partly with reviewing? {#partial-credit}
-
-No, you need to be qualified through at least one of these mechanisms.
 
 ## How do I become qualified through secondary reviewing? {#secondary}
 
@@ -128,6 +152,7 @@ See [here](https://aclrollingreview.org/sustainable-reviewing-2026#resubmissions
 
 If you are in an integrated Masters+Phd program that has a Masters-level qualifying exam, indicate your status as 'PhD student' after you've passed it, and as 'Masters student' before. If there is no such exam, indicate your status as 'Masters student' in the first two years of your program, and as 'PhD student' afterwards. 
 
-# Do the papers for reviewer qualifications have to be first-author? {#author-order}
+## Do the papers for reviewer qualifications have to be first-author? {#author-order}
 
 The current qualification criteria do not consider the position in the author list.
+
