@@ -82,36 +82,37 @@ To test it, please log in to openreview, open this [page](https://openreview.net
 
 If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#manual-verification). 
 
-**Q:** The checker finds enough publications, but I'm still not qualified! </br>
+**Q:** The checker finds enough publications, but I'm still not qualified! <br/>
 **A:** Please make sure that your education history is also fully included in your OpenReview profile. At least your highest education degree should be reflected - make sure you have a field listing `B.Sc.`, `M.Sc.`, `Ph.D.` or your other relevant degree. If you have not completed it yet, please add 'student'. E.g. the field for the completed degree should state `Ph.D.`, and for an in-progress degree or degree that was not completed - `Ph.D. student`.
 
-**Q:** How do I get my papers into my openreview profile? </br>
+**Q:** How do I get my papers into my openreview profile? <br/>
 **A:** You can import from a dblp or an orcid profile in your openreview profile, just add the corresponding links and press 'add papers to profile'. Do check that the list is correct and contains only the work you did (co-)author. Misrepresentation of credentials is subject to publication ethics committee sanctions.
 
-**Q:** The checker says I'm unqualified but I was manually verified for reviewing experience </br>
+**Q:** The checker says I'm unqualified but I was manually verified for reviewing experience <br/>
 **A:** You don't have to do anything
 
-**Q:** My recent paper is accepted but missing from the checker </br>
+**Q:** My recent paper is accepted but missing from the checker <br/>
 **A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being injested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
 
-**Q:** My paper is missing due to metadata issues </br>
+**Q:** My paper is missing due to metadata issues <br/>
 **A:** If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
 
-**Q:** I've nominated an unqualified person as a contributor, will the paper be desk rejected? </br>
+**Q:** I've nominated an unqualified person as a contributor, will the paper be desk rejected? <br/>
 **A:** No, it will go in the lottery
 
-**Q:** I've nominated the wrong person as a contributor </br>
+**Q:** I've nominated the wrong person as a contributor <br/>
 **A:** Metadata is still editable, up until 48h after submission deadline. Open submission, 'edit' in the top right corner
 
-**Q:** Do I get a double load if I am both a contributor and also signed up as a volunteer reviewer? </br>
+**Q:** Do I get a double load if I am both a contributor and also signed up as a volunteer reviewer? 
+
 **A:** No, designated contributor overrides volunteer settings
 
 ## Contributor forms FAQ
 
-**Q:** Where is the contributor form? </br>
+**Q:** Where is the contributor form? <br/>
 **A:** https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
 
-**Q:** Which forms do I need to submit to be sure everything is in order? </br>
+**Q:** Which forms do I need to submit to be sure everything is in order? <br/>
 **A:** See here: aclrollingreview.org/authors#submission-forms
 
 ## Can I get qualified partly with publications and partly with reviewing? {#partial-credit}
