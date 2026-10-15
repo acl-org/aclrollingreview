@@ -115,11 +115,14 @@ If you are not qualified according to your publication record and education leve
 **Q:** Which forms do I need to submit to be sure everything is in order? <br/>
 **A:** See here: aclrollingreview.org/authors#submission-forms
 
-**Q:** Should I fill both reviewer and contributor forms?<br/>
+**Q:** Should I fill both reviewer and contributor forms? <br/>
 **A:** If you are serving as a designated service contributor, you may see both 'reviewer' and 'contributor' consoles. In that case, you only need to register in the contributor consoles, and the registration form needs to be filled out only once even if you serve for two submissions.
 
-**Q:** How many times should I I fill out the contributor form?<br/>
+**Q:** How many times should I fill out the contributor form? <br/>
 **A:** Once, even if you serve for two submissions.
+
+**Q:** How to check which submissions I will serve for? <br/>
+**A:** Log into the contributor console. It now displays the list of all submissions nominating you. For each one you can select if you consent, if it something you know but the nomination was made in error, or if it is something you have no idea about and never consented to.
 
 ## Can I get qualified partly with publications and partly with reviewing? {#partial-credit}
 
