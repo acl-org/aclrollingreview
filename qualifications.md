@@ -107,7 +107,7 @@ If you are not qualified according to your publication record and education leve
 
 **A:** No, designated contributor overrides volunteer settings
 
-## Contributor forms FAQ
+## Contributor forms FAQ {#contributor-faq}
 
 **Q:** Where is the contributor form? <br/>
 **A:** https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
