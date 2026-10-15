@@ -76,7 +76,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 <!--ARR team is currently working on an automated tool to check reviewer qualifications and streamline applications for manual verification. This tool will be announced separately as soon as possible, and linked from the submission form.-->
 
-The ARR automated checker beta is live now! We are aware of some issues with AACL, USENIX and ICWSM publications, we are working on this and it will be resolved soon. Please re-check later.
+The ARR automated checker beta is live now! 
 
 To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in your OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
 
@@ -113,7 +113,7 @@ If you are not qualified according to your publication record and education leve
 **A:** https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
 
 **Q:** The link to contributor form says 'not found' <br/>
-**A:** The contributor console is available to the named contributor only, after they were nominated in the submission form. Double-check that the correct profile is indicated in the submission form, and that it is the named contributor who is trying to access it. Console: https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
+**A:** The contributor console is available to the named contributor only, after they were nominated in the submission form. Double-check that the correct profile is indicated in the submission form, and that it is the named contributor who is trying to access the contributor console. Console: https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
 
 **Q:** Which forms do I need to submit to be sure everything is in order? <br/>
 **A:** See here: aclrollingreview.org/authors#submission-forms
