@@ -4,7 +4,7 @@ title: "ARR service qualifications"
 permalink: /qualifications
 ---
 
-The most recent service qualifications at ARR are based on the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), and supercede the [earlier qualifications criteria](https://aclrollingreview.org/incentives2025).
+The most recent service qualifications at ARR are based on the [sustainable reviewing policy](https://aclrollingreview.org/sustainable-reviewing-2026), and supersede the [earlier qualifications criteria](https://aclrollingreview.org/incentives2025).
 
 {% include admonition.html type="warning" title="Work in progress!" body="⚠️ This policy is new, and ARR is still working out the implementation. Some details may change. We also receive a lot of questions. We will be posting any relevant clarifications and FAQ here and in the sustainable reviewing policy page (https://aclrollingreview.org/sustainable-reviewing-2026)." %}
 
@@ -78,7 +78,7 @@ The ARR area chairs must qualify as reviewers, and additionally:
 
 The ARR automated checker beta is live now! We are aware of some issues with AACL, USENIX and ICWSM publications, we are working on this and it will be resolved soon. Please re-check later.
 
-To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in yout OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
+To test it, please log in to openreview, open this [page](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Qualifications), and click on 'check my qualifications'. If you are deemed qualified, you will see a list of publications that confirm your qualifications. If that list is noisy (e.g. because your dblp profile is noisy) - you must de-select the noisy source, and rely on the manually curated publication list in your OR profile, which you certify to be accurate. Misrepresenting reviewer identity or qualifications is subject to publication ethics sanctions.
 
 If you are not qualified according to your publication record and education level, but you have a sufficient service record, see [here](#manual-verification). 
 
@@ -92,7 +92,7 @@ If you are not qualified according to your publication record and education leve
 **A:** You don't have to do anything
 
 **Q:** My recent paper is accepted but missing from the checker <br/>
-**A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being injested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
+**A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being ingested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
 
 **Q:** My paper is missing due to metadata issues <br/>
 **A:** If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
