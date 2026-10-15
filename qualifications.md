@@ -112,6 +112,9 @@ If you are not qualified according to your publication record and education leve
 **Q:** Where is the contributor form? <br/>
 **A:** https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
 
+**Q:** The link to contributor form says 'not found' <br/>
+**A:** The contributor console is available to the named contributor only, after they were nominated in the submission form. Double-check that the correct profile is indicated in the submission form, and that it is the named contributor who is trying to access it. Console: https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
+
 **Q:** Which forms do I need to submit to be sure everything is in order? <br/>
 **A:** See here: aclrollingreview.org/authors#submission-forms
 
