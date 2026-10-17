@@ -89,7 +89,7 @@ If you are not qualified according to your publication record and education leve
 **A:** You can import from a dblp or an orcid profile in your openreview profile, just add the corresponding links and press 'add papers to profile'. Do check that the list is correct and contains only the work you did (co-)author. Misrepresentation of credentials is subject to publication ethics committee sanctions.
 
 **Q:** The checker says I'm unqualified but I was manually verified for reviewing experience <br/>
-**A:** You don't have to do anything
+**A:** You don't have to do anything, the checker currently only looks at the publications.
 
 **Q:** My recent paper is accepted but missing from the checker <br/>
 **A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being ingested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
@@ -115,7 +115,7 @@ If you are not qualified according to your publication record and education leve
 **Q:** The link to contributor form says 'not found' <br/>
 **A:** The contributor console is available to the named contributor only, after they were nominated in the submission form. Double-check that the correct profile is indicated in the submission form, and that it is the named contributor who is trying to access the contributor console. Console: https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
 
-**Q:** Which forms do I need to submit to be sure everything is in order? <br/>
+**Q:** Which forms are overall necessary for a paper at submission? <br/>
 **A:** See here: aclrollingreview.org/authors#submission-forms
 
 **Q:** Should I fill both reviewer and contributor forms? <br/>
@@ -126,6 +126,9 @@ If you are not qualified according to your publication record and education leve
 
 **Q:** How to check which submissions I will serve for? <br/>
 **A:** Log into the contributor console. It now displays the list of all submissions nominating you. For each one you can select if you consent, if it something you know but the nomination was made in error, or if it is something you have no idea about and never consented to.
+
+**Q:** How can I confirm that my submission is 'safe' from the lottery? <br/>
+**A:** At present, you can check that (a) the intended contributor is correctly stated in your submission form, and (b) the contributor can then check whether they are either qualified according to the checker, or have received manual verification. They should then verify whether they can see their submitted contributor form in the contributor console, and your submission is listed there, and they have agreed to it, and the total number of submissions is under max capacity. If all of this is correct, you are 'safe'. We hope to be able to develop a more straightforward confirmation process in the future. Note that this only refers to the lottery process. You can still be DR-ed for [other reasons](/authorchecklist.md) like including formatting, as well as [authors missing OR profiles or ORCIDs](/authors.md#submission-forms).
 
 ## Can I get qualified partly with publications and partly with reviewing? {#partial-credit}
 
