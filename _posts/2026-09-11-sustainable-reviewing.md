@@ -36,7 +36,7 @@ https://www.aclweb.org/portal/content/acl-peer-review-standing-committee
 
 ## Could you include \<venue X\> in the qualifications checker?
 
-We have already significantly updated the venue list from the policy. [This page](https://aclrollingreview.org/qualifications) contains the most current list and instructions for how to apply for more venues to be included.
+See [here](https://aclrollingreview.org/qualifications)
 
 ## How many papers can a designated contributor support?
 
@@ -61,3 +61,11 @@ No. E.g. it is possible to have a designated contributor qualified for IR track,
 ## Do resubmissions still need to bring in a service contributor? {#resubmissions}
 
 Yes. Resubmissions still have to be considered by as many people as first-time submissions, and so they still need to bring in a service contributor, or be subject to lottery.
+
+## I am not qualified, but can I sign up as a secondary reviewer?
+
+Currently you cannot sign up in that role, but you can serve as a secondary reviewer, given that a qualified primary reviwer mentors you upon a personal agreement. For example, a qualified author or non-author contributor can mentor a non-qualifed author of the submission they are supporting. This means that the primary reviewer has to vouch for the qualify of the secondary reviewer's reviews, and enter them in the system personally, indicating the contribution of the secondary reviewer. Secondary reviewers now also have read-only access of the submission forum in the author response period, enabling them to monitor whether there were any misunderstandings and let the primary reviewer know when the review should be updated. Instructions for primary reviewers for how to use secondary reviewers are [here](https://aclrollingreview.org/reviewerguidelines#secondary-reviewer).
+
+## Do you have any programs to assist the new authors who could not find a designated contributor?
+
+At present, no. This policy is new and we are still working on implementing the basics right.

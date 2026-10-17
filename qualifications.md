@@ -13,7 +13,7 @@ The most recent service qualifications at ARR are based on the [sustainable revi
 The updated **reviewer qualifications** are as follows:
 
 - Those who have obtained their PhDs and/or have senior academic positions (postdoc/faculty), automatically qualify if they have at least 2 publications in major CL venues, Findings of the ACL (not industry or demo tracks), or other major relevant venues (see below). 
-- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 3 publications in major CL events, Findings or major related venues (see below). 
+- Doctoral students (but not bachelor and master students), as well as industry researchers with at least a Masters degree, automatically qualify if they have at least 3 publications in major CL events, Findings or major related venues (see below, excluding associated workshops). 
 - Those who do not automatically qualify by these criteria can serve as secondary reviewers, mentored by a qualified primary reviewer, but cannot be designated service contributors by themselves. 
 
 Venues considered 'major CL' are: ACL, CL, COLING, CoNLL, EACL, EMNLP, HLT, IJCNLP / AACL, LREC, NAACL, TACL, *SEM, WMT, EAMT, INLG
@@ -89,10 +89,13 @@ If you are not qualified according to your publication record and education leve
 **A:** You can import from a dblp or an orcid profile in your openreview profile, just add the corresponding links and press 'add papers to profile'. Do check that the list is correct and contains only the work you did (co-)author. Misrepresentation of credentials is subject to publication ethics committee sanctions.
 
 **Q:** The checker says I'm unqualified but I was manually verified for reviewing experience <br/>
-**A:** You don't have to do anything, the checker currently only looks at the publications.
+**A:** You don't have to do anything, the checker currently only looks at the publications. A warning email in October erroneously included people who had passed manual verification, apologies for the confusion.
 
 **Q:** My recent paper is accepted but missing from the checker <br/>
 **A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being ingested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
+
+**Q:** My paper in another venue is missing from the checker <br/>
+**A:** Please see [above](#more-venues). We do not currently plan to add more venues.
 
 **Q:** My paper is missing due to metadata issues <br/>
 **A:** If the automated check does not confirm your qualifications due to metadata issues (e.g. papers erroneously split across multiple dblp profiles, or papers in venues not indexed in DBLP), please [enter the missing publications in your openreview profile](https://openreview.net/group?id=OpenReview.net/Archive#tab-publications), and re-run the check. Please **make sure to include the valid paper DOI in the 'html' field in the paper upload interface**, otherwise the checker will not work.
@@ -103,17 +106,21 @@ If you are not qualified according to your publication record and education leve
 **Q:** I've nominated the wrong person as a contributor <br/>
 **A:** Metadata is still editable, up until 48h after submission deadline. Open submission, 'edit' in the top right corner
 
-**Q:** Do I get a double load if I am both a contributor and also signed up as a volunteer reviewer? 
-
+**Q:** Do I get a double load if I am both a contributor and also signed up as a volunteer reviewer? <br/>
 **A:** No, designated contributor overrides volunteer settings
 
 ## Contributor forms FAQ {#contributor-faq}
+
+This section contains FAQ for the contributor forms and interface. For the general policy questions on contributors, see [this page](https://aclrollingreview.org/sustainable-reviewing-2026).
 
 **Q:** Where is the contributor form? <br/>
 **A:** https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
 
 **Q:** The link to contributor form says 'not found' <br/>
 **A:** The contributor console is available to the named contributor only, after they were nominated in the submission form. Double-check that the correct profile is indicated in the submission form, and that it is the named contributor who is trying to access the contributor console. Console: https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Contributors
+
+**Q:** The contributor console doesn't show the expected paper <br/>
+**A:** Please double-check that the contributor profile is correctly indicated in the contributor field in the submission. Sometimes profiles are mixed up (e.g. `~John_Smith1` instead of `~John_Smith2`). 
 
 **Q:** Which forms are overall necessary for a paper at submission? <br/>
 **A:** See here: aclrollingreview.org/authors#submission-forms
@@ -124,8 +131,8 @@ If you are not qualified according to your publication record and education leve
 **Q:** How many times should I fill out the contributor form? <br/>
 **A:** Once, even if you serve for two submissions.
 
-**Q:** How to check which submissions I will serve for? <br/>
-**A:** Log into the contributor console. It now displays the list of all submissions nominating you. For each one you can select if you consent, if it something you know but the nomination was made in error, or if it is something you have no idea about and never consented to.
+**Q:** How to check which submissions I will serve for, and object if needed? <br/>
+**A:** Log into the contributor console. It now displays the list of all submissions nominating you. For each one you can select if you consent, if it something you know but the nomination was made in error, or if it is something you have no idea about and never consented to. There is a drop-down list of options to the right of each paper in the list.
 
 **Q:** How can I confirm that my submission is 'safe' from the lottery? <br/>
 **A:** At present, you can check that (a) the intended contributor is correctly stated in your submission form, and (b) the contributor can then check whether they are either qualified according to the checker, or have received manual verification. They should then verify whether they can see their submitted contributor form in the contributor console, and your submission is listed there, and they have agreed to it, and the total number of submissions is under max capacity. If all of this is correct, you are 'safe'. We hope to be able to develop a more straightforward confirmation process in the future. Note that this only refers to the lottery process. You can still be DR-ed for [other reasons](/authorchecklist.md) like including formatting, as well as [authors missing OR profiles or ORCIDs](/authors.md#submission-forms).

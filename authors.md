@@ -58,6 +58,9 @@ Additionally, **all authors must have valid OpenReview profiles** (simply includ
 
 OpenReview profiles and ORCIDs are necessary for profile disambiguation and fraud mitigation. Non-compliant submissions will be desk rejected. At least the submitting author must have an OpenReview account prior to the deadline to make the submission. **ARR cannot assist with creation of OpenReview accounts**, we recommend that the authors plan for this to be done as early as possible as it may take time.
 
+**Q:** I'm trying to enter ORCID and I get `yearOfBirth must be >= 1926` error <br/>
+**A:** Contact OpenReview support.
+
 ## How to withdraw your paper? {#withdrawal}
 
 You may **withdraw** your submission during this period (before it receives a meta-review), but if you do so more than 48 hours after the submission deadline, your paper will be ineligible for resubmission in the next cycle. To withdraw, log into OpenReview, select your submission and then click on the "trash can" icon in the top right. 
