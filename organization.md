@@ -184,6 +184,15 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
   </div>
 </div>
 
+<div class="person" markdown="0">
+  <img src="images/people/dongqi_liu.jpg" alt="Dongqi Liu">
+  <div>
+    <a href="https://dongqi.me/">Dongqi Liu</a><br>
+    University of British Columbia (Workflow Manager)
+  </div>
+</div>
+
+
 ## Communications Team
 
 <div class="person" markdown="0">
@@ -193,15 +202,6 @@ For general support regarding ARR please contact <a href="mailto:support@aclroll
     Auburn University (Communications Team Chair)
   </div>
 </div>
-
-<div class="person" markdown="0">
-  <img src="images/people/dongqi_liu.jpg" alt="Dongqi Liu">
-  <div>
-    <a href="https://dongqi.me/">Dongqi Liu</a><br>
-    Saarland University
-  </div>
-</div>
-
 
 <div class="person" markdown="0">
   <img src="images/people/ning_shi.jpg" alt="Ning Shi">
