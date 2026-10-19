@@ -92,7 +92,7 @@ If you are not qualified according to your publication record and education leve
 **A:** You don't have to do anything, the checker currently only looks at the publications. A warning email in October erroneously included people who had passed manual verification, apologies for the confusion.
 
 **Q:** My recent paper is accepted but missing from the checker <br/>
-**A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. Any other publications will have to wait for official publication + being ingested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this currently cannot be supported for verification.
+**A:** We can automatically confirm and take into account the status of papers accepted to \*CL venues, which are associated with ARR cycles. So, e.g. EMNLP'26 or AACL'26 papers count for the purposes of October'26 cycle. **Any other publications will have to wait** for official publication + being ingested in the databases used for verification. We are aware that the recently accepted papers from some venues like NeurIPS are listed in OpenReview profiles, but for technical reasons this cannot be supported for verification. At the current scale, ARR cannot offer manual verification, and there will be no exeptions.
 
 **Q:** My paper in another venue is missing from the checker <br/>
 **A:** Please see [above](#more-venues). We do not currently plan to add more venues.
