@@ -23,7 +23,7 @@ Please **check all these points in advance**, ideally at least one week. Some of
 
 ## Paper content
 
-- [ ] The submission's references have been thoroughly checked and do not contain 'hallucitations'. They also fully support the claims for which they are cited.
+- [ ] The submission's references have been thoroughly checked. They also fully support the claims for which they are cited. Guidance on references is [available here](/references.md).
 - [ ] The submission is at the expected quality bar: ready for consideration for acceptance at a top-tier conference. Spammy submissions will now be desk rejected without full review (based on consideration of two chairs)
 - [ ] The designated service contributor, if any, is familiar with and will vouch for the quality of the submission. Systematic endorsement of spammy submissions will be subject to sanctions of publication ethics committee.
 - [ ] Any related concurrent work should be discussed in related work and enclosed in supplementary material. See the CFP on submission originality and thinly sliced contributions, with desk rejection penalties: https://aclrollingreview.org/cfp#originality
