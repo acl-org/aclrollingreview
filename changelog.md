@@ -8,11 +8,19 @@ One major benefit of ARR is that we can steadily improve the peer review process
 
 # Currently in the pipeline
 
-* Improving support of the work by best paper committees
 * Improving reviewed paper information display for SACs in the commitment sites
 * Reviewer history (in development at OpenReview with feedback from venues using OpenReview, including ARR) (lead: Mausam)
 
 # Changelog
+
+# October 2026
+
+* ARR qualificaction checker (lead: Harold)
+* Updating author/reviewer/chair documentation for the sustainable reviewing policy (lead: Anna)
+* Implementing the lottery (leads: Giovanni, Yuntian)
+* Updating the list of qualifying venues (lead: Anna, with input from all EiCs and peer review committee)
+* Updating PC documentation (leads: Anna, Viviane)
+* Guidelines for [fabricated references](/references.md) (leads: Anna, peer review committee, in collaboration with CL and TACL editors)
 
 # August 2026
 
