@@ -15,9 +15,9 @@ The following cases are considered 'severe', and the chairs have the discretion 
 
 E.g.
 
-```
-Bethard Steven, Schwartz Roy. 2026. On the challenges of coming up with peer review policies. arXiv preprint arXiv:2312.06752.
-```
+
+> Bethard Steven, Schwartz Roy. 2026. On the challenges of coming up with peer review policies. arXiv preprint arXiv:2312.06752.
+
 
 There is no such paper, and the listed arXiv ID (2312.06752) leads to an unrelated paper on quantum circuits.
 
@@ -26,17 +26,15 @@ There is no such paper, and the listed arXiv ID (2312.06752) leads to an unrelat
 E.g. in paper:
 
 
-```
-Bethard S. 2022. We need to talk about random seeds. Preprint, arXiv:2005.00636
-```
+> Bethard S. 2022. We need to talk about random seeds. Preprint, arXiv:2005.00636
+
 
 but the cited url goes to a different paper: [https://arxiv.org/abs/2005.00636](https://arxiv.org/abs/2005.00636) "We need to talk about random splits"
 
 The correct reference should have been:
 
-```
-Bethard S. 2022. We need to talk about random seeds. Preprint, arXiv:2210.13393
-```
+> Bethard S. 2022. We need to talk about random seeds. Preprint, arXiv:2210.13393
+
 
 If multiple identifiers are included, all of them should be pointing to the same resource.
 
@@ -46,9 +44,9 @@ Note that per [ACL formatting guidelines](https://acl-org.github.io/ACLPUB/forma
 
 E.g. a partly incorrect version:
 
-```
-Tobias Gårdhus, Nikolas Vitzilaios, Lejre Frederiksen, Anna Rogers, Hjalmar Carlsson. 2026. AInterviewer: A Platform for Designing and Conducting AI-led Qualitative Interviews. ACL 2026, https://aclanthology.org/2026.acl-demo.12
-```
+
+> Tobias Gårdhus, Nikolas Vitzilaios, Lejre Frederiksen, Anna Rogers, Hjalmar Carlsson. 2026. AInterviewer: A Platform for Designing and Conducting AI-led Qualitative Interviews. ACL 2026, https://aclanthology.org/2026.acl-demo.12
+
 
 The real reference:
 
@@ -58,9 +56,9 @@ The real reference:
 
 The cases where the author list is incomplete have to adhere to the official truncation rules set by the ACL style files. As with other formatting rules, the authors are expected to follow the latest official style sheet. For example, the following is disallowed, since the truncation currently only applies to very long author lists: 
 
-```
-Gårdhus T. and others. AInterviewer: A Platform for Designing and Conducting AI-led Qualitative Interviews. ACL 2026, https://aclanthology.org/2026.acl-demo.12/ 
-```
+
+> Gårdhus T. and others. AInterviewer: A Platform for Designing and Conducting AI-led Qualitative Interviews. ACL 2026, https://aclanthology.org/2026.acl-demo.12/ 
+
 
 ## Citations that misrepresent the content of the cited sources
 
@@ -84,12 +82,12 @@ Overall, it is the authors' responsibility to ensure that the bibliography meets
 
 Poor citation practices may accompany literature search that is overall superficial. This by itself does not automatically trigger desk rejection. However, unlike the above cases, reviewers or area chairs finding this problem should substantially lower their overall assessment.
 
-**Citation variations not considered problematic**
+# Citation variations not considered problematic
 
 - common abbreviations. E.g. the full conference proceedings title maybe something like 'Proceedings of the 56th conference of the Association for Computational Linguistics', but it is not uncommon to see it abbreviated to 'ACL', even though this is not the official record
 - omission of some common metadata fields, such as publisher. 
 
-**What is minimally required for a reference?**
+# What is minimally required for a reference?
 
 The appropriate metadata fields vary by the type of item, and not all of them are clearly described. Defining the correct formatting of all the possible fields for all possible item types is not in scope of the current policy. We acknowledge that there may be legitimate disagreements about the proper way to cite e.g. legal cases, social media posts or repository issues, and we encourage the community to further develop the documentation. We further acknowledge that there is variation in the fields even across ACL Anthology itself, which precludes any clear-cut requirements for a comprehensive set of metadata fields to include.
 
