@@ -5,41 +5,64 @@ permalink: /acguidelines
 redirect_from: /aetutorial
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
-
-# 🆕 ACL policy on great and irresponsible reviewers & chairs
-
-**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference websites, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
-
-Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](./reviewerguidelines.md#review-issues) and [NLP papers](./reviewerguidelines.md#paper-issues) to watch out for. When you see a problem, you can refer junior reviewers to these materials and offer feedback.
-
-**Irresponsible reviewers and chairs.** Unfortunately, with the growing number of conference submissions, there have been more and more cases where reviewers or chairs sign up for service and then simply disappear without a [warning](https://aclrollingreview/reviewerguidelines#emergency), or submit (meta-)reviews that are completely unacceptable in their quality (e.g. extremely terse, unprofessional in tone, LLM-generated).
-
-Starting in October 2024, ARR provided the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. A similar functionality has now been [developed](https://aclrollingreview.org/authors#step3.2) for meta-reviews, with author issue reports viewable for senior area chairs. Since the reviewer and AC guidelines may also seen by the authors during the response period, some sections of these guidelines now have codes for (meta-)review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2) and [here](https://aclrollingreview.org/authors#step3.2).
-
-Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers or chairs may have their work desk-rejected from the current cycle, and ineligible for resubmission or commitment during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference. After the author response period ACs can report both great and irresponsible reviews via a [new form on reviews](#review-direct-flagging) or by listing the great/irresponsible reviewers [in the meta-review form](#metareview-form-flagging).
+{% include admonition.html type="warning" title="Important changes!" body="This version of AC guidelines has been updated in response to the [sustainable reviewing policy](/sustainable-reviewing-2026) for October 2026 cycle." %}
 
 # Area Chairs tasks and due dates
 
-ACs are instrumental in completing the review process on time and with the highest reviewing quality standards possible. We are committed to completing all reviews on time (a complete review process means all papers have three reviews, one meta-review, and possibly ethics reviews as appropriate). The process has been highly stressful in the past, and ARR has now switched to [10-week review cycles](https://aclrollingreview.org/dates). This is still fairly tight, but there will now be more time for author response, and the deadlines will be more aligned with week days. The exact dates for AC tasks in each cycle are communicated by an email from OpenReview (OR). Usually the email subject is *[ACL RR-(MONTH)] AC kick-off email: Check paper reviewer assignments*. 
+The exact dates for AC tasks in each cycle are communicated by an email from OpenReview (OR). Usually the email subject is *[ACL RR-(MONTH)] AC kick-off email: Check paper reviewer assignments*. 
 
 If you are new to this, a very useful source of advice for planning your time is in a [blog post by Annemarie Friederich](https://annefried.github.io/posts/2020-12-01-area_chairing). The [FAQ](#faq) in this document describes how to do common tasks in OpenReview.
 
-Starting from February 2025, we have optimized AC assignments so as to minimize the number of SACs with which a given AC works. The scope of this problem should now be significantly decreased, but it is still possible that the papers in your batch are assigned to more than one SAC, and therefore you may receive communication from different SACs, especially if you are running late on your ToDos. The best way to avoid multiple SACs reaching out to you would be to complete your tasks on time.
-
 We apologize in advance: you might receive ARR-related correspondence redundantly and/or at inconvenient times. ARR is manned by people spread across the globe, and as a result, emails and deadlines sometimes fall onto time/days that are convenient for one location but not others. We kindly ask for your understanding and hope that you can still help within your own time constraints.
 
-> ❗ **If at any point in the cycle you find that your ability to perform AC duties was compromised due to a personal emergency, please fill out the [Emergency Declaration form](https://aclrollingreview/reviewerguidelines#emergency) on your paper(s) as soon as possible.** If there is no record in the forum, the PCs and SACs cannot all see the status and ensure that appropriate action is taken. This may get ACs flagged as 'highly irresponsible'. If you are running late with your meta-review, please let us know via the new [Delay Notification Form](https://aclrollingreview/reviewerguidelines#delay).
+> ❗ **If at any point in the cycle you find that your ability to perform AC duties was compromised due to a personal emergency, please fill out the [Emergency Declaration form](https://aclrollingreview/reviewerguidelines#emergency) on your paper(s) as soon as possible.** If there is no record in the forum, the PCs and SACs cannot all see the status and ensure that appropriate action is taken. This may get ACs flagged as 'highly irresponsible'. If you are running late with your meta-review, please let us know via the new [Delay Notification Form](https://aclrollingreview/reviewerguidelines#delay). If you are serving as a [designated service contributor](/_posts/2026-09-11-sustainable-reviewing.md), you must provide a qualified and willing replacement. Otherwise any submissions you supported as a service contributor will be desk-rejected. 
 
 # ✅ **TASK 1. Initial submission checks**
 
 The first thing to check is whether you happen to know the paper and have a conflict of interest with it, or feel that it is completely out of your field of expertise. This is not a frequent phenomenon, but if it happens to you -- please reach out to your SAC and request a reassignment immediately.
 
+For each submission, you will also need to **complete the AC checklist**. You will receive an email notification when this form is open. The main points to check are also summarized here.
+
+## Checking whether submissions should be desk-rejected
+
+As you are likely aware, major conferences currently struggle with an influx of **low-quality submissions**. In view of this, we ask you to consider aggressive desk rejections for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or "do not resubmit'). ARR submissions are expected to be ready for consideration for acceptance at a top-tier conference, and reviewer feedback is not meant as replacement for training that the authors should receive in their programs.
+
+Besides spammy submissions, a big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but our guests from other fields are still expected to make contributions to the host field (CL), and not primarily their own. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
+
+Depending on your track, the following may also be relevant:
+
+- Resource/evaluation work based on synthetic data or LLM judges should have meaningful human validation (i.e. beyond cursory assessment by the authors themselves). Synthetic data may be the only option in e.g. security or biomedical domains, but where it is not necessary, evaluations are an easy slop recipe for spammers. They could just make up the metric and data, and ignore construct validity, and it is hard for junior reviewers to identify such cases.
+- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences.
+- Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
+
+These are only rough heuristics, you have full discretion for when they do not apply. 
+
+As the senior members of CL community, your expertise is invaluable in this step. Also, the more problematic submissions you identify now, the less you will have to chase and meta-review later! 
+
+## Checking resubmissions
+
+You can identify whether the paper is a resubmission by the presence of the 'previous URL' link in its metadata in the top section of the forum page. If there is no such link, it is not a resubmission:
+    
+![alt_text](images/guidelines/2-AC-resubmission-link.png "image_tooltip"){:width="50%"}
+ 
+Resubmissions are expected to include 'explanations of revision' pdf file. It should contain a good-faith attempt to incorporate reasonable feedback from the past cycle, or explain why it should be disregarded. You can report if there is a serious problem with this step. More details on AC work with resubmissions is available [here](#how-to-check-reviewing-assignments-for-resubmissions). 
+
+{% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
+
+If this is a resubmission that requested previous reviewers, you can check the original reviewrs by clicking the 'previous url' link. If they were not assigned automatically, there are several possible scenarios:
+
+1. **Original reviewers of the resubmission are in the pool and not at max capacity:** assign them to the resubmission.
+2. **Original reviewers are at max capacity, but they are assigned another paper(s) in your batch that you can reassign**. Please shift other papers away from the reviewers needed for the resubmission, and assign them to the resubmission.
+3. **Original reviewers are at max capacity, but none of their assignments are in your batch.** OpenReview doesn't allow for shifting reviewers away from papers you don't AC, so unfortunately you will need to replace them with new reviewers, or reach out to them and ask if they would kindly take on this revision.
+4. **Reviewers of the resubmission are not in the pool or have set a max load of 0**. Then we ask that you contact them directly via personal email about this resubmission and ask if they can return to work on this single paper. If they say yes, please add them as reviewers and remove the new reviewer automatically assigned by Openeview (OR). You may need to ask the ARR editors to modify the resubmission reviewer’s max load to 1 so you can assign them this resubmission. 
+
+What about the AC, i.e. yourself? If this is a resubmission, and the authors requested the same AC, but you did not AC this paper previously - this means that the original AC was unavailable in this cycle and hence could not be assigned. 
+
 ## Checking reviewer assignments
 
-Check the quality of reviewer assignments and make changes if needed. When you change assignments, **please do not assign reviewers already at max load**. When you add a new reviewer to a paper, **do not forget to remove an existing reviewer**. At this point in the process, you can only use the reviewers already in the pool, and cannot bring in new reviewers. 
+The current paper-reviewer assignment algorithm already attempts to optimize for geographical diversity and seniority. However, you are encouraged to check the quality of reviewer assignments and make changes if needed. When you change assignments, **please do not assign reviewers already at max load**. When you add a new reviewer to a paper, **do not forget to remove an existing reviewer**. At this point in the process, you can only use the reviewers already in the pool, and cannot bring in new reviewers. 
 
-Go to your Area Chair Console for the month of your cycle. The link looks as follows: https://openreview.net/group?id=aclweb.org/ACL/ARR/YEAR/MONTH/Area_Chairs <br/> For example, October 2024 cycle AC console is at [https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Area_Chairs](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Area_Chairs)
+To change assignments, go to your Area Chair Console for the month of your cycle. The link looks as follows: https://openreview.net/group?id=aclweb.org/ACL/ARR/YEAR/MONTH/Area_Chairs <br/> For example, October 2024 cycle AC console is at [https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Area_Chairs](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/October/Area_Chairs)
 
 Then click on the Modify Reviewer Assignments Link
 
@@ -54,114 +77,9 @@ Tips on working with the reviewer browser interface:
  - `Research area` field is unfortunately not shown for all reviewers, because some of them did not fill it in. You can also click on the reviewers' names to open their OR profiles, which contain links to Google Scholar etc.
  - `Status: requested` means that this paper is a revision, and this reviewer reviewed the previous version, and the authors requested for them to be assigned again. More on resubmissions [here](#how-to-check-reviewing-assignments-for-resubmissions).
  - `Affinity score` is described [here](#how-to-interpret-reviewer-affinity-scores).
- - `Seniority` flag indicates whether the reviewer qualifies as senior by the current ARR criteria.
+ - `Seniority` flag indicates whether the reviewer qualifies as senior by the current ARR criteria. If it’s set to 1, it should mean the reviewer is not a student.
 
-You need to perform the following checks and tasks:
-
-<div class="checklist" markdown='1'>
-
-- [ ] Each paper has to have **exactly three reviewers** assigned. Please, at this initial stage, do not assign more than three reviewers to a paper! In large cycles, we are at the limit of our reviewing capacity and we cannot afford to waste reviewers effort. You can easily check for this by going to your 'Assigned submissions' list, and entering `+numReviewersAssigned>3` in the search field.
-- [ ] **Reviewers should not be assigned more papers than their maximum load. Please help us maintain this limit.** You can check this by going to "modify reviewer assignments interface". Clicking on each paper should bring up the list of assigned reviewers, and for each reviewer you should be able to see their "max papers" and "assignments". If you see any reviewer whose current number of assignments is bigger than the "max papers", please find replacement reviewers who are still under their maximum load within OR. There is a checkbox that implements that filter, as shown in the screenshot above.
-- [ ] At least one (ideally two) of the reviewers is past the postgraduate degree stage. Check the Seniority flag, if it’s set to 1, it should mean the reviewer is not a student (there was a bug in the past where this was set incorrectly for some profiles, it should be fixed now). Instructions for interpreting affinity scores are [here](#how-to-interpret-reviewer-affinity-scores). 
-- [ ] The assigned reviewers should also be diverse in terms of affiliation and geography. The above interface for reviewer assignments shows affiliations of reviewers to help you assess that.
-- [ ] Check that **resubmissions are handled appropriately**. Instructions [here](#how-to-check-reviewing-assignments-for-resubmissions). 
-</div>
-
-
-## How to Check Reviewing Assignments for Resubmissions 
-
-
-Identify resubmissions as follows: when you click on the title of a paper in the Assigned Papers tab, it brings you to a page with full details of this paper. In the *Supplementary Materials by Program Chairs Section* of this page, iff the paper is a resubmission, it will show a Previous URL link as below (there will be no such link for papers that are not a resubmission):
-    
-![alt_text](images/guidelines/2-AC-resubmission-link.png "image_tooltip"){:width="50%"}
- 
-(The presence of the link indicates resubmission)
-
-Click the “previous url” link to see the original reviewers. **It is important to check that the same past reviewers have been assigned to this resubmission**, unless the authors requested new reviewers. 
-
-{% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
-
-The paper reviewer matching algorithm should do this for reviewers in the pool. But we still request your help double-checking that this is the case. If the original reviewers were not assigned, and the authors didn’t request a change of reviewers, we need your assistance in reassigning the same reviewers to the paper. There are several possible scenarios:
-
-1. **Original reviewers of the resubmission are in the pool and not at max capacity:** assign them to the resubmission.
-2. **Original reviewers are at max capacity, but they are assigned another paper(s) in your batch that you can reassign**. Please shift other papers away from the reviewers needed for the resubmission, and assign them to the resubmission.
-3. **Original reviewers are at max capacity, but none of their assignments are in your batch.** OpenReview doesn't allow for shifting reviewers away from papers you don't AC, so unfortunately you will need to replace them with new reviewers, or reach out to them and ask if they would kindly take on this revision.
-4. **Reviewers of the resubmission are not in the pool or have set a max load of 0**. Then we ask that you contact them directly via personal email about this resubmission and ask if they can return to work on this single paper. If they say yes, please add them as reviewers and remove the new reviewer automatically assigned by Openeview (OR). You may need to ask the ARR editors to modify the resubmission reviewer’s max load to 1 so you can assign them this resubmission. 
-
-What about the AC, i.e. yourself? If this is a resubmission, and the authors requested the same AC, but you did not AC this paper previously - this means that the original AC was unavailable in this cycle and hence could not be assigned. 
-
-## Completing the AC checklist
-
-For each submission, you need to **complete the AC checklist**. It reports on the above reviewer assignment checks, and it also asks ACs to verify that papers follow the call for papers and submission guidelines, including: 
-
-<div class="checklist" markdown='1'>
- - [ ] Is the paper appropriate for *ACL venues? <br/>
-If in doubt, consider the scope described in [ARR CFP](https://aclrollingreview.org/cfp) and the CFP of any conferences associated with a given review cycle
- - [ ] Is the paper properly formatted according to the [ACL guidelines](https://acl-org.github.io/ACLPUB/formatting.html)? Please note that ACL has separate LaTeX and Microsoft Word templates, and PDFs produced by these templates look different from each other. <br/>
- - [ ] Does the paper have the proper length? <br/>
-Short papers: 4 content pages maximum, Long papers: 8 content pages maximum. Sections on ethical considerations and limitations do not count towards page limit.
- - [ ] Does the paper have a section entitled "Limitations"?
- - [ ] Is the paper properly anonymized?  <br/>
-TLDR: no clear self-citations, acknowledgements, or non-anonymous repository links. Resources also shouldn't be linked from services like Dropbox, which may track who opened the links
- - [ ] Is the [Responsible Checklist](https://aclrollingreview.org/responsibleNLPresearch/) filled appropriately?  <br/>
-Starting from December 2024, egregious violations of the checklist may qualify for desk rejections (e.g. some authors just say 'yes' for all questions, even  for questions that do not even apply to their work, or not provide any justifications when they are needed based on their responses). Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). 
- - [ ] Does the submission have [3 reviewers](#checking-reviewer-assignments)? <br/>
-We cannot afford more than 3. Please remove an assignment if you add another reviewer 
- - [ ] Are the reviewers [diverse, in regards to seniority, geographies, and institutions](#checking-reviewer-assignments)? This criterion should be respected as much as possible with the available reviewer pool.
- - [ ] Should this paper be sent for an in-depth ethics review? (if so, you need to provide a justification). <br/>
-Please refer to the [Guidelines for ethics review flagging](https://aclrollingreview.org/ethics-flagging-guidelines/). Ethics process happens in parallel to the main review process, so **without your flagging problematic papers in this checklist, the ethics review process cannot start on time.** 
- 
- If the paper is a resubmission: 
- 
- - [ ] does the [link to the previous submission](#how-to-check-reviewing-assignments-for-resubmissions) work?
- - [ ] has the authors' request regarding keeping or changing reviewers been respected?  <br/>
-If not, answer 'No' and please modify the assignments as described [here](#how-to-check-reviewing-assignments-for-resubmissions).
-- [ ] is it accompanied by revision notes listing the changes made? (field: 'explanation of revisions PDF').
-</div>
-
-Most adjustments to reviewer assignments need to happen on this stage. After ARR releases reviewer assignments, making changes will be a lot more work for you, as you would need to notify both the newly assigned and un-assigned reviewers. 
-
-If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), or a reviewer alerts you about such a suspicion, please coordinate the filing of an [incident report process for the publication ethics committee](/acguidelines#pec) as necessary, by either the reviewer, AC or the SAC. Please also leave a note about this in the forum (visible to chairs but not authors), so that there is a record of what was done.
-
-## How to Interpret Reviewer Affinity Scores {#how-to-interpret-reviewer-affinity-scores}
-
-Affinity scores reflect just content matching of the reviewer’s own papers with the content of the submission. Aggregate scores incorporate affinity scores, track matching, and other criteria. See the table below for an interpretation of the score ranges.
-
-
-<table>
-  <tr>
-   <td>Score Range
-   </td>
-   <td>Interpretation
-   </td>
-  </tr>
-  <tr>
-   <td>[3] 
-   </td>
-   <td>The paper is a resubmission and the authors request the same reviewers. These reviews are unweighted. Do not change this assignment.
-   </td>
-  </tr>
-  <tr>
-   <td>[1,2]
-   </td>
-   <td>Paper track matches reviewer reviewer-specified track
-   </td>
-  </tr>
-  <tr>
-   <td>(0,1)
-   </td>
-   <td>Reviewer’s track doesn’t match the paper track. Note that some reviewers may be missing track information.
-   </td>
-  </tr>
-  <tr>
-   <td>0
-   </td>
-   <td>Paper is a resubmission and the authors requested a new set of reviewers. These reviewers are not to be assigned to the paper.
-   </td>
-  </tr>
-</table>
-
-Pay special attention to _generic_ tracks of “NLP Applications” and “Machine Learning for NLP”. If your assigned paper(s) belong to these tracks, you may wish to check the reviewer assignments more carefully, as the automated system may not be that good. You may assign a reviewer even if their track does not match, as long as you believe they will be willing to review and are an expert on the paper’s topic.
+When you modify automated assignments, please ensure that **reviewers should not be assigned more papers than their maximum load.** You can check this by going to "modify reviewer assignments interface". Clicking on each paper should bring up the list of assigned reviewers, and for each reviewer you should be able to see their "max papers" and "assignments". If you see any reviewer whose current number of assignments is bigger than the "max papers", please find replacement reviewers who are still under their maximum load within OR. There is a checkbox that implements that filter, as shown in the screenshot above.
 
 If you would like to add a reviewer to the pool, at this stage please do this by contacting the editors-in-chief at [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org). At emergency reviewer assignment stage the process will be a bit different, as will be described below.
 
@@ -169,7 +87,7 @@ If you would like to add a reviewer to the pool, at this stage please do this by
 
 Neither ACs nor reviewers should actively seek for non-anonymized versions of the papers that they are reviewing. Reviewers are advised to reach out to ACs and request reassignments or at least disclose in the review form that the review was not anonymous. The reviewer guidelines  contain instructions to reach out to ACs and ask for reassignment when the reviewers feel that their judgement would be compromised by the lack of anonymity. Whenever possible, please honor such requests and reassign reviewers, especially when they find out the identity of authors they are well familiar with. 
 
-# ✅ **TASK 2. Ongoing review checks**
+# ✅ **TASK 2. Ongoing review and desk reject checks**
 
 At this stage, we ask you to check in a few times to see the reviews as they come in, and react to any low-quality reviews if you see any (see [the next section](#-task-3-checking-review-quality-and-chasing-missing-reviewers) for a list of common review problems). It may not always be possible, but ideally we'd catch as many low-quality reviews as we can, without the authors ever being exposed to them. For inexperienced reviewers, this process provides them with feedback and training (as well as possibly awards and recognition).
 
@@ -177,7 +95,7 @@ If you see a review that needs improvement, you can contact the reviewer by post
 
 If a reviewer needs to be replaced in the process for some legitimate reason, e.g. when they reach out to report a newly discovered COI or some emergency situation, please unassign them and invite a new reviewer. You can see which reviewers are qualified and still have room for more assignments in the  “Modify Reviewer Assignment” link from your AC console. **If you modify any assignments after they have been sent out to reviewers, you have to contact the reviewers and notify them** (OR does not do that automatically). 
 
-If you need to replace a reviewer because they might be unreliable, please do *not* unassign them when you add a new reviewer. Incomplete reviews is one of the mechanisms through which we identify unreliable reviewers. . 
+If you need to replace a reviewer because they might be unreliable, please do *not* unassign them when you add a new reviewer. Incomplete reviews is one of the mechanisms through which we identify unreliable reviewers.
 
 # ✅ **TASK 3. Checking review quality and chasing missing reviewers**
 
@@ -387,6 +305,50 @@ Hence, after you have provided your Semantic Scholar ID and pulled in papers fro
 
 ![alt_text](images/guidelines/5-AC-console-access.png "image_tooltip")
 
+## How to easily check that all papers have 3 reviewers? {#check-3}
+
+Go to your 'Assigned submissions' list, and entering `+numReviewersAssigned>3` in the search field.
+
+
+## How to Interpret Reviewer Affinity Scores {#how-to-interpret-reviewer-affinity-scores}
+
+Affinity scores reflect just content matching of the reviewer’s own papers with the content of the submission. Aggregate scores incorporate affinity scores, track matching, and other criteria. See the table below for an interpretation of the score ranges.
+
+
+<table>
+  <tr>
+   <td>Score Range
+   </td>
+   <td>Interpretation
+   </td>
+  </tr>
+  <tr>
+   <td>[3] 
+   </td>
+   <td>The paper is a resubmission and the authors request the same reviewers. These reviews are unweighted. Do not change this assignment.
+   </td>
+  </tr>
+  <tr>
+   <td>[1,2]
+   </td>
+   <td>Paper track matches reviewer reviewer-specified track
+   </td>
+  </tr>
+  <tr>
+   <td>(0,1)
+   </td>
+   <td>Reviewer’s track doesn’t match the paper track. Note that some reviewers may be missing track information.
+   </td>
+  </tr>
+  <tr>
+   <td>0
+   </td>
+   <td>Paper is a resubmission and the authors requested a new set of reviewers. These reviewers are not to be assigned to the paper.
+   </td>
+  </tr>
+</table>
+
+
 ## [OpenReview] How to set maximum load? 
 
 1) Go to the list of Area Chair tasks:
@@ -470,6 +432,7 @@ As of January 12, 2024, the ACL has adopted a new policy on preprints. Please re
      
 # Changelog
 
+- _22.10.2026_ - major update in response to sustainable reviewing policy
 - _01.05.2024_ Update on the new ACL review incentives policies.
 - _21.10.2024_ A major update by Anna Rogers, based on internal ARR documentation and updated [reviewer guidelines](reviewerguidelines). Input from Michael White, Viviane Moreira, Marzena Karpinska.
 - The first version of this document was authored with input from Goran Glavaš, Nathan Schneider, Amanda Stent and the ACL 2022 program chairs.
