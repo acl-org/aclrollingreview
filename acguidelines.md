@@ -17,7 +17,7 @@ We apologize in advance: you might receive ARR-related correspondence redundantl
 
 > ❗ **If at any point in the cycle you find that your ability to perform AC duties was compromised due to a personal emergency, please fill out the [Emergency Declaration form](https://aclrollingreview/reviewerguidelines#emergency) on your paper(s) as soon as possible.** If there is no record in the forum, the PCs and SACs cannot all see the status and ensure that appropriate action is taken. This may get ACs flagged as 'highly irresponsible'. If you are running late with your meta-review, please let us know via the new [Delay Notification Form](https://aclrollingreview/reviewerguidelines#delay). If you are serving as a [designated service contributor](/_posts/2026-09-11-sustainable-reviewing.md), you must provide a qualified and willing replacement. Otherwise any submissions you supported as a service contributor will be desk-rejected. 
 
-# ✅ **TASK 1. Initial submission checks**
+# ✅ **TASK 1. Initial submission checks** {#checklist}
 
 The first thing to check is whether you happen to know the paper and have a conflict of interest with it, or feel that it is completely out of your field of expertise. This is not a frequent phenomenon, but if it happens to you -- please reach out to your SAC and request a reassignment immediately.
 
@@ -25,9 +25,9 @@ For each submission, you will also need to **complete the AC checklist**. You wi
 
 ## Checking whether submissions should be desk-rejected {#dr}
 
-As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. AC checklist is your opportunity to proactively recommend desk rejections for such submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or "do not resubmit'), or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
+As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. AC checklist is your opportunity to proactively recommend desk rejections for such submissions that would likely end up with very low scores, or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
 
-**Overall level.** For spammy submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs.
+**Overall level.** For low-quality submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs. Please use this option for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or 'do not resubmit').
 
 A big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
 
