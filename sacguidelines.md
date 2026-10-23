@@ -5,13 +5,13 @@ permalink: sacguidelines
 redirect_from: /sac
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
+{% include admonition.html type="warning" title="Important changes!" body="These guidelines were updated for October'26 review cycle." %}
 
 # What does it mean to be a Senior Area Chair at ARR? {#intro}
 
 The exact set of duties depends on whether you were invited to join a cycle that is associated with a specific conference, likely in a specific [track](https://aclrollingreview.org/areas). Either way, your main tasks include the following:
 
-- [checking that all ACs completed the paper checklists](#ac-checklists)
+- [checking that all ACs completed the paper checklists](#ac-checklists) and helping to verify desk rejections
 - [helping to chase reviewers, assigning emergency reviewers](#emergency-reviews)
 - [making sure that each submission has at least three valid reviews, nominating great reviewers and flagging the irresponsible ones](#quality-check)
 - [chasing ACs who are late with meta-reviews, assigning emergency ACs](#emergency-metareviews)
@@ -42,11 +42,11 @@ For your reference, you can find the full instructions given to ARR [authors](ht
 
 <!--wishlist - should we have a step to check that no ACs in a given SAC batch are clearly unqualified, take note of any that may need feedback/mentoring, and if any such found - request reassignments?-->
 
-## ✅ TASK 1: Checking that all ACs completed the paper checklists {#ac-checklists}
+## ✅ TASK 1: Checking that all ACs completed the paper checklists and verifying desk reject cases {#ac-checklists}
 
-Check that all submissions under your track have a completed checklist by the ACs. Here are the AC guidelines for performing this task: https://aclrollingreview.org/acguidelines#-task-1-initial-submission-checks 
+AC checklists are a way to ensure that submissions are valid and appropriately assigned. All ACs should complete them for all submissions assigned to them. For reference, here are the AC guidelines for performing this task: https://aclrollingreview.org/acguidelines#-task-1-initial-submission-checks 
 
-To see which papers are missing checklists, go to the Senior Area Chair console for your cycle. The link looks like this: 
+To see which papers are missing AC checklists, go to the Senior Area Chair console for your cycle. The link looks like this: 
 
 `https://openreview.net/group?id=aclweb.org/ACL/ARR/<YEAR>/<MONTH>/Senior_Area_Chairs`
 
@@ -72,26 +72,30 @@ If the AC has not completed their task, please email them and remind them about 
 
 If the AC is unresponsive, that may suggest that they may not do the necessary work; in that case, after reasonable attempts to contact them, assign an AC replacement (after checking their availability) in OpenReview. You can do this in your SAC console by clicking on “Modify Area Chair Assignments” at the top of your console.
 
-### Changing AC assignments {#change-AC-assignments}
-5\
-1) When the target AC is already in the pool:
+Many ACs are serving as [designated service contributors](/_posts/2026-09-11-sustainable-reviewing.md). Overall, this means that they are obligated to perform their tasks, and if they have an emergency, they must file a notification via the [emergency form](/reviewerguidelines.md#emergency) and provide a qualified and willing replacement. The same applies to the reviewers serving as designated service contributors. We are working on a way to identify visually in the OpenReview interface which ACs/reviewers serve in that capacity.
+<!--TODO add badges-->
 
-![alt_text](images/guidelines/screen3_change_ac_existing_ac.png "adding AC from the pool")
-<!--TODO-->
+### Verifying desk reject cases {#desk-rejects}
 
-2) When AC needs to be added to the pool:
+As you are no doubt aware, conferences are currently struggling with a large influx of submissions, not all of which merit full review. ARR has taken a number of steps to address this problem, including via the sustainable reviewing policy that not only caps submissions, but also requires designated service contributors to vouch for their quality. Systematic abuse will be investigated and subject to publication ethics sanctions. More details are available [here](/_posts/2026-09-11-sustainable-reviewing.md). 
 
-![alt_text](images/guidelines/screen4_change_ac_new.png "adding a new AC")
-<!--TODO-->
+However, we should still expect to see problematic submissions, which is why the [AC checklist](/acguidelines.md#dr) prompts ACs to report cases that could merit desk rejection for a number of common reasons, including formatting, anonymity breaches, salami slicing, AI spam etc.
 
-Any new ACs added to the pool should be **qualified according to the [minimal ARR criteria](https://aclrollingreview.org/incentives2025)**: 
+**Overall level.** For spammy submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs.
 
-- Either a completed PhD, or a main conference *CL publication from more than 5 years ago.
-- Four papers in main ACL events or Findings.
-- Two additional papers in either main ACL events or major ML/AI venues.
-- Extensive reviewing experience.
+A big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
 
-## ✅ TASK 2: Helping to chase reviewers {#emergency-reviews}
+Depending on your track, the following may also be relevant:
+
+- Resource/evaluation work based on synthetic data or LLM judges should have meaningful human validation (i.e. beyond cursory assessment by the authors themselves). Synthetic data may be the only option in e.g. security or biomedical domains, but where it is not necessary, evaluations are an easy slop recipe for spammers. They could just make up the metric and data, and ignore construct validity, and it is hard for junior reviewers to identify such cases.
+- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences.
+- Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
+
+These are only rough heuristics, you have full discretion for when they do not apply. 
+
+When ACs have submitted the checklists, we will notify you to highlight which papers in your batch need your attention, and indicate whether you agree with the issues identified by the ACs. Where there is agreement, the submission will be desk rejected. The cases of slop may be difficult to adjudicate without a careful reading, but this mechanism provides us the option to deal with at least the obvious spam cases, as well as out-of-scope cases. 
+
+## ✅ TASK 3: Helping to chase reviewers {#emergency-reviews}
 
 The task of chasing late reviews is mostly performed by ACs, here are their guidelines for that: https://aclrollingreview.org/acguidelines#-task-3-checking-review-quality-and-chasing-missing-reviewers
 
@@ -122,7 +126,7 @@ Sometimes contacting an unresponsive AC via your personal email (outside the Ope
 
 If you would like to assign emergency reviewers yourself, please follow these [instructions](https://aclrollingreview.org/acguidelines#openreview-how-to-assign-emergency-reviewers).
 
-## ✅ TASK 3: Make sure that each submission has at least three valid reviews {#quality-check}
+## ✅ TASK 4: Make sure that each submission has at least three valid reviews {#quality-check}
 
 ARR requires that each submission have at least three valid reviews. In the past, the final check for this was a SAC task, but we realize that this is difficult to do for a large volume of submissions that you are handling. 
 
@@ -130,7 +134,7 @@ Starting from October 2024, ARR has a new mechanism for authors themselves to re
 
 If you have any such cases in your batch, and you find the complaint justified, please discuss the situation with your ACs, and consider obtaining another review (find another reviewer, or have it written by the AC or yourself if you/AC haven't already done another review for the same paper). Please also make sure that either you or the AC [reports any 'highly irresponsible' reviews](https://aclrollingreview.org/acguidelines#review-direct-flagging). The PCs will consider what action to take for such reviewers. Equally important are positive incentives for the great reviewers, please be generous with recommending for awards those who do a great job. They may receive free virtual registration for a \*CL conference or a discount to attend one on-site.
 
-## ✅ TASK 4: Chasing late meta-reviewers {#emergency-metareviews}
+## ✅ TASK 5: Chasing late meta-reviewers {#emergency-metareviews}
 
 The cycle-specific date when the meta-reviews are due was communicated in the kick-off email for the cycle. It is important that the ACs complete this on time, due to the limited buffer time before the upcoming deadlines of the next cycle to which the authors may wish to resubmit. 
 
@@ -148,7 +152,7 @@ To reassign, go to `Modify Area Chair` assignments in your Senior Area Chair con
 
 If some papers end up with two meta-reviews, you do not need to remove extra meta-reviews (unless they are of very low quality).
 
-# ✅ TASK 5: Nominating great ACs and flagging the irresponsible ones {#metareview-quality-check}
+# ✅ TASK 6: Nominating great ACs and flagging the irresponsible ones {#metareview-quality-check}
 
 Here are the full guidelines for writing meta-reviews, which describe what is expected from ARR ACs: https://aclrollingreview.org/acguidelines#-task-5-meta-review 
 
@@ -193,7 +197,7 @@ As you go through meta-reviews making your recommendations, you may notice some 
 
 You can and should mark both kinds of cases using the new button for [marking great/irresponsible meta-reviews](#metareview-quality-check). Likewise, if you consider any review material and notice something that qualifies as either great or irresponsible, you are welcome to add such [recommendations for reviewers](https://aclrollingreview.org/acguidelines#review-direct-flagging) as well.
 
-The chairs will then consider both sets of recommendations for either reviewer/meta-reviewer awards or penalties, per ACL peer review [incentives policy](https://aclrollingreview.org/incentives2025).
+The chairs will then consider both sets of recommendations for either reviewer/meta-reviewer awards or penalties. Overall, both great reviewers and area chairs are [rewarded](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Reviewer_Awards_Policy): they receive certificates and free virtual registrations to \*CL conferences (up to 2.5% of all reviewers in the pool). Irresponsible reviewers and area chairs may be [disqualified](/_posts/2026-09-11-sustainable-reviewing.md) from ARR service, which would limit their ability to submit to ARR venues unless someone else reviews for them.
 
 ## ✅ TASK 3: Area chair awards for papers {#paper-awards}
 
@@ -235,6 +239,25 @@ However, if you’re concerned about a specific AC that has been silent, we reco
 
 ![alt_text](images/guidelines/sac_ac_email.png "finding AC emails")
 <!--TODO-->
+
+### How to change AC assignments? {#change-AC-assignments}
+
+1) When the target AC is already in the pool:
+
+![alt_text](images/guidelines/screen3_change_ac_existing_ac.png "adding AC from the pool")
+<!--TODO-->
+
+2) When AC needs to be added to the pool:
+
+![alt_text](images/guidelines/screen4_change_ac_new.png "adding a new AC")
+<!--TODO-->
+
+Any new ACs added to the pool should be **qualified according to the [minimal ARR criteria](https://aclrollingreview.org/incentives2025)**: 
+
+- Either a completed PhD, or a main conference *CL publication from more than 5 years ago.
+- Four papers in main ACL events or Findings.
+- Two additional papers in either main ACL events or major ML/AI venues.
+- Extensive reviewing experience.
 
 ## How to contact ARR team?
 
