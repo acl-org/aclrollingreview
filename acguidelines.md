@@ -5,7 +5,7 @@ permalink: /acguidelines
 redirect_from: /aetutorial
 ---
 
-{% include admonition.html type="warning" title="Important changes!" body="This version of AC guidelines has been updated in response to the [sustainable reviewing policy](/sustainable-reviewing-2026) for October 2026 cycle." %}
+{% include admonition.html type="warning" title="Important changes!" body="These guidelines were updated for October'26 review cycle." %}
 
 # Area Chairs tasks and due dates
 
@@ -23,11 +23,13 @@ The first thing to check is whether you happen to know the paper and have a conf
 
 For each submission, you will also need to **complete the AC checklist**. You will receive an email notification when this form is open. The main points to check are also summarized here.
 
-## Checking whether submissions should be desk-rejected
+## Checking whether submissions should be desk-rejected {#dr}
 
-As you are likely aware, major conferences currently struggle with an influx of **low-quality submissions**. In view of this, we ask you to consider aggressive desk rejections for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or "do not resubmit'). ARR submissions are expected to be ready for consideration for acceptance at a top-tier conference, and reviewer feedback is not meant as replacement for training that the authors should receive in their programs.
+As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. AC checklist is your opportunity to proactively recommend desk rejections for such submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or "do not resubmit'), or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
 
-Besides spammy submissions, a big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but our guests from other fields are still expected to make contributions to the host field (CL), and not primarily their own. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
+**Overall level.** For spammy submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs.
+
+A big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
 
 Depending on your track, the following may also be relevant:
 
@@ -201,9 +203,7 @@ If you do not recommend the paper for either the main conference or Findings, th
 
 **Reviews.** This part is the most-cut, since the reviews are comparably structured and you are already familiar with the reviewers' positions at this point. However, please consider also the author response, where available, and reported review issues that were justifiably flagged by authors (see below). Note that according to the [ACL anonymity policy](https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf) (see recommendation 'c' on p.2), **you should not rely on reviews where the reviewers were biased by the knowledge of the authors' identity**. To help you estimate that, the review forms contain the question 'Knowledge of/educated guess at author identity'.
 
-**Author response.** Please take into account both the criticisms and the author response to them. Often the reviewer criticisms are based simply on misunderstandings or missing some details in the papers. If the authors provided satisfactory clarifications, and the paper could be amended relatively easily, this is a case of minor revisions. Otherwise the meta-review should be clear what needs to be addressed in the resubmission.
-
-Sometimes authors and reviewers engage in very deep and long discussions, and it is not feasible for ACs to read all this. The instructions to both authors and reviewers currently say that we ask you to read at least 2 author responses per review thread.
+**Author response.** Please take into account both the criticisms and the author response to them. Often the reviewer criticisms are based simply on misunderstandings or missing some details in the papers. If the authors provided satisfactory clarifications, and the paper could be amended relatively easily, this is a case of minor revisions. Otherwise the meta-review should be clear what needs to be addressed in the resubmission. In response to abuse by many authors submitting impossibly long responses, which put too much strain on the ACs, we now [cap the author response to a single response per reviewer and a general response](/authors.md#author-response-step21).
 
 🆕 **Reported review issues.** Starting from October 2024, during author response, the authors will be able to flag problematic reviews for specific review issues in a new form. We ask you to check whether there were any such complaints in the paper forum. If there were, you need to consider whether they were reasonable. The authors are supposed to identify the type of the issue (marked as <span class='reviewIssue'>I1-12</span> provide justifications for why they think the reviewer violated the guidelines. Most of the possible review issues (except <span class='reviewIssue'>I5</span>,<span class='reviewIssue'>I8-9</span>,<span class='reviewIssue'>I11-12</span>) are specifically mentioned in the [reviewer guidelines](https://aclrollingreview.org/reviewerguidelines), and we provide the issue codes there so that you could easily search in the document and find the find the relevant section. Author form and instructions can be viewed [here](https://aclrollingreview.org/authors#step2.2). **You need to consider whether the complaint is reasonable and state that you either took the issue(s) into account in your meta-review, or that you did not find the complaint(s) justified**. The meta-review form contains new checkboxes for these options. If multiple issues are reported, and some are justified and some are not, please check both checkboxes. You are welcome (but not obligated) to also provide the authors a brief response to their complaint (there is a dedicated text field for that).
 
@@ -219,7 +219,9 @@ Also, keep in mind that resubmissions do not have a higher page limit for addres
 
 **Can I use AI assistants for summarizing the reviews and discussions?** Meta-reviews, discussions and reviews are confidential materials, and as such, per [ACL publication ethics policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship) they **should not be submitted to non-privacy-preserving third-party services** (i.e. those that may store and/or use input user data for third-party services). The use of privacy-preserving tools is also governed by that policy: it is permissible for language/input assistance, but you are fully responsible for the content. If you end up providing a certain recommendation because the automated summary simply missed a key aspect of reviews or author response (within the recommended discussion length), that will be your responsibility.
 
-## 🆕 Great reviews and unacceptable reviews {#review-flagging}
+## Great reviews and unacceptable reviews {#review-flagging}
+
+Great reviewers are [rewarded](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Reviewer_Awards_Policy): they receive certificates and free virtual registrations to \*CL conferences (up to 2.5% of all reviewers in the pool). Irresponsible reviewers may be [disqualified](/_posts/2026-09-11-sustainable-reviewing.md) from ARR service, which would limit their ability to submit to ARR venues unless someone else reviews for them.
 
 ### Reporting great/unacceptable reviews through the meta-review form {#metareview-form-flagging}
 
