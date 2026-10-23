@@ -5,21 +5,22 @@ permalink: reviewerguidelines
 redirect_from: /reviewertutorial
 ---
 
-The ARR peer review guidelines are a work-in-progress and will be updated as ARR evolves. Before starting an assignment, the reviewers should always check whether the [version](#changelog) they are familiar with is still the current one. The sections with significant recent updates are marked with 🆕.
+{% include admonition.html type="warning" title="Important changes!" body="These guidelines were updated for October'26 review cycle." %}
 
-{% include admonition.html type="warning" title="Important changes!" body="The current version of these guidelines will apply until August'26 review cycle, and will be updated afterwards to match the sustainable reviewing policy. The CFP and author submission checklist have already been updated. Read the [full announcement](/sustainable-reviewing-2026)." %}
+# 🆕 Reviewer qualifications and service requirements
 
-# 🆕 ACL policy on great and irresponsible reviewers & chairs
+There are two types of reviewers in ARR: the designated service contributors, which come nominated by the submission authors, and volunteer reviewers.
 
-**Great reviewers & chairs.** The biggest reward in performing peer review is helping your scientific field to develop further, and also getting to read the cutting-edge research in your area that may not yet be available anywhere. But now there's more than that. Starting from May 2025, ACL introduces the awards policy for reviewers & chairs (see more details [here](https://aclrollingreview.org/incentives2025)). In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference websites, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
+- Designated service contributors are part of the [sustainable revieweing policy](/_posts/2026-09-11-sustainable-reviewing.md). They are nominated by authors at submission time to support specific submissions, and must confirm their participation through [contributor form](/qualifications.md#contributor-faq) 
+- Volunteer reviewers are part of standing service pool, where participation is voluntary. They receive service invitations and may accept them when convenient. More details [here](/volunteers.md).
 
-Since peer reviewing is not often offered as a part of PhD school curriculum, ARR developed detailed guidelines and suggestions for each step of the process, including a list of common problems in both [reviews](#review-issues) and [NLP papers](#paper-issues) to watch out for. If you are junior, it may be a good idea to prepare the review earlier and ask more experienced people in your network for feedback. Some ACs may also offer feedback for reviews that come in good time.
+Both volunteers and designated contributors are supposed to be [qualified](/qualifications.md). The main difference is in the process through which they sign up, and expectations for [emergency declarations](#emergency) (designated contributors must provide a qualified and willing replacement). Volunteer reviewers have more freedom in selecting their load (see [here](/volunteers.md)). If a volunteer reviewer becomes a designated contributor in a specific review cycle via author nomination, their preferences as a volunteer are overridden by designated contributor settings.
 
-**Irresponsible reviewers and chairs.** Unfortunately, with the growing number of conference submissions, there have been more and more cases where reviewers or chairs sign up for service and then simply disappear without a [warning](https://aclrollingreview/reviewerguidelines#emergency), are [late without a warning](https://aclrollingreview/reviewerguidelines#delay), or submit (meta-)reviews that are completely unacceptable in their quality (e.g. extremely terse, unprofessional in tone, LLM-generated).
+# ARR service rewards and penalties
 
-Starting in October 2024, ARR provided the authors with the opportunity to report common issues with reviews (e.g. rude reviews, 'not novel' criticism without providing references, etc.) The ACs will see such reports, if any, judge their merit, and take them into account when writing the meta-review. A similar functionality has now been [developed](https://aclrollingreview.org/authors#step3.2) for meta-reviews, with author issue reports viewable for senior area chairs. Since the reviewer and AC guidelines may also seen by the authors during the response period, some sections of these guidelines now have codes for (meta-)review issues (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>) that can be reported by the authors. More details [here](https://aclrollingreview.org/authors#step2.2) and [here](https://aclrollingreview.org/authors#step3.2).
+**Great reviewers & chairs.** Starting from May 2025, ACL implements the [awards policy](https://www.aclweb.org/adminwiki/index.php/ACL_Conference_Reviewer_Awards_Policy) for reviewers & chairs. In short, the area chairs or senior area chairs may nominate the great reviewers, and senior chairs may also nominate area chairs who perform great service. The nominees will then receive more recognition during the ACL conferences (public lists on conference websites, special stickers for conference badges, more visibility in the program). They may also win a free virtual registration for an ACL event as an attendee (i.e. an event for which they would probably not have financial support of their organization).
 
-Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.org/incentives2025) on the 'highly irresponsible' (meta-)reviewers. The program chairs and ARR EiCs will consider the egregious cases reported by chairs (on their own judgement or based on author reports), including the cases of extremely terse reviews, unprofessional tone, and LLM-generated reviews. The 'highly irresponsible' reviewers or chairs may have their work desk-rejected from the current cycle, and ineligible for resubmission or commitment during the following ARR cycle. For review cycles associated with ACL conferences, this means that the papers of such reviewers cannot be committed to the upcoming conference. After the author response period ACs can report both great and irresponsible reviews via a [new form on reviews](./acguidelines.md#review-direct-flagging) or by listing the great/irresponsible reviewers [in the meta-review form](./acguidelines.md#metareview-form-flagging).
+**Irresponsible reviewers and chairs.** The 'highly irresponsible' reviewers or chairs will have their work desk-rejected from the current cycle, and they will be [disqualified from ARR service](/qualifications.md) for the following ARR cycle. This means that they would not be 'sponsor' their own submissions as designated contributors, and their work will go in the lottery for spare capacity, unless someone else provides service for them. Note that authors may assist chairs in identifying poor reviews by submitting [review issue reports](/authors#step2.2), referring to specific sections of these guidelines (<span class='reviewIssue'>I1</span>-<span class='reviewIssue'>I12</span>). Area chairs may directly [flag](./acguidelines.md#review-direct-flagging) specific problematic reviews.
 
 # What are the confidentiality and anonymity rules for reviewing?
 
@@ -36,18 +37,13 @@ Starting in May 2025, ARR also adopts the new [policy](https://aclrollingreview.
 
 Hence, we ask for the following workflow: (1) read the paper and get the first impression, (2) search for related work, not deliberately trying to find that particular submission. If you become aware or can guess the authors' identity, you should disclose that in the ARR review form, which contains questions about the reviewers' knowledge of author identity. In [some cases](#expertise-and-coi-check-can-you-review-these-papers) it is appropriate to ask for a reassignment.
 
-# ✅ **TASK 1. Allocate time in your calendar for both reviewing and discussion**
+# ✅ TASK 1. Allocate time in your calendar for both reviewing and updates in author response period
 
-When you accept the reviewing request for an ARR cycle, there will be a kick-off email from OpenReview listing the important dates for this cycle. Usually the email subject is *[ACL RR-(MONTH)] Reviewing period starts ... (DATE)*. 
+In the beginning of review cycle, there will be a kick-off email from OpenReview listing the important dates for this cycle. Usually the email subject is *[ACL RR-(MONTH)] Reviewing period starts ... (DATE)*. 
 
-Please block the time in your calendar for (1) checking the assignments, (2) working on the reviews, and (3) submitting them on time. The kick-off email will contain the timeline for your review cycle. Late reviews mean extra work for the AC and other volunteers — and the authors might not get a fair chance to respond.
+Please block the time in your calendar for (1) checking the assignments, (2) working on the reviews, (3) submitting them on time, and (4) updating them after author response, e.g. if the authors identified some major misunderstandings on your side. 
 
-How much time will you need for reviewing? That varies by reviewer, paper, and experience. A way of estimating it would be to calculate what your average time for (a) skimming + in-depth reading of a paper is that is as close to your area as the submission, (b) writing and editing about half a page of an article. Ideally, this would be spread over a few days, because the first-impression draft may be tainted by a knee-jerk reaction to the paper's methodology or results. Then, during the discussion period, you need to set aside some time to check the authors' response, discuss and/or update the review as needed.
-
-It would be a good idea to actually clock yourself doing the reviewing work from time to time, so that you know how long it takes (and how much variance there is), and plan accordingly next time.
-
-
-# ✅ **TASK 2. Assignment check** 
+# ✅ TASK 2. Assignment check {#checklist}
 
 ## Expertise and COI check: can you review these papers?
 
@@ -70,23 +66,23 @@ If you feel that this submission is a very bad match on one of these criteria, p
 
 ## Reviewer checklist: should these papers be reviewed or desk-rejected?
 
-Most of the desk rejects happen before the reviewing starts, because the program and area chairs do a cursory check for obvious issues prior to reviewer assignment. Still, only reviewers read the papers in-depth, and so they are also provided with a checklist to flag the problems that other people may have missed. For all your assignments you need to complete the [reviewer checklist](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.g29396624085_0_10), which asks you to consider the following issues that may qualify a paper for desk rejection. Please note that most of these do not require in-depth reading, and so this task should not in most cases require more than half an hour.   
+As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. At first the papers are checked by [ACs](/acguidelines.md#checklist), and we try to remove as many problematic papers as possible before they are seen by you. But it is possible that some are still in your batch, and so we provide you with the possibility to report them through a checklist form similar to AC checklist. **Especially if you can see that some of your papers do not have a completed AC checklist, please complete yours.** Doing this early could reduce your number of assignments to fully review!
 
-* **Appropriateness:** Is this submission appropriate for ARR? If in doubt, consider the scope described in [ARR CFP](https://aclrollingreview.org/cfp) and any relevant conferences (e.g. for October 2024 cycle the NAACL CFP specifies the special theme  ["NLP in a Multicultural World"](https://2025.naacl.org/calls/papers/).
-* **Hallucinated references or citations:** Please check carefully for hallucinated references, which pose a serious concern to scientific reliability.
-* **Anonymity violations.** As of January 2024, non-anonymous pre-prints are permitted for ARR, but [submissions should still be properly anonymized](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) (e.g., not containing explicit references to the authors' prior work, acknowledgements, links to non-anonymous repositories or services like Dropbox that may track who opened the link). 
-* **Style guides or length violations:** the paper should be desk-rejected if it does not follow the [style guides](https://acl-org.github.io/ACLPUB/formatting.html) or goes over the page limit (4 pages for short, 8 for long papers, excluding the ethical considerations and limitations).
-* **Missing Limitations section**
-* **Inappropriate responses to the [responsible NLP checklist](https://aclrollingreview.org/responsibleNLPresearch/).** Starting from December 2024, egregious violations of the checklist may qualify for desk rejections (e.g. some authors just say 'yes' for all questions, even for questions that do not apply to their work, or not provide any justifications when they are needed based on their responses). Minor honest mistakes can be excused (e.g. the information is provided in a different section than specified, due to some last-minute editing). The goal is not to check every single checklist entry (you will use the checklist during review, as appropriate, and may also indicate problems with it as part of your main review). At the checklist stage, the goal is to ensure whether the authors did provide a reasonable indication of where the answers to checklist questions can be found.
-* **Possible ethics issues.** Ethics issues are not grounds for desk rejection, but they can be grounds for sending the paper for an extra round of ethics reviewing. Here are the [guidelines](https://aclrollingreview.org/ethics-flagging-guidelines/) for identifying the kinds of papers that may need such an extra review. \
-If you flag a paper, you need to provide a justification. Otherwise, enter "None"
+At this stage you are not reading the paper in full yet. The checklist is an opportunity to proactively recommend desk rejections for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or "do not resubmit'), or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
 
-Additionally, papers are checked by ARR for the following:
+**Overall level.** For spammy submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform yet. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs.
 
-* **Dual submissions.** As a rule, submissions to ARR are not supposed to be under review anywhere else (unless specific exceptions are made due to notification date overlaps). This check is done by ARR, but if we missed it, and you happen to have seen the same paper in a concurrent review cycle elsewhere — please let us know.
-* **Extremely similar submissions.** Some authors send us submissions that significantly overlap in content. ARR checks for that, and it is not very likely that two such papers get assigned to the same reviewer. Still, if you see such papers — please let us know.
+A big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
 
-If you see such a case, please notify the AC by submitting an official comment (addressed to the AC, SAC and PCs). If you see something that you suspect to be a violation of publication ethics policy (e.g. plagiarism, violation of rules on generative AI, near-duplicate submissions, author misconduct), please alert the AC and SAC and coordinate the filing of [incident report process for the publication ethics committee](/acguidelines#pec) as necessary.
+Depending on your track, the following may also be relevant:
+
+- Resource/evaluation work based on synthetic data or LLM judges should have meaningful human validation (i.e. beyond cursory assessment by the authors themselves). Synthetic data may be the only option in e.g. security or biomedical domains, but where it is not necessary, evaluations are an easy slop recipe for spammers. They could just make up the metric and data, and ignore construct validity, and it is hard for junior reviewers to identify such cases.
+- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences.
+- Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
+
+These are only rough heuristics, you have full discretion for when they do not apply. 
+
+Additionally, papers are checked by chairs for double submissions to concurrent conferences. As a rule, submissions to ARR are not supposed to be under review anywhere else (unless specific exceptions are made due to notification date overlaps). If we missed it, and you happen to have seen the same paper in a concurrent review cycle elsewhere — please let us know.
 
 # ✅ **TASK 3. Write a strong review**
 
@@ -294,7 +290,9 @@ Judging whether a research paper is “good” is an objectively hard task, and 
 
 If you have something like the above listed as a “weakness” of the paper, do try to revisit the paper with an open mind. Both the authors and the ACs will be aware of these guidelines and can refer to them in discussion/meta-review.
 
+### REVAS tool
 
+ARR is currently experimenting with a review assistant tool, which you may optionally use to check for some common review issues: https://revas.mbzuai.ac.ae/. At present, it can help you to automatically identify if the review may exhibit some of the above review issues. 
 
 ## 🆕 4. Check for common problems in NLP papers {#paper-issues}
 
@@ -451,7 +449,7 @@ Note: reproducibility score refers to <em>reproducibility</em> (being able to ru
 
 ## 5. Check that your scores reflect the review <span class='reviewIssue'>I3</span>
 
-Starting with February 2025, ARR reviewers are asked to provide three scores: soundness, excitement, and overall recommendation. 
+ARR reviewers are asked to provide three scores: soundness, excitement, and overall recommendation. 
 
 <span class='reviewIssue'>I3</span> The *soundness* scores must be justified by the text of the review . If you give a low *Soundness* score without finding any major faults, this means that your review is not a faithful explanation of your recommendation, and you need to revise it. One possible reason for low soundness scores without sufficient justification could be reliance on some unconscious bias or heuristic, like the ones listed in the previous section. Likewise, low reproducibility scores should be justified.
 
@@ -471,12 +469,17 @@ Just like the conference coffee break chats, reviewing is in fact, mutually bene
 
 Not to mention, someone out there is reviewing your papers too. The more rude or dismissive reviews there are, the more of a norm they become, and the higher the chances you will get one yourself in the future.
 
+## What should I do if I find a serious problem late in review process? {#late-dr}
+
+You should still file the [reviewer checklist](#checklist) indicating the type of the problem that could warrant desk rejection. If this comes in time for chairs to confirm the problem and issue the desk reject before author response period, you will no longer have to review that submission. If any other reviews were already completed before desk rejection, the authors will have to resubmit, but they will still benefit from the feedback. It is also possible to edit the checklist you submitted before, if you find you missed something that should have been reported there.
+
+If the case is tricky, you may also initiate a discussion of the case among reviewers. If the desk reject case is not very clear, but there are serious content issues, it is also possible to simply give the paper a low score. The same applies in cases where you discover a serious methodological problem (e.g. p-hacking, superficial literature review).
 
 # ✅ **TASK 4. Update your assessment after the authors’ response and discussion** <span class='reviewIssue'>I11</span>
 
-## Discussion with the authors
+## Author response and updating the assessment
 
-A core feature of OpenReview that was welcomed by many in *CL community is the author discussion period with the reviewers. While reviewers are not obligated to participate, we ask that you **at least acknowledge the authors’ response**; in particular, we ask that you update your review taking into account any important clarifications the authors made and any violations of the reviewer guidelines the authors identified. You are probably well aware that, as an author, it is rather depressing to spend a lot of time carefully preparing responses to the reviews, only to see in the notification that the reviews did not change at all.
+Due to abuse on the side of the authors, ARR author response is currently limited to one response to each individual reviewer + one general response. In turn, reviewers are expected to **at least acknowledge the authors’ response**; in particular, we ask that you update your review taking into account any important clarifications the authors made and any violations of the reviewer guidelines the authors identified. You are probably well aware that, as an author, it is rather depressing to spend a lot of time carefully preparing responses to the reviews, only to see in the notification that the reviews did not change at all.
 
 * If you do not find the response convincing, please explain why. Then the authors will at least know that their response was not convincing (rather than just not read), and that is still useful information for improving their work. <br/> 
 E.g., *Update: the authors responded, but none of the issues were addressed sufficiently to change my assessment [adding briefly what you found unconvincing]*
@@ -484,15 +487,13 @@ E.g., *Update: the authors responded, but none of the issues were addressed suff
 E.g., *Update: the issues with X and Y were resolved in the discussion, and I updated my scores*.
 * If you would like to discuss something with the authors, you are encouraged to discuss it for as long as there's time, but please keep in mind that the AC is unlikely to read very long discussions (we ask them to read at least top 2 author responses per reviewer thread). We recommend asking for clarifications on the most important points first so that this information is more likely to be noticed by the AC.
 
+After the author discussion period ends, there is a short period of time for reviewers to finalize their reviews based on any responses from the authors and/or other reviews. The full timeline is communicated in the cycle emails. After the reviews are finalized, the authors can submit [review issue reports](./authors.md#step2.2).
+
 ## Discussion with other reviewers
 
-In ARR reviewer discussion happens throughout the process, i.e., both before reviews are sent to authors and after the authors respond. Any reviewer or the AC can initiate a discussion. Please respond and engage, particularly after the authors’ response has been submitted. The goal here is to catch any mistakes, misunderstandings, or violations of the reviewer guidelines.
+In ARR reviewer discussion may happen throughout the process, i.e., both before reviews are sent to authors and after the authors respond. Any reviewer or the AC can initiate a discussion. You can discuss the authors’ response, possible desk reject cases, etc.
 
 **Possible influence of other reviewers.** When you see the reviews by the other reviewers, be aware that they may affect your own judgment in several ways because of social psychology effects. If you pointed out a weakness and then saw it also pointed out by someone else, you may feel it is a more severe problem than you originally thought. You may “discard” your own opinion if you see the opinion of someone you believe to be more senior/experienced/famous. If your original opinion was very positive, in the face of a strongly negative review, you may be tempted to “converge to the mean” (or the other way round). Ask yourself if this is really warranted, and whether this may be reflecting some core dispute between approaches/methodologies etc. Strong disagreements may be an indication that the paper is doing something unusual and interesting.
-
-## Updating the assessment
-
-After the author discussion period ends, there is a short period of time for reviewers to finalize their reviews based on any responses from the authors and/or other reviews. The full timeline is communicated in the cycle emails. After the reviews are finalized, the authors can submit [review issue reports](./authors.md#step2.2).
 
 # How to review resubmissions
 
@@ -544,6 +545,14 @@ As a fresh reviewer, you should form your own opinion of the paper.  Note that y
 * For technical difficulties, errors, and generally in case of suspicious behavior of the OpenReview system, please contact the Tech team ([tech@aclrollingreview.org](mailto:tech@aclrollingreview.org));
 
 * For content-based questions (e.g., about the submissions themselves, doubts about reviewer tasks, etc.), please contact editors-in-chief at [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
+
+## Q: I'm new to reviewing, any tips?
+
+Overall, these guidelines cover each step of the process, including a list of common problems in both [reviews](#review-issues) and [NLP papers](#paper-issues) to watch out for. There is also the [REVAS review assistant](#revas) you can use to improve your review.
+
+If you are new to reviewing, it may be a good idea to prepare the review earlier and ask more experienced people in your network for feedback. Some ACs may also offer feedback for reviews that come in good time. As a [secondary reviewer](#secondary-reviewer), you are expected to be mentored by the primary reviewer.
+
+How much time will you need for reviewing? That varies by reviewer, paper, and experience. A way of estimating it would be to calculate what your average time for (a) skimming + in-depth reading of a paper is that is as close to your area as the submission, (b) writing and editing about half a page of an article. Ideally, this would be spread over a few days, because the first-impression draft may be tainted by a knee-jerk reaction to the paper's methodology or results. Then, during the discussion period, you need to set aside some time to check the authors' response, discuss and/or update the review as needed. It would be a good idea to actually clock yourself doing the reviewing work from time to time, so that you know how long it takes (and how much variance there is), and plan accordingly next time.
 
 ## Q: How to get assigned to papers that match your interests well? {#matching}
 
@@ -658,6 +667,7 @@ See [these guidelines](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt0
 
 ## Changelog {#changelog}
 
+- _22.10.2025_ Updates related to the [sustainable reviewing policy](/_posts/2026-09-11-sustainable-reviewing.md).
 - _01.05.2025_ Updates related to the [new ACL policies](https://aclrollingreview.org/incentives2025) on incentives in peer review.
 - _21.10.2024_ A major update based on ACL'23 edits (Anna Rogers, Jordan Boyd-Graber), internal ARR documentation, and [NeurIPS paper checklist](https://neurips.cc/public/guides/PaperChecklist). Includes new guidlines related to ACL [publication ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics) and [anonymity](https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy) rules, guidance for requesting experiments involving closed-source LLMs, new section on common problems in NLP papers, and codes for common review issues that can be flagged by reviewers. Feedback from Michael White, Noah Smith, Mausam, Marzena Karpinska.
 - _15.05.2024_ Anonymity policy updates
