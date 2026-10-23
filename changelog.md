@@ -16,6 +16,8 @@ One major benefit of ARR is that we can steadily improve the peer review process
 # October 2026
 
 * ARR qualificaction checker (lead: Harold)
+* new responsible NLP checklist form, that finally supports branching (lead: Harold)
+* automated checkers for many formatting problems (lead: Sarv, with help from Roy in peer review committee)
 * Updating author/reviewer/chair documentation for the sustainable reviewing policy (lead: Anna)
 * Implementing the lottery (leads: Giovanni, Yuntian)
 * Updating the list of qualifying venues (lead: Anna, with input from all EiCs and peer review committee)
