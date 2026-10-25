@@ -76,8 +76,7 @@ A big problem in this and past cycles is **out-of-scope submissions**. Unfortuna
 
 Depending on your track, the following may also be relevant:
 
-- Resource/evaluation work based on synthetic data or LLM judges should have meaningful human validation (i.e. beyond cursory assessment by the authors themselves). Synthetic data may be the only option in e.g. security or biomedical domains, but where it is not necessary, evaluations are an easy slop recipe for spammers. They could just make up the metric and data, and ignore construct validity, and it is hard for junior reviewers to identify such cases.
-- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences.
+- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences. For example, rather than code generation itself, the focus could be on the 'translation' from natural language formulation into code.
 - Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
 
 These are only rough heuristics, you have full discretion for when they do not apply. 

@@ -27,14 +27,15 @@ For each submission, you will also need to **complete the AC checklist**. You wi
 
 As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. AC checklist is your opportunity to proactively recommend desk rejections for such submissions that would likely end up with very low scores, or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
 
+At this stage you are not reading the paper in full yet. The checklist is an opportunity to proactively recommend desk rejections for submissions that would likely receive very low scores, or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
+
 **Overall level.** For low-quality submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs. Please use this option for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or 'do not resubmit').
 
 A big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
 
 Depending on your track, the following may also be relevant:
 
-- Resource/evaluation work based on synthetic data or LLM judges should have meaningful human validation (i.e. beyond cursory assessment by the authors themselves). Synthetic data may be the only option in e.g. security or biomedical domains, but where it is not necessary, evaluations are an easy slop recipe for spammers. They could just make up the metric and data, and ignore construct validity, and it is hard for junior reviewers to identify such cases.
-- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences.
+- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences. For example, rather than code generation itself, the focus could be on the 'translation' from natural language formulation into code.
 - Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
 
 These are only rough heuristics, you have full discretion for when they do not apply. 

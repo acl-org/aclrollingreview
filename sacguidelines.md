@@ -77,9 +77,11 @@ Many ACs are serving as [designated service contributors](/_posts/2026-09-11-sus
 
 ### Verifying desk reject cases {#desk-rejects}
 
-As you are no doubt aware, conferences are currently struggling with a large influx of submissions, not all of which merit full review. ARR has taken a number of steps to address this problem, including via the sustainable reviewing policy that not only caps submissions, but also requires designated service contributors to vouch for their quality. Systematic abuse will be investigated and subject to publication ethics sanctions. More details are available [here](/_posts/2026-09-11-sustainable-reviewing.md). 
+As you are no doubt aware, conferences are currently struggling with a large influx of submissions, not all of which merit full review. ARR has taken a number of steps to address this problem, including via the sustainable reviewing policy that not only caps submissions, but also requires designated service contributors to vouch for their quality. Systematic abuse will be investigated and subject to publication ethics sanctions. More details are available [here](/_posts/2026-09-11-sustainable-reviewing.md).
 
 However, we should still expect to see problematic submissions, which is why the [AC checklist](/acguidelines.md#dr) prompts ACs to report cases that could merit desk rejection for a number of common reasons, including formatting, anonymity breaches, salami slicing, AI spam etc.
+
+ARR will handle most of the reported causes for desk rejection, but we need your help with two types of issues where judgement is particularly needed: **submissions that are overall too low quality, and out-of-scope submissions.** When such a case is identified by ACs or reviewers, you will receive a notification, and indicate whether you agree with the issues identified by the ACs. Where there is agreement, the desk rejection will be confirmed and verified by ARR. The cases of slop may be difficult to adjudicate without a careful reading, but this mechanism provides us the option to deal with at least the obvious spam cases, as well as out-of-scope cases.
 
 **Overall level.** For low-quality submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs. Please use this option for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or 'do not resubmit').
 
@@ -87,13 +89,10 @@ A big problem in this and past cycles is **out-of-scope submissions**. Unfortuna
 
 Depending on your track, the following may also be relevant:
 
-- Resource/evaluation work based on synthetic data or LLM judges should have meaningful human validation (i.e. beyond cursory assessment by the authors themselves). Synthetic data may be the only option in e.g. security or biomedical domains, but where it is not necessary, evaluations are an easy slop recipe for spammers. They could just make up the metric and data, and ignore construct validity, and it is hard for junior reviewers to identify such cases.
-- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences.
+- Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences. For example, rather than code generation itself, the focus could be on the 'translation' from natural language formulation into code.
 - Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
 
 These are only rough heuristics, you have full discretion for when they do not apply. 
-
-When ACs have submitted the checklists, we will notify you to highlight which papers in your batch need your attention, and indicate whether you agree with the issues identified by the ACs. Where there is agreement, the submission will be desk rejected. The cases of slop may be difficult to adjudicate without a careful reading, but this mechanism provides us the option to deal with at least the obvious spam cases, as well as out-of-scope cases. 
 
 ## ✅ TASK 3: Helping to chase reviewers {#emergency-reviews}
 
