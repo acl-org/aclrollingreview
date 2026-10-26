@@ -64,20 +64,28 @@ The third check is on **academic conflicts of interest**. If the submission look
 If you feel that this submission is a very bad match on one of these criteria, please [contact your AC](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.gfd16cb95ca_3_0).
 
 
-## Reviewer checklist: should these papers be reviewed or desk-rejected?
+## Reviewer checklist: should these papers be reviewed or desk-rejected? {#dr}
 
-As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. At first the papers are checked by [ACs](/acguidelines.md#checklist), and we try to remove as many problematic papers as possible before they are seen by you. But it is possible that some are still in your batch, and so we provide you with the possibility to report them through a checklist form similar to AC checklist. **Especially if you can see that some of your papers do not have a completed AC checklist, please complete yours.** Doing this early could reduce your number of assignments to fully review!
+As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. At ARR, first the papers are checked by [ACs](/acguidelines.md#checklist), and we try to remove as many problematic papers as possible before they are seen by you. But it is possible that some are still in your batch, and so we provide you with the possibility to report them through a checklist form similar to AC checklist. **Especially if you can see that some of your papers do not have a completed AC checklist, please complete yours.** 
 
-At this stage you are not reading the paper in full yet. The checklist is an opportunity to proactively recommend desk rejections for submissions that would likely receive very low scores, or would have to be desk rejected for technical reasons (e.g. formatting, deanonymization). 
+Doing checklists early could reduce your number of assignments to fully review, but only if you do this early: **if the motion to desk reject was filed less than a week to submission deadline, you are still expected to perform the reviews**, under any non-compliance sanctions that may apply to your service role. At this stage you are not reading the paper in full yet. The checklist is an opportunity to proactively recommend desk rejections for submissions that would likely receive very low scores, or would have to be desk rejected for technical issues.
+
+**The technical issues (formatting, deanonymization, salami slicing, responsible checklist issues, problematic references) only need to be reported, and then the case will be handled by the editors.** 
+
+Two kinds of issues need more discussion: **submissions that are too poor quality to proceed further, and submissions that are out of scope for the \*CL conferences.** Here we ask the committee for the paper to **both report these issues and discuss between yourselves to provide your reasoning and see if you agree.** When a chair or a reviewer files a checklist item with one of these issues, a notification will be triggered for everyone participating in the forum. SACs in particular must indicate their stance, and where they confirm that desk reject should be considered - ARR EiCs and conference PCs will make the final decision. 
+
+Please respond to the checklist message in the forum, indicating whether you support the motion to desk reject and why, using the new 'checklist comment' button on the checklist that initially proposed desk rejection. 
+
+<!--TODO screenshot for how to do this-->
 
 **Overall level.** For low-quality submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs. Please use this option for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or 'do not resubmit').
 
-A big problem in this and past cycles is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
+Another big problem is **out-of-scope submissions**. Unfortunately, many authors appear to mistake CL conferences for generic machine learning venues. We welcome interdisciplinarity, but we still expect that the primary contribution of ARR submissions is to the field of NLP, and not mainly the field from which the interdisciplinary work originates. One rule of thumb is that even interdisciplinary contributions should have a substantial proportion of references from the host community (CL).
 
-Depending on your track, the following may also be relevant:
+Depending on your track, the following may also be relevant for out-of-scope submissions:
 
 - Work on multimodality, coding models, or symbolic reasoning should still have the human language component as a key target of modeling/analysis. Simply using LLMs for solving a non-NLP problem is not enough. Such work should go to generic ML conferences. For example, rather than code generation itself, the focus could be on the 'translation' from natural language formulation into code.
-- Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in natural language evaluations (again, synthetic data is expected to be validated). 
+- Work on ML, efficiency, security, agents, applications, interpretability should clearly make a contribution to processing of human language. This means that the utility of any proposed methods should be shown in *natural* language evaluations. Where the evaluations are language-based but purely synthetic without a good justification (e.g. in medical data, psycholinguistic stimuli), this is not by itself out of scope, but may merit a low overall assessment. 
 
 These are only rough heuristics, you have full discretion for when they do not apply. 
 
