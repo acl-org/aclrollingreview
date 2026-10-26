@@ -75,7 +75,7 @@ If the AC is unresponsive, that may suggest that they may not do the necessary w
 Many ACs are serving as [designated service contributors](/_posts/2026-09-11-sustainable-reviewing.md). Overall, this means that they are obligated to perform their tasks, and if they have an emergency, they must file a notification via the [emergency form](/reviewerguidelines.md#emergency) and provide a qualified and willing replacement. The same applies to the reviewers serving as designated service contributors. We are working on a way to identify visually in the OpenReview interface which ACs/reviewers serve in that capacity.
 <!--TODO add badges-->
 
-### Verifying desk reject cases {#desk-rejects}
+### Verifying and proposing desk reject cases {#desk-rejects}
 
 As you are no doubt aware, conferences are currently struggling with a large influx of submissions, not all of which merit full review. ARR has taken a number of steps to address this problem, including via the sustainable reviewing policy that not only caps submissions, but also requires designated service contributors to vouch for their quality. Systematic abuse will be investigated and subject to publication ethics sanctions. More details are available [here](/_posts/2026-09-11-sustainable-reviewing.md).
 
@@ -84,6 +84,8 @@ However, we should still expect to see submissions that should not proceed furth
 ARR will handle most of the technical causes for desk rejection: formatting, deanonymization, salami slicing, responsible checklist issues, problematic references. We need your help with two types of issues where judgement is particularly needed: **submissions that are overall too low quality, and out-of-scope submissions.** Please see the [guidance provided to reviewers and area chairs](/reviewerguidelines#dr) for when these kinds of issues should be flagged. As the most experienced and senior members of the community, your expertise is invaluable here. 
 
 Everyone participating in the forum for a given paper will receive a notification when someone flags a paper as too-low-quality or out-of-scope. SACs are responsible for confirming each such case (via the new 'checklist comment' button on the checklist that proposed desk rejection). Where you confirm that a submission should be considered for desk rejection, the case will be sent to the editors and/or conference PCs to take action.
+
+We are also working on adding the possibility for SACs to file their own checklists to propose desk rejects.
 
 ## ✅ TASK 3: Helping to chase reviewers {#emergency-reviews}
 
