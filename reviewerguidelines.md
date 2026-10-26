@@ -74,7 +74,7 @@ Doing checklists early could reduce your number of assignments to fully review, 
 
 Two kinds of issues need more discussion: **submissions that are too poor quality to proceed further, and submissions that are out of scope for the \*CL conferences.** Here we ask the committee for the paper to **both report these issues and discuss between yourselves to provide your reasoning and see if you agree.** When a chair or a reviewer files a checklist item with one of these issues, a notification will be triggered for everyone participating in the forum. SACs in particular must indicate their stance, and where they confirm that desk reject should be considered - ARR EiCs and conference PCs will make the final decision. 
 
-Please respond to the checklist message in the forum, indicating whether you support the motion to desk reject and why, using the new 'checklist comment' button on the checklist that initially proposed desk rejection. 
+Please respond to the checklist message in the forum, indicating whether you support the motion to desk reject and why, using the new 'checklist comment' button on the checklist that initially proposed desk rejection. If you already submitted a checklist, and then found a problem that should have been reported there - it is possible to edit the checklist you already submitted.
 
 <!--TODO screenshot for how to do this-->
 
