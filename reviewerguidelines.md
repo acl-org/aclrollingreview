@@ -64,9 +64,9 @@ The third check is on **academic conflicts of interest**. If the submission look
 If you feel that this submission is a very bad match on one of these criteria, please [contact your AC](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.gfd16cb95ca_3_0).
 
 
-## Reviewer checklist: should these papers be reviewed or desk-rejected? {#dr}
+## 🆕 Should these papers be reviewed or desk-rejected? {#dr}
 
-As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. At ARR, first the papers are checked by [ACs](/acguidelines.md#checklist), and we try to remove as many problematic papers as possible before they are seen by you. But it is possible that some are still in your batch, and so we provide you with the possibility to report them through a checklist form similar to AC checklist. **Especially if you can see that some of your papers do not have a completed AC checklist, please complete yours.** 
+As you are likely aware, major conferences currently struggle with an influx of submissions, not all of which merits full review. At ARR, first the papers are checked by [ACs](/acguidelines.md#checklist), and we try to remove as many problematic papers as possible before they are seen by you. But it is possible that some are still in your batch, and so we provide you with the possibility to report them through a checklist form similar to AC checklist. **Especially if you can see that some of your papers do not have a completed AC checklist, please complete yours.** To submit your checklist, open the page of the submission you were assigned, and click on the 'reviewer checklist' button.
 
 Doing checklists early could reduce your number of assignments to fully review, but only if you do this early: **if the motion to desk reject was filed less than a week to submission deadline, you are still expected to perform the reviews**, under any non-compliance sanctions that may apply to your service role. At this stage you are not reading the paper in full yet. The checklist is an opportunity to proactively recommend desk rejections for submissions that would likely receive very low scores, or would have to be desk rejected for technical issues.
 
@@ -76,7 +76,7 @@ Two kinds of issues need more discussion: **submissions that are too poor qualit
 
 Please respond to the checklist message in the forum, indicating whether you support the motion to desk reject and why, using the new 'checklist comment' button on the checklist that initially proposed desk rejection. It is called 'area chair checklist comment' for ACs, and 'reviewer checklist comment' for reviewers.
 
-![alt_text](images/guidelines/AC-checklst-comment.png "checklist comment")
+![alt_text](images/guidelines/AC-checklist-comment.png "checklist comment")
 
 **Overall level.** For low-quality submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs. Please use this option for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or 'do not resubmit').
 
@@ -89,7 +89,7 @@ Depending on your track, the following may also be relevant for out-of-scope sub
 
 These are only rough heuristics, you have full discretion for when they do not apply. 
 
-Additionally, papers are checked by chairs for double submissions to concurrent conferences. As a rule, submissions to ARR are not supposed to be under review anywhere else (unless specific exceptions are made due to notification date overlaps). If we missed it, and you happen to have seen the same paper in a concurrent review cycle elsewhere — please let us know.
+**I've seen this paper submitted elsewhere, should I report it?** As a rule, submissions to ARR are not supposed to be under review anywhere else (unless specific exceptions are made due to notification date overlaps). All submissions are pre-checked by chairs for double submissions to concurrent conferences. If we missed it, and you happen to have seen the same paper in a concurrent review cycle elsewhere — please let us know.
 
 **Should I still review a submission if it has been suggested for desk rejection?** You should still plan to complete the review for that paper, until the desk rejection is confirmed by the chairs. The earlier the desk rejection is suggested, the more time the chairs will have for this, and the higher the chance that you will not have to review this submission.
 
