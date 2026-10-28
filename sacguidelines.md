@@ -81,11 +81,13 @@ As you are no doubt aware, conferences are currently struggling with a large inf
 
 However, we should still expect to see submissions that should not proceed further in the review process. This is why both ACs and reviewers are instructed to file a checklist, prompting them to report cases that could merit desk rejection for a number of common reasons.
 
-ARR will handle most of the technical causes for desk rejection: formatting, deanonymization, salami slicing, responsible checklist issues, problematic references. We need your help with two types of issues where judgement is particularly needed: **submissions that are overall too low quality, and out-of-scope submissions.** Please see the [guidance provided to reviewers and area chairs](/reviewerguidelines#dr) for when these kinds of issues should be flagged. As the most experienced and senior members of the community, your expertise is invaluable here. 
+ARR will handle most of the technical causes for desk rejection: formatting, deanonymization, salami slicing, responsible checklist issues, problematic references. We need your help with two types of issues where judgement is particularly needed: **submissions that are overall too low quality, and out-of-scope submissions.** Please see the [guidance provided to reviewers and area chairs](/reviewerguidelines#dr) for when these kinds of issues should be flagged. As the most experienced and senior members of the community, your expertise is invaluable here.
 
 Everyone participating in the forum for a given paper will receive a notification when someone flags a paper as too-low-quality or out-of-scope. SACs are responsible for confirming each such case (via the new 'checklist comment' button on the checklist that proposed desk rejection). Where you confirm that a submission should be considered for desk rejection, the case will be sent to the editors and/or conference PCs to take action.
 
-We are also working on adding the possibility for SACs to file their own checklists to propose desk rejects.
+You can now also propose papers for desk rejection on your own! Use the new SAC checklist button, the content is the same as in the reviewer and AC checklists.
+
+![alt_text](images/guidelines/sac-checklist.png "SAC checklist button")
 
 ## ✅ TASK 3: Helping to chase reviewers {#emergency-reviews}
 

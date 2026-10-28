@@ -74,9 +74,9 @@ Doing checklists early could reduce your number of assignments to fully review, 
 
 Two kinds of issues need more discussion: **submissions that are too poor quality to proceed further, and submissions that are out of scope for the \*CL conferences.** Here we ask the committee for the paper to **both report these issues and discuss between yourselves to provide your reasoning and see if you agree.** When a chair or a reviewer files a checklist item with one of these issues, a notification will be triggered for everyone participating in the forum. SACs in particular must indicate their stance, and where they confirm that desk reject should be considered - ARR EiCs and conference PCs will make the final decision. 
 
-Please respond to the checklist message in the forum, indicating whether you support the motion to desk reject and why, using the new 'checklist comment' button on the checklist that initially proposed desk rejection. If you already submitted a checklist, and then found a problem that should have been reported there - it is possible to edit the checklist you already submitted.
+Please respond to the checklist message in the forum, indicating whether you support the motion to desk reject and why, using the new 'checklist comment' button on the checklist that initially proposed desk rejection. It is called 'area chair checklist comment' for ACs, and 'reviewer checklist comment' for reviewers.
 
-<!--TODO screenshot for how to do this-->
+![alt_text](images/guidelines/AC-checklst-comment.png "checklist comment")
 
 **Overall level.** For low-quality submissions, this step focuses on the obvious cases. Unfortunately, sometimes this is hard to tell without a full careful read, which you are not expected to perform. But if you have an obvious case, it is possible to quickly report it at this stage. Submissions with too low overall level may not necessarily be generated, but clearly not ready to be ready for consideration for acceptance at a top-tier conference. Reviewer feedback is not meant as replacement for training that the authors should receive in their programs. Please use this option for submissions that would likely end up with meta-review scores 1.5 or below ('resubmit after 1 cycle' with substantial revisions, or 'do not resubmit').
 
@@ -90,6 +90,10 @@ Depending on your track, the following may also be relevant for out-of-scope sub
 These are only rough heuristics, you have full discretion for when they do not apply. 
 
 Additionally, papers are checked by chairs for double submissions to concurrent conferences. As a rule, submissions to ARR are not supposed to be under review anywhere else (unless specific exceptions are made due to notification date overlaps). If we missed it, and you happen to have seen the same paper in a concurrent review cycle elsewhere — please let us know.
+
+**Should I still review a submission if it has been suggested for desk rejection?** You should still plan to complete the review for that paper, until the desk rejection is confirmed by the chairs. The earlier the desk rejection is suggested, the more time the chairs will have for this, and the higher the chance that you will not have to review this submission.
+
+**What if I already submitted the checklist and then found a serious problem?** If you already submitted a checklist, and then found a problem that should have been reported there - it is possible to edit the checklist you already submitted.
 
 # ✅ **TASK 3. Write a strong review**
 
