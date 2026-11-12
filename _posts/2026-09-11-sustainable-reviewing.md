@@ -12,11 +12,11 @@ TLDR: ARR faces a reviewing crisis: submissions are growing far faster than revi
 
 **The proposal:** Cap reviewed submissions to available reviewer capacity. Each submission must "pay" for itself by providing a qualified service contributor (reviewer or chair), who must vouch that the submission is ready for consideration for acceptance at a top-tier conference. The service contributor thereby also plays the role of paper *nominator* in the sense of [Church et al. (2025)](https://aclanthology.org/2025.coling-main.242/): in order to offset the reviewing load imposed by the nomination, nominators agree to review five papers (or meta-review 8 papers) for each paper they nominate. Submissions without service capacity go into a lottery for whatever spare capacity remains. Service from qualified contributors counts towards the venue capacity, and a mentorship system will be built up for those not qualified yet. If a qualified service contributor is not available among the authors, non-author designated contributors can be listed, who must likewise vouch for the quality of the work (i.e., non-author service contributors also play the role of paper nominators).  Measures for system abuse will be implemented. For example, accounts that systematically submit or endorse low-quality work, and accounts that misuse the system in other ways, will be penalized or even banned. Additionally, per-author quotas are introduced, where authors are capped at 20 total submissions and 5 first-author (including shared first-author) submissions per cycle.
 
-**Offsetting measures:** to keep things as inclusive as possible, reviewer qualification criteria are being broadened (already implemented in Aug 2026), with further proposals for a manual application path for those with equivalent experience, a mentor-matching program for newcomers, and a certification path to let experienced secondary reviewers become fully qualified.
+**Offsetting measures:** To keep things as inclusive as possible, reviewer qualification criteria are being broadened (already implemented in Aug 2026), with further proposals for a manual application path for those with equivalent experience, a mentor-matching program for newcomers, and a certification path to let experienced secondary reviewers become fully qualified.
 
 Please see the [full policy proposal](https://www.aclweb.org/portal/sites/default/files/ACL%20sustainable%20reviewing%20policy_2026.pdf) for more details.
 
-The new reviewer qualifications, capping of reviewing to available capacity, AND requirements for all authors to have completed OpenReview profiles including ORCiD come into effect immediately, and will apply to submissions to NAACL and COLING 2026 (ARR submission deadline - October 12). 
+The new reviewer qualifications, capping of reviewing to available capacity, AND requirements for all authors to have completed OpenReview profiles including ORCiD come into effect immediately, and will apply to submissions to NAACL and COLING 2026 (ARR submission deadline: October 12). 
 
 We advise the following steps for those who are planning to make a submission for NAACL/COLING:
 
@@ -29,8 +29,7 @@ We advise the following steps for those who are planning to make a submission fo
 
 See [this page](https://aclrollingreview.org/qualifications) for the most current ARR service qualifications criteria and instructions for how to check the qualifications.
 
-ACL Peer Review Standing Committee
-https://www.aclweb.org/portal/content/acl-peer-review-standing-committee
+[ACL Peer Review Standing Committee](https://www.aclweb.org/portal/content/acl-peer-review-standing-committee)
 
 # Frequently Asked Questions
 
