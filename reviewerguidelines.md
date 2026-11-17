@@ -508,7 +508,7 @@ In ARR reviewer discussion may happen throughout the process, i.e., both before 
 
 # How to review resubmissions
 
-Papers that are resubmissions have a link in the “Previous URL" field in the metadata, and it should point to the previous submission. 
+Papers that are resubmissions have a link in the “Previous URL" field in the metadata, and it should point to the previous submission.  Fresh reviewers (as described below) will not have access to this link until after they complete their review.
 
 {% include admonition.html type="warning" title="Beware of papers desk-rejected for anonymity issues!" body="In some cases the previous submission was desk rejected. If so, there will be a comment from the editors at the top of the forum, stating the reason for the desk rejection. Please note what it was. If it was due to anonymity violations, please avoid looking at the pdf of the previous submission to not accidentally discover the identity of the authors." %}
 
